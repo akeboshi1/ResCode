@@ -1,0 +1,17 @@
+{
+  "name": "paipai-res",
+  "version": "1.0.0",
+  "main": "publish-remoteRes.js",
+  "scripts": {
+    "publish:dev": "node publish-remoteRes.js development",
+    "publish:prod": "node publish-remoteRes.js production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "ssh2": "^1.17.0",
+    "ssh2-sftp-client": "^12.1.0"
+  }
+}

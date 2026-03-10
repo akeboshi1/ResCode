@@ -1,38 +1,116 @@
-### 3 分钟了解如何进入开发
+### 项目介绍
 
-欢迎使用云效代码管理 Codeup，通过阅读以下内容，你可以快速熟悉 Codeup ，并立即开始今天的工作。
+本仓库 `paipai-res` 用于管理 Cocos 项目的远程资源，并提供一套基于 Node.js 的**远程资源发布工具链**，支持：
 
-### 提交**文件**
+- **SFTP 上传到远程服务器**
+- **远端自动解压覆盖资源**
+- **增量发布（只上传本次有改动的资源）**
+- **多环境发布（development / production）**
 
-Codeup 支持两种方式进行代码提交：网页端提交，以及本地 Git 客户端提交。
+### 目录与配置约定
 
-* 如需体验本地命令行操作，请先安装 Git 工具，安装方法参见[安装Git](https://help.aliyun.com/document_detail/153800.html)。
+- **`res_remote/`**：本地待发布的远程资源根目录（图片、音频、配置等）。
+- **`sftp-config.json`**：SFTP 连接与远程目录配置，示例结构如下：
 
-* 如需体验 SSH 方式克隆和提交代码，请先在平台账号内配置 SSH 公钥，配置方法参见[配置 SSH 密钥](https://help.aliyun.com/document_detail/153709.html)。
+  ```json
+  {
+    "sftp": {
+      "host": "47.103.82.48",
+      "port": 22,
+      "username": "dev",
+      "password": "xxx",
+      "remoteRoot": {
+        "development": "/var/www/kele/",
+        "production": "/var/www/colapai/app/"
+      }
+    }
+  }
+  ```
 
-* 如需体验 HTTP 方式克隆和提交代码，请先在平台账号内配置克隆账密，配置方法参见[配置 HTTPS 克隆账号密码](https://help.aliyun.com/document_detail/153710.html)。
+- **`.res_remote_manifest.json`**：发布脚本自动生成/更新，用于记录上一次发布时 `res_remote` 下所有文件的时间戳和大小，用于增量发布对比。
 
-现在，你可以在 Codeup 中提交代码文件了，跟着文档「[__提交第一行代码__](https://help.aliyun.com/document_detail/153707.html?spm=a2c4g.153710.0.0.3c213774PFSMIV#6a5dbb1063ai5)」一起操作试试看吧。
+### 发布脚本说明
 
-<img src="https://img.alicdn.com/imgextra/i3/O1CN013zHrNR1oXgGu8ccvY_!!6000000005235-0-tps-2866-1268.jpg" width="100%" />
+- **核心脚本**：`publish-remoteRes.js`
 
+主要流程：
 
-### 进行代码检测
+1. 读取 `sftp-config.json`，根据命令行参数或 `NODE_ENV` 判断当前环境（`development` / `production`）。
+2. 扫描 `res_remote/`，生成当前文件清单（相对路径 + `mtimeMs` + `size`）。
+3. 读取 `.res_remote_manifest.json`（如不存在视为首次全量发布），对比得到**有变更的文件列表**。
+4. 将**有变更的文件**按原相对路径打包成 zip，文件名中带有时间后缀（精确到分钟），例如：
+   - `res_remote_development_20260310_1423.zip`
+5. 通过 `ssh2-sftp-client` 将 zip 上传到对应环境的 `remoteRoot` 目录。
+6. 通过 `ssh2` 连接服务器，在远程执行：
+   - `cd <remoteRoot>`
+   - `unzip -o <zip文件名>` 覆盖解压
+   - `rm -f <zip文件名>` 删除压缩包
+7. 更新本地 `.res_remote_manifest.json`，作为下一次增量发布的基线。
 
-开发过程中，为了更好的维护你的代码质量，你可以开启 Codeup 内置开箱即用的「[代码检测服务](https://help.aliyun.com/document_detail/434321.html)」，开启后提交或合并请求的变更将自动触发检测，识别代码编写规范和安全漏洞问题，并及时提供结果报表和修复建议。
+> 注意：脚本依赖服务器上已安装 `unzip` 命令，并且对 `remoteRoot` 目录有写权限。
 
-<img src="https://img.alicdn.com/imgextra/i2/O1CN01BRzI1I1IO0CR2i4Aw_!!6000000000882-0-tps-2862-1362.jpg" width="100%" />
+### NPM 指令
 
-### 开展代码评审
+`package.json` 中已经配置了两个常用发布指令：
 
-功能开发完毕后，通常你需要发起「[代码评审并执行合并](https://help.aliyun.com/document_detail/153872.html)」，Codeup 支持多人协作的代码评审服务，你可以通过「[保护分支设置合并规则](https://help.aliyun.com/document_detail/153873.html?spm=a2c4g.203108.0.0.430765d1l9tTRR#p-4on-aep-l5q)」策略及「[__合并请求设置__](https://help.aliyun.com/document_detail/153874.html?spm=a2c4g.153871.0.0.3d38686cJpcdJI)」对合并过程进行流程化管控，同时提供在线代码评审及冲突解决能力，让评审过程更加流畅。
+- **发布到 development 环境**
 
-<img src="https://img.alicdn.com/imgextra/i1/O1CN01MaBDFH1WWcGnQqMHy_!!6000000002796-0-tps-2592-1336.jpg" width="100%" />
+  ```bash
+  npm run publish:dev
+  ```
 
-### 成员协作
+  等价于：
 
-是时候邀请成员一起编写卓越的代码工程了，请点击左下角「成员」邀请你的小伙伴开始协作吧！
+  ```bash
+  node publish-remoteRes.js development
+  ```
 
-### 更多
+- **发布到 production 环境**
 
-Git 使用教学、高级功能指引等更多说明，参见[Codeup帮助文档](https://help.aliyun.com/document_detail/153402.html)。
+  ```bash
+  npm run publish:prod
+  ```
+
+  等价于：
+
+  ```bash
+  node publish-remoteRes.js production
+  ```
+
+### 首次使用步骤
+
+1. **安装依赖**
+
+   在项目根目录执行：
+
+   ```bash
+   npm install
+   ```
+
+2. **配置 SFTP**
+
+   根据实际服务器信息修改 `sftp-config.json` 中的：
+
+   - `host` / `port`
+   - `username` / `password`
+   - `remoteRoot.development` / `remoteRoot.production`
+
+3. **准备资源目录**
+
+   将需要作为远程资源的文件放入 `res_remote/` 目录下，保持你期望的目录结构。
+
+4. **执行首次发布**
+
+   ```bash
+   npm run publish:dev
+   # 或
+   npm run publish:prod
+   ```
+
+   首次没有历史清单，会被视为全量发布，之后再执行就会仅上传有变更的文件。
+
+### 注意事项
+
+- **不要手动编辑 `.res_remote_manifest.json`**，该文件由脚本自动维护。
+- 如需“强制全量重传”，可以删除 `.res_remote_manifest.json` 后再执行发布指令。
+- 如服务器不支持 `unzip` 或解压命令有差异，可以根据实际情况调整 `publish-remoteRes.js` 中的远程命令。
