@@ -1,0 +1,487 @@
+{
+    "running": {
+        "name": "跑步声",
+        "duration": "5",
+        "path": "music/question/running"
+    },
+    "walking": {
+        "name": "走路声",
+        "duration": "5",
+        "path": "music/question/walking"
+    },
+    "stomach": {
+        "name": "肚子叫",
+        "duration": "5",
+        "path": "music/question/stomach"
+    },
+    "camera": {
+        "name": "相机",
+        "duration": "4.28",
+        "path": "music/question/camera"
+    },
+    "ambulance": {
+        "name": "救护车",
+        "duration": "4.22",
+        "path": "music/question/ambulance"
+    },
+    "broadcast": {
+        "name": "广播声",
+        "duration": "5",
+        "path": "music/question/broadcast"
+    },
+    "blizzard": {
+        "name": "暴风雪",
+        "duration": "4.28",
+        "path": "music/question/blizzard"
+    },
+    "zipper": {
+        "name": "拉链声",
+        "duration": "4.2",
+        "path": "music/question/zipper"
+    },
+    "match": {
+        "name": "火柴声",
+        "duration": "4.28",
+        "path": "music/question/match"
+    },
+    "rain": {
+        "name": "下雨声",
+        "duration": "5",
+        "path": "music/question/rain"
+    },
+    "pourWater": {
+        "name": "倒水声",
+        "duration": "5",
+        "path": "music/question/pourWater"
+    },
+    "cough": {
+        "name": "咳嗽声",
+        "duration": "4.25",
+        "path": "music/question/cough"
+    },
+    "drinkwater": {
+        "name": "喝水声",
+        "duration": "4.12",
+        "path": "music/question/drinkwater"
+    },
+    "babycry": {
+        "name": "婴儿哭声",
+        "duration": "4.25",
+        "path": "music/question/babycry"
+    },
+    "sneeze": {
+        "name": "打喷嚏声",
+        "duration": "4.20",
+        "path": "music/question/sneeze"
+    },
+    "thunder": {
+        "name": "打雷声",
+        "duration": "4.21",
+        "path": "music/question/thunder"
+    },
+    "dialphone": {
+        "name": "拨电话",
+        "duration": "5.29",
+        "path": "music/question/dialphone"
+    },
+    "waterdrop": {
+        "name": "水滴",
+        "duration": "5.11",
+        "path": "music/question/waterdrop"
+    },
+    "ringtone": {
+        "name": "电话铃声",
+        "duration": "4.20",
+        "path": "music/question/ringtone"
+    },
+    "laugh": {
+        "name": "笑声",
+        "duration": "4.12",
+        "path": "music/question/laugh"
+    },
+    "wind": {
+        "name": "风声",
+        "duration": "4.18",
+        "path": "music/question/wind"
+    },
+    "opencan": {
+        "name": "开易拉罐",
+        "duration": "4.12",
+        "path": "music/question/opencan"
+    },
+    "keyboard": {
+        "name": "敲键盘",
+        "duration": "4.09",
+        "path": "music/question/keyboard"
+    },
+    "flipbook": {
+        "name": "翻书声",
+        "duration": "5.06",
+        "path": "music/question/flipbook"
+    },
+    "plane": {
+        "name": "飞机声",
+        "duration": "5.11",
+        "path": "music/question/plane"
+    },
+    "highheels": {
+        "name": "高跟鞋声",
+        "duration": "5.26",
+        "path": "music/question/highheels"
+    },
+    "cock": {
+        "name": "公鸡叫",
+        "duration": "5",
+        "path": "music/question/cock"
+    },
+    "whistle": {
+        "name": "吹口哨",
+        "duration": "4.21",
+        "path": "music/question/whistle"
+    },
+    "bird": {
+        "name": "小鸟声音",
+        "duration": "4.12",
+        "path": "music/question/bird"
+    },
+    "hen": {
+        "name": "母鸡叫",
+        "duration": "4.19",
+        "path": "music/question/hen"
+    },
+    "carbrake": {
+        "name": "汽车刹车声",
+        "duration": "2.18",
+        "path": "music/question/carbrake"
+    },
+    "carhorn": {
+        "name": "汽车喇叭声",
+        "duration": "4.11",
+        "path": "music/question/carhorn"
+    },
+    "stream": {
+        "name": "流水声",
+        "duration": "5",
+        "path": "music/question/stream"
+    },
+    "cow": {
+        "name": "牛叫声",
+        "duration": "4.13",
+        "path": "music/question/cow"
+    },
+    "dog": {
+        "name": "狗叫声",
+        "duration": "4.18",
+        "path": "music/question/dog"
+    },
+    "pig": {
+        "name": "猪叫声",
+        "duration": "5",
+        "path": "music/question/pig"
+    },
+    "cicada": {
+        "name": "蝉鸣声",
+        "duration": "4.23",
+        "path": "music/question/cicada"
+    },
+    "horse": {
+        "name": "马叫声",
+        "duration": "4.19",
+        "path": "music/question/horse"
+    },
+    "duck": {
+        "name": "鸭子叫",
+        "duration": "5",
+        "path": "music/question/duck"
+    },
+    "cuckoo": {
+        "name": "布谷鸟",
+        "duration": "4.2",
+        "path": "music/question/cuckoo"
+    },
+    "sheep": {
+        "name": "羊叫声",
+        "duration": "5",
+        "path": "music/question/sheep"
+    },
+    "bicycle": {
+        "name": "自行车铃声",
+        "duration": "4.27",
+        "path": "music/question/bicycle"
+    },
+    "bee": {
+        "name": "蜜蜂嗡嗡声",
+        "duration": "5",
+        "path": "music/question/bee"
+    },
+    "crow": {
+        "name": "乌鸦",
+        "duration": "4.29",
+        "path": "music/question/crow"
+    },
+    "tractor": {
+        "name": "拖拉机",
+        "duration": "5",
+        "path": "music/question/tractor"
+    },
+    "motorcycle": {
+        "name": "摩托车",
+        "duration": "5",
+        "path": "music/question/motorcycle"
+    },
+    "carstart": {
+        "name": "汽车发动声",
+        "duration": "4",
+        "path": "music/question/carstart"
+    },
+    "chopwood": {
+        "name": "砍树",
+        "duration": "5",
+        "path": "music/question/chopwood"
+    },
+    "saw": {
+        "name": "锯子声",
+        "duration": "4.25",
+        "path": "music/question/saw"
+    },
+    "wolf": {
+        "name": "狼叫声",
+        "duration": "5",
+        "path": "music/question/wolf"
+    },
+    "helicopter": {
+        "name": "直升机声",
+        "duration": "5",
+        "path": "music/question/helicopter"
+    },
+    "cricket": {
+        "name": "蟋蟀声",
+        "duration": "5",
+        "path": "music/question/cricket"
+    },
+    "seagull": {
+        "name": "海鸥",
+        "duration": "5",
+        "path": "music/question/seagull"
+    },
+    "tiger": {
+        "name": "老虎叫",
+        "duration": "5",
+        "path": "music/question/tiger"
+    },
+    "boiling": {
+        "name": "开水沸腾声",
+        "duration": "5",
+        "path": "music/question/boiling"
+    },
+    "snore": {
+        "name": "打呼噜",
+        "duration": "5",
+        "path": "music/question/snore"
+    },
+    "knock": {
+        "name": "敲门声",
+        "duration": "5",
+        "path": "music/question/knock"
+    },
+    "cat": {
+        "name": "猫叫声",
+        "duration": "4",
+        "path": "music/question/cat"
+    },
+    "glassbreak": {
+        "name": "玻璃碎",
+        "duration": "5",
+        "path": "music/question/glassbreak"
+    },
+    "bell": {
+        "name": "钟声",
+        "duration": "4.2",
+        "path": "music/question/bell"
+    },
+    "piano": {
+        "name": "钢琴声",
+        "duration": "5",
+        "path": "music/question/piano"
+    },
+    "doorbell": {
+        "name": "门铃声",
+        "duration": "4.27",
+        "path": "music/question/doorbell"
+    },
+    "alarm": {
+        "name": "闹钟声",
+        "duration": "5",
+        "path": "music/question/alarm"
+    },
+    "violin": {
+        "name": "小提琴声",
+        "duration": "5",
+        "path": "music/question/violin"
+    },
+    "toilet": {
+        "name": "冲马桶声",
+        "duration": "5",
+        "path": "music/question/toilet"
+    },
+    "chop": {
+        "name": "切菜声",
+        "duration": "4.25",
+        "path": "music/question/chop"
+    },
+    "scissors": {
+        "name": "剪刀声",
+        "duration": "5",
+        "path": "music/question/scissors"
+    },
+    "stirfry": {
+        "name": "炒菜声",
+        "duration": "5",
+        "path": "music/question/stirfry"
+    },
+    "gasignite": {
+        "name": "燃气灶点火声",
+        "duration": "5",
+        "path": "music/question/gasignite"
+    },
+    "policecar": {
+        "name": "警车声",
+        "duration": "5",
+        "path": "music/question/policecar"
+    },
+    "guitar": {
+        "name": "吉他声",
+        "duration": "4.2",
+        "path": "music/question/guitar"
+    },
+    "doorslam": {
+        "name": "关门声",
+        "duration": "5",
+        "path": "music/question/doorslam"
+    },
+    "bubble": {
+        "name": "气泡声",
+        "duration": "5",
+        "path": "music/question/bubble"
+    },
+    "firetruck": {
+        "name": "消防车",
+        "duration": "4.2",
+        "path": "music/question/firetruck"
+    },
+    "coin": {
+        "name": "硬币",
+        "duration": "5.13",
+        "path": "music/question/coin"
+    },
+    "windchime": {
+        "name": "风铃",
+        "duration": "4",
+        "path": "music/question/windchime"
+    },
+    "referee": {
+        "name": "哨声",
+        "duration": "4.19",
+        "path": "music/question/referee"
+    },
+    "applause": {
+        "name": "鼓掌声",
+        "duration": "4.16",
+        "path": "music/question/applause"
+    },
+    "pingpong": {
+        "name": "打乒乓声",
+        "duration": "4.27",
+        "path": "music/question/pingpong"
+    },
+    "basketball": {
+        "name": "打篮球",
+        "duration": "3.27",
+        "path": "music/question/basketball"
+    },
+    "swimming": {
+        "name": "游泳",
+        "duration": "5",
+        "path": "music/question/swimming"
+    },
+    "erhu": {
+        "name": "二胡声",
+        "duration": "4.09",
+        "path": "music/question/erhu"
+    },
+    "flute": {
+        "name": "长笛声",
+        "duration": "5",
+        "path": "music/question/flute"
+    },
+    "drum": {
+        "name": "鼓声",
+        "duration": "4.28",
+        "path": "music/question/drum"
+    },
+    "mouse": {
+        "name": "老鼠叫",
+        "duration": "5",
+        "path": "music/question/mouse"
+    },
+    "mosquito": {
+        "name": "蚊子叫",
+        "duration": "4.19",
+        "path": "music/question/mosquito"
+    },
+    "woodfish": {
+        "name": "木鱼",
+        "duration": "5",
+        "path": "music/question/woodfish"
+    },
+    "firecracker": {
+        "name": "鞭炮声",
+        "duration": "5",
+        "path": "music/question/firecracker"
+    },
+    "frog": {
+        "name": "青蛙叫",
+        "duration": "4",
+        "path": "music/question/frog"
+    },
+    "firework": {
+        "name": "放烟花",
+        "duration": "5",
+        "path": "music/question/firework"
+    },
+    "snowstep": {
+        "name": "踩雪声",
+        "duration": "5",
+        "path": "music/question/snowstep"
+    },
+    "trumpet": {
+        "name": "小号声",
+        "duration": "5",
+        "path": "music/question/trumpet"
+    },
+    "suona": {
+        "name": "唢呐声",
+        "duration": "4",
+        "path": "music/question/suona"
+    },
+    "subwaydoor": {
+        "name": "地铁关门声",
+        "duration": "5",
+        "path": "music/question/subwaydoor"
+    },
+    "whiteswan": {
+        "name": "白天鹅",
+        "duration": "4",
+        "path": "music/question/whiteswan"
+    },
+    "ship": {
+        "name": "轮船",
+        "duration": "4",
+        "path": "music/question/ship"
+    },
+    "seawave": {
+        "name": "海浪声",
+        "duration": "6",
+        "path": "music/question/seawave"
+    }
+}

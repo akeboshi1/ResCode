@@ -1,0 +1,7154 @@
+{
+  "questionBank": [
+    {
+      "questionNumber": 1,
+      "questionText": "飞贼毒得不得了，嗡嗡叫着找目标。飞到人身吸人血，还说给你送红包。",
+      "answer": "c",
+      "audioSource": "audio/379",
+      "options": {
+        "a": "野鸭",
+        "b": "海葵",
+        "c": "蚊子",
+        "d": "乌鸦"
+      },
+      "analysis": "蚊子有毒，嗡嗡叫着寻找目标，吸人血后留下红包一样的痕迹。"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "一个小儿郎，每天站桌上。肚里滚滚热，肚皮冰冰凉。一个大耳朵，穿件花衣裳。",
+      "answer": "b",
+      "audioSource": "audio/221",
+      "options": {
+        "a": "花瓶",
+        "b": "热水瓶",
+        "c": "台灯",
+        "d": "电饭煲"
+      },
+      "analysis": "热水瓶立在桌上，内装热水外壁冰凉，两侧有耳状把手，常带有装饰花纹。"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "白胖娃娃泥里卧，腰身扭来心眼多。",
+      "options": {
+        "a": "蚯蚓",
+        "b": "人参",
+        "c": "萝卜",
+        "d": "莲藕"
+      },
+      "answer": "d",
+      "analysis": "莲藕生长在泥土中，外形白胖且节节相连，内部有许多孔洞。",
+      "audioSource": "audio/6"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "我家门上有只鸟，白天夜晚都会叫。一按传来叮咚声，告知家里客人到。",
+      "answer": "b",
+      "audioSource": "audio/516",
+      "options": {
+        "a": "黄豆",
+        "b": "门铃",
+        "c": "电脑",
+        "d": "苹果"
+      },
+      "analysis": "门铃像鸟在门上，白天夜晚都会叫，按一下发出叮咚声告知客人到。"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "样子像小船，角儿两头翘，骨头在外面，肉儿里头包。",
+      "answer": "b",
+      "audioSource": "audio/213",
+      "options": {
+        "a": "香蕉",
+        "b": "菱角",
+        "c": "饺子",
+        "d": "核桃"
+      },
+      "analysis": "菱角的外形像小船，两端尖翘，外壳坚硬包裹着内部的果肉。"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "绿叶层层叠，脆嫩似春芽，生食最可口，沙拉常伴它。",
+      "options": {
+        "a": "生菜",
+        "b": "黄瓜",
+        "c": "菠菜",
+        "d": "西兰花"
+      },
+      "answer": "a",
+      "analysis": "生菜的叶子层层叠叠，质地脆嫩适合生吃，是沙拉的常见配料。",
+      "audioSource": "audio/104"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "凸凹玻璃有几片，装在筒上紧相连，远方有啥在活动，望见有如眼面前。",
+      "answer": "b",
+      "audioSource": "audio/179",
+      "options": {
+        "a": "万花筒",
+        "b": "望远镜",
+        "c": "潜望镜",
+        "d": "显微镜"
+      },
+      "analysis": "望远镜由多片凸凹透镜组成，通过镜筒组合能清晰观察远处景物。"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "是草开粉花，笑脸像朝霞。蜜蜂吻一下，叶片合拢羞答答。",
+      "answer": "a",
+      "audioSource": "audio/436",
+      "options": {
+        "a": "含羞草",
+        "b": "萝卜",
+        "c": "桂花",
+        "d": "柏树"
+      },
+      "analysis": "含羞草是草，开粉色花像朝霞，蜜蜂碰一下叶子会合拢，很害羞。"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "红冠黑嘴白衣裳，双腿细瘦走路晃，漫步水中捕鱼虾，凌空展翅能飞翔。",
+      "answer": "d",
+      "audioSource": "audio/175",
+      "options": {
+        "a": "企鹅",
+        "b": "天鹅",
+        "c": "火烈鸟",
+        "d": "鹤"
+      },
+      "analysis": "鹤头顶红冠，嘴部漆黑，身披洁白羽毛，双腿修长且步态优雅，常在浅水觅食，也能振翅高飞。"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "像条带，一盘菜，下了水，跑得快。",
+      "answer": "c",
+      "audioSource": "audio/183",
+      "options": {
+        "a": "蛇",
+        "b": "粉丝",
+        "c": "带鱼",
+        "d": "海带"
+      },
+      "analysis": "带鱼形状细长如带，是一种可食用的鱼类，在水中游动迅速。"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "衣服上，架铁道，一把锁头上面跑，紧紧锁起衣大襟，不让温度都跑掉。",
+      "answer": "d",
+      "audioSource": "audio/503",
+      "options": {
+        "a": "桌子",
+        "b": "砂纸",
+        "c": "台灯",
+        "d": "拉链"
+      },
+      "analysis": "拉链在衣服上像铁道，锁头在上面跑，锁紧衣服不让温度跑掉。"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "小小红灯笼，挂在大树枝。熟了像糖罐，装满蜜糖汁。",
+      "answer": "a",
+      "audioSource": "audio/447",
+      "options": {
+        "a": "柿子",
+        "b": "生菜",
+        "c": "兰花",
+        "d": "茶花"
+      },
+      "analysis": "柿子像小红灯笼挂在树枝上，熟了像糖罐，里面装满甜蜜的汁液。"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "海边拾得宝，纹路似年轮，内藏珍珠梦，外披五彩衣。",
+      "options": {
+        "a": "鹅卵石",
+        "b": "海星",
+        "c": "贝壳",
+        "d": "珊瑚"
+      },
+      "answer": "c",
+      "analysis": "贝壳常被海浪冲到海边，表面的纹路像年轮一样，里面可能藏有珍珠，外壳则呈现多彩的颜色。",
+      "audioSource": "audio/50"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "一对双胞胎，春节乐开怀。爱穿红衣裳，门旁站两排。",
+      "answer": "b",
+      "audioSource": "audio/532",
+      "options": {
+        "a": "橙子",
+        "b": "春联",
+        "c": "电风扇",
+        "d": "录音机"
+      },
+      "analysis": "春联像双胞胎，春节时很开心，穿红衣裳，在门两旁站两排。"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "头小四肢短，身在硬壳里，胆小又怕事，寿命大无边。",
+      "options": {
+        "a": "蜗牛",
+        "b": "螃蟹",
+        "c": "刺猬",
+        "d": "乌龟"
+      },
+      "answer": "d",
+      "analysis": "乌龟体型小且四肢短，外壳坚硬，性格胆小，寿命很长。",
+      "audioSource": "audio/16"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "圆口浅底身，常伴饭香临，盛满人间味，静待手中亲",
+      "options": {
+        "a": "碗",
+        "b": "炒锅",
+        "c": "帽子",
+        "d": "灯笼"
+      },
+      "answer": "a",
+      "analysis": "碗的形状圆口浅底，常用来盛放饭菜，承载着各种美味，等待人们亲手端起享用。",
+      "audioSource": "audio/134"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "小巧玲珑掌中握，尾巴细长连电脑，轻轻一点世界动，静卧桌面无声息。",
+      "options": {
+        "a": "铅笔",
+        "b": "台灯",
+        "c": "鼠标",
+        "d": "茶杯"
+      },
+      "answer": "c",
+      "analysis": "鼠标外形小巧适合手握，通过细长的连接线与电脑相连，点击操作能控制电脑，平时静止放在桌面上。",
+      "audioSource": "audio/139"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "一个住在这边，一个住在那边，说话都能听见，到老也不见面。",
+      "answer": "c",
+      "audioSource": "audio/297",
+      "options": {
+        "a": "眼睛",
+        "b": "眉毛",
+        "c": "耳朵",
+        "d": "鼻子"
+      },
+      "analysis": "耳朵分别长在头部两侧，能互相听到声音但永远无法直接看到对方。"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "冬日寒风中，独自傲霜雪。花瓣如玉洁，暗香浮月夜。",
+      "options": {
+        "a": "雪花",
+        "b": "梅花",
+        "c": "松树",
+        "d": "蜡烛"
+      },
+      "answer": "b",
+      "analysis": "梅花在寒冷的冬季绽放，花瓣洁白如雪，并在夜晚散发出幽香。",
+      "audioSource": "audio/163"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "千条线，万条线，落在水里看不见。",
+      "options": {
+        "a": "闪电",
+        "b": "面条",
+        "c": "雨",
+        "d": "头发"
+      },
+      "answer": "c",
+      "analysis": "雨从天上落下时像无数条线，但落到水里就消失不见了。",
+      "audioSource": "audio/18"
+    },
+    {
+      "questionNumber": 21,
+      "questionText": "弯弯曲曲像条绳，来来回回声音轻。春雷敲起大锣鼓，爬出洞口四处行。",
+      "answer": "d",
+      "audioSource": "audio/395",
+      "options": {
+        "a": "海星",
+        "b": "海螺",
+        "c": "蜥蜴",
+        "d": "蛇"
+      },
+      "analysis": "蛇身体弯曲像绳子，春天雷声响起后会从洞里爬出来活动。"
+    },
+    {
+      "questionNumber": 22,
+      "questionText": "胡老头，面孔皱，不捶它，不开口。",
+      "answer": "b",
+      "audioSource": "audio/299",
+      "options": {
+        "a": "石头",
+        "b": "核桃",
+        "c": "木鱼",
+        "d": "皮球"
+      },
+      "analysis": "胡老头外表皱巴巴的，只有敲开才能看到里面的果肉。"
+    },
+    {
+      "questionNumber": 23,
+      "questionText": "根根绿棍儿，挂满竹架儿，头戴黄花儿，满身小刺儿。",
+      "answer": "d",
+      "audioSource": "audio/458",
+      "options": {
+        "a": "栀子",
+        "b": "苹果树",
+        "c": "土豆",
+        "d": "黄瓜"
+      },
+      "analysis": "黄瓜像绿棍子挂在竹架上，开黄花，身上有小刺。"
+    },
+    {
+      "questionNumber": 24,
+      "questionText": "金秋八月它登场，细碎小花聚成团，香气扑鼻沁心脾，中秋佳节添芬芳。",
+      "answer": "a",
+      "options": {
+        "a": "桂花",
+        "b": "菊花",
+        "c": "月季",
+        "d": "石榴花"
+      },
+      "audioSource": "audio/550",
+      "analysis": "“金秋八月”“细碎成团、香气浓郁”指桂花；中秋时节常以桂花飘香为景。"
+    },
+    {
+      "questionNumber": 25,
+      "questionText": "像只小船尾巴翘，船头见水船尾高，不在河里海里走，世上滋味全尝到。",
+      "answer": "d",
+      "audioSource": "audio/346",
+      "options": {
+        "a": "漏勺",
+        "b": "铲子",
+        "c": "筷子",
+        "d": "汤匙"
+      },
+      "analysis": "汤匙的形状像翘尾巴的小船，舀取食物时前端接触汤汁后端抬高，用于品尝各种美味。"
+    },
+    {
+      "questionNumber": 26,
+      "questionText": "耳朵长又尖，尾巴短如线。夜半静悄悄，田野跃轻盈。",
+      "options": {
+        "a": "狐狸",
+        "b": "兔子",
+        "c": "袋鼠",
+        "d": "松鼠"
+      },
+      "answer": "b",
+      "analysis": "兔子有着长而尖的耳朵和短小的尾巴，常在安静的夜晚于田野间轻快跳跃。",
+      "audioSource": "audio/157"
+    },
+    {
+      "questionNumber": 27,
+      "questionText": "一匹马儿真正好，没有尾巴没有脚，不喝水来不吃草，骑上它就满街跑。",
+      "answer": "d",
+      "audioSource": "audio/220",
+      "options": {
+        "a": "摩托车",
+        "b": "滑板",
+        "c": "汽车",
+        "d": "自行车"
+      },
+      "analysis": "自行车像一匹没有尾巴和脚的马，不需要喂养，骑上它就能四处移动。"
+    },
+    {
+      "questionNumber": 28,
+      "questionText": "绿娃娃，街上站，光吃饼干不吃饭。",
+      "answer": "a",
+      "audioSource": "audio/311",
+      "options": {
+        "a": "邮箱",
+        "b": "垃圾箱",
+        "c": "饼干盒",
+        "d": "交通灯"
+      },
+      "analysis": "邮箱通常被漆成绿色，立在街边，投递信件就像“吃饼干”一样只接收不消化。"
+    },
+    {
+      "questionNumber": 29,
+      "questionText": "扭扭弯弯一把弓，五黄六月常有，冬九腊月无踪。",
+      "answer": "a",
+      "audioSource": "audio/270",
+      "options": {
+        "a": "彩虹",
+        "b": "河流",
+        "c": "雨",
+        "d": "月亮"
+      },
+      "analysis": "彩虹呈现弯曲的弓形，常在夏季雨后出现，而冬季则难以见到。"
+    },
+    {
+      "questionNumber": 30,
+      "questionText": "不装水，不装菜，小小盆儿放阳台。亲亲热热像妈妈，花儿朵朵搂在怀。",
+      "answer": "c",
+      "audioSource": "audio/529",
+      "options": {
+        "a": "烤箱",
+        "b": "茶几",
+        "c": "花盆",
+        "d": "书桌"
+      },
+      "analysis": "花盆不装水菜，放在阳台，像妈妈一样亲热，搂着花儿。"
+    },
+    {
+      "questionNumber": 31,
+      "questionText": "红门楼，白门坎，锁不住，关不严。",
+      "answer": "c",
+      "audioSource": "audio/358",
+      "options": {
+        "a": "石榴",
+        "b": "灯笼",
+        "c": "嘴巴",
+        "d": "荷花"
+      },
+      "analysis": "红门楼象征嘴唇，白门坎代表牙齿，嘴巴无法完全闭合的特性通过\"锁不住，关不严\"体现。"
+    },
+    {
+      "questionNumber": 32,
+      "questionText": "方寸红纸藏巧思，中秋剪出好景致，月圆人圆事事顺，贴在墙上添喜气。",
+      "answer": "c",
+      "options": {
+        "a": "年画",
+        "b": "窗花",
+        "c": "中秋剪纸",
+        "d": "对联"
+      },
+      "audioSource": "audio/549",
+      "analysis": "以“红纸剪出景致”的民间工艺即剪纸，此处点明中秋主题，为“中秋剪纸”。"
+    },
+    {
+      "questionNumber": 33,
+      "questionText": "花口袋，鼓溜溜，你有我有他也有。夜晚睡觉它紧挨，白天起床就分开。",
+      "answer": "d",
+      "audioSource": "audio/518",
+      "options": {
+        "a": "桃",
+        "b": "电饭煲",
+        "c": "相机",
+        "d": "枕头"
+      },
+      "analysis": "枕头像花口袋鼓溜溜，人人都有，晚上睡觉紧挨着，白天起床分开。"
+    },
+    {
+      "questionNumber": 34,
+      "questionText": "正看八十八倒看八十八，左看八十八右看八十八，仔细一端详好像一朵花。",
+      "answer": "c",
+      "audioSource": "audio/340",
+      "options": {
+        "a": "眼镜",
+        "b": "风车",
+        "c": "米",
+        "d": "蝴蝶"
+      },
+      "analysis": "“米”字从不同方向看都呈现“八十八”的结构，整体形状又像一朵花。"
+    },
+    {
+      "questionNumber": 35,
+      "questionText": "样子好像小刺猬，圆圆身体沙地走。一不小心碰了它，刺儿扎伤你的手。",
+      "answer": "c",
+      "audioSource": "audio/435",
+      "options": {
+        "a": "萝卜",
+        "b": "油菜",
+        "c": "仙人球",
+        "d": "大蒜"
+      },
+      "analysis": "仙人球像小刺猬，圆圆的身体在沙地上，碰了会被刺扎伤手。"
+    },
+    {
+      "questionNumber": 36,
+      "questionText": "四四方方小家伙，上头摆着串串珠,小手随意拨一拨，最终答案立有数。",
+      "answer": "a",
+      "audioSource": "audio/261",
+      "options": {
+        "a": "算盘",
+        "b": "电话",
+        "c": "魔方",
+        "d": "键盘"
+      },
+      "analysis": "算盘外形方正，上面排列着串起的珠子，用手拨动珠子即可进行计算。"
+    },
+    {
+      "questionNumber": 37,
+      "questionText": "身软无骨藏海底，触手如花舞水间，遇敌自断求生路，滋补佳品美名传。",
+      "options": {
+        "a": "海参",
+        "b": "海带",
+        "c": "章鱼",
+        "d": "珊瑚"
+      },
+      "answer": "a",
+      "analysis": "海参身体柔软生活在海底，触手在水中摆动，遇到危险时会断肢逃生，还是著名的滋补食材。",
+      "audioSource": "audio/52"
+    },
+    {
+      "questionNumber": 38,
+      "questionText": "红脸绿衣挂枝头，酸甜滋味口中留，不是水果也非菜，烹饪佳肴它为首。",
+      "options": {
+        "a": "苹果",
+        "b": "番茄",
+        "c": "辣椒",
+        "d": "灯笼"
+      },
+      "answer": "b",
+      "analysis": "番茄成熟时呈现红色，表皮为绿色，常挂在枝头，味道酸甜，虽归类为蔬菜但常用于水果食用，是许多菜肴的主要食材。",
+      "audioSource": "audio/92"
+    },
+    {
+      "questionNumber": 39,
+      "questionText": "爱在房上走，洗脸不洗头。爱唱不爱吼，捉鼠是能手。",
+      "answer": "b",
+      "audioSource": "audio/399",
+      "options": {
+        "a": "蜜蜂",
+        "b": "猫",
+        "c": "蚊子",
+        "d": "萤火虫"
+      },
+      "analysis": "猫喜欢在房上走，用爪子洗脸，爱喵喵叫，是捉老鼠的能手。"
+    },
+    {
+      "questionNumber": 40,
+      "questionText": "远看一把伞，近看没有柄，一拳打得破，万人做不成。",
+      "answer": "c",
+      "audioSource": "audio/167",
+      "options": {
+        "a": "蒲扇",
+        "b": "气球",
+        "c": "蜘蛛网",
+        "d": "雨伞"
+      },
+      "analysis": "远看形似伞却无柄，脆弱易破又非人力可单独织就，正合蜘蛛网特征。"
+    },
+    {
+      "questionNumber": 41,
+      "questionText": "天热爱爬树，说话大嗓门，什么都不懂，偏偏喊知道。",
+      "answer": "b",
+      "audioSource": "audio/211",
+      "options": {
+        "a": "鹦鹉",
+        "b": "知了",
+        "c": "喇叭",
+        "d": "猴子"
+      },
+      "analysis": "知了喜欢在炎热的天气里栖息在树上，叫声响亮，而“知了”的发音与“知道了”相似，却实际上对事物一无所知。"
+    },
+    {
+      "questionNumber": 42,
+      "questionText": "像马不是马，它比马儿大，身背两座山，脚踏万里沙。",
+      "answer": "a",
+      "audioSource": "audio/298",
+      "options": {
+        "a": "骆驼",
+        "b": "大象",
+        "c": "长颈鹿",
+        "d": "犀牛"
+      },
+      "analysis": "骆驼外形类似马但体型更大，背上的驼峰像两座山，能在沙漠中长途跋涉。"
+    },
+    {
+      "questionNumber": 43,
+      "questionText": "一顶小伞，落在林中，一旦撑开，再难收拢。",
+      "answer": "a",
+      "audioSource": "audio/274",
+      "options": {
+        "a": "蘑菇",
+        "b": "降落伞",
+        "c": "蒲公英",
+        "d": "松树"
+      },
+      "analysis": "蘑菇生长在林中，外形像撑开的小伞，且成熟后无法恢复原状。"
+    },
+    {
+      "questionNumber": 44,
+      "questionText": "凸眼睛，阔嘴巴，尾巴要比身体大，碧绿水草衬着它，好像一朵大红花。",
+      "answer": "c",
+      "audioSource": "audio/177",
+      "options": {
+        "a": "青蛙",
+        "b": "孔雀",
+        "c": "金鱼",
+        "d": "灯笼"
+      },
+      "analysis": "金鱼有着突出的眼睛、宽大的嘴巴和比身体还大的尾巴，在水中游动时宛如一朵红花映衬着碧绿水草。"
+    },
+    {
+      "questionNumber": 45,
+      "questionText": "小小一间房，一柱立中央。围着柱子过，兄弟一大帮。",
+      "answer": "a",
+      "audioSource": "audio/462",
+      "options": {
+        "a": "大蒜",
+        "b": "生姜",
+        "c": "橡树",
+        "d": "桂花"
+      },
+      "analysis": "大蒜像小房子，中间有柱子，围着柱子有很多蒜瓣像兄弟。"
+    },
+    {
+      "questionNumber": 46,
+      "questionText": "身上一把尺，肚里一条线，夏天线儿长，冬天线儿短。",
+      "answer": "a",
+      "audioSource": "audio/176",
+      "options": {
+        "a": "温度计",
+        "b": "围巾",
+        "c": "尺子",
+        "d": "蛇"
+      },
+      "analysis": "温度计的外形像一把尺子，内部的刻度线会随着温度变化而升降，夏天温度高时液柱上升（线儿长），冬天则下降（线儿短）。"
+    },
+    {
+      "questionNumber": 47,
+      "questionText": "有枪不能放，有脚不能行，天天弯着腰，总在水里游。",
+      "answer": "d",
+      "audioSource": "audio/185",
+      "options": {
+        "a": "螃蟹",
+        "b": "鱼钩",
+        "c": "海马",
+        "d": "虾"
+      },
+      "analysis": "虾虽然外形像有枪（钳子）和脚，但无法真正射击或行走，常弯曲身体在水中游动。"
+    },
+    {
+      "questionNumber": 48,
+      "questionText": "一群小宝宝，身穿大红袍。碰到小火苗，吓得蹦蹦跳。",
+      "answer": "c",
+      "audioSource": "audio/533",
+      "options": {
+        "a": "李子",
+        "b": "烤箱",
+        "c": "炮仗",
+        "d": "黑莓"
+      },
+      "analysis": "鞭炮像小宝宝穿红袍，碰到火苗会蹦蹦跳发出响声。"
+    },
+    {
+      "questionNumber": 49,
+      "questionText": "一个小方块，六面彩色墙，转来又转去，变化最无常。",
+      "answer": "c",
+      "audioSource": "audio/263",
+      "options": {
+        "a": "骰子",
+        "b": "积木",
+        "c": "魔方",
+        "d": "糖果"
+      },
+      "analysis": "魔方是一个六面彩色的小方块，通过旋转可以产生各种变化。"
+    },
+    {
+      "questionNumber": 50,
+      "questionText": "长长脖子同树高，身披白纹褐斑点。",
+      "answer": "d",
+      "audioSource": "audio/307",
+      "options": {
+        "a": "骆驼",
+        "b": "斑马",
+        "c": "梅花鹿",
+        "d": "长颈鹿"
+      },
+      "analysis": "长颈鹿有着修长的脖子与树木高度相当，身上布满白色条纹和褐色斑点。"
+    },
+    {
+      "questionNumber": 51,
+      "questionText": "身体长长，拿在手中，要问长短，它最了解。",
+      "answer": "a",
+      "audioSource": "audio/331",
+      "options": {
+        "a": "尺子",
+        "b": "棍子",
+        "c": "绳子",
+        "d": "鞭子"
+      },
+      "analysis": "尺子的形状细长，用于测量物体的长度，因此能准确知道长短。"
+    },
+    {
+      "questionNumber": 52,
+      "questionText": "长长身躯百条腿，喜阴不喜阳，钻缝能力强。",
+      "answer": "a",
+      "audioSource": "audio/354",
+      "options": {
+        "a": "蜈蚣",
+        "b": "蜘蛛",
+        "c": "蚂蚁",
+        "d": "蛇"
+      },
+      "analysis": "蜈蚣的身体细长且有许多腿，喜欢阴暗环境，擅长在缝隙中爬行。"
+    },
+    {
+      "questionNumber": 53,
+      "questionText": "十个客人十间屋，冷了进去热了出。",
+      "answer": "d",
+      "audioSource": "audio/189",
+      "options": {
+        "a": "冰箱",
+        "b": "火炉",
+        "c": "帐篷",
+        "d": "手套"
+      },
+      "analysis": "手套的十个手指部分像十间屋子，天冷时手伸进去保暖，天热时取出来。"
+    },
+    {
+      "questionNumber": 54,
+      "questionText": "脱了红袍子，是个白胖子，去了白胖子，是个黑圆子。",
+      "options": {
+        "a": "桃子",
+        "b": "石榴",
+        "c": "荔枝",
+        "d": "樱桃"
+      },
+      "answer": "c",
+      "analysis": "荔枝外皮呈红色，果肉晶莹饱满，果核黑色圆形。",
+      "audioSource": "audio/85"
+    },
+    {
+      "questionNumber": 55,
+      "questionText": "圆圆小珍珠，洒落草丛中，太阳一出来，跑得无影踪。",
+      "answer": "b",
+      "audioSource": "audio/217",
+      "options": {
+        "a": "星星",
+        "b": "露珠",
+        "c": "冰晶",
+        "d": "雨滴"
+      },
+      "analysis": "露珠圆润如珍珠，散落在草丛间，阳光照射后便蒸发消失。"
+    },
+    {
+      "questionNumber": 56,
+      "questionText": "身披灰褐衣，水中舞翩翩，陆地笨拙行，擅长顶球玩。",
+      "options": {
+        "a": "企鹅",
+        "b": "河马",
+        "c": "海狮",
+        "d": "鳄鱼"
+      },
+      "answer": "c",
+      "analysis": "海狮有着灰褐色的皮毛，在水中游动时姿态优雅，但在陆地上行动笨拙，并能用鼻子顶球。",
+      "audioSource": "audio/46"
+    },
+    {
+      "questionNumber": 57,
+      "questionText": "上不怕水，下不怕火，家家厨房，必不可少。",
+      "answer": "c",
+      "audioSource": "audio/206",
+      "options": {
+        "a": "扫帚",
+        "b": "碗",
+        "c": "锅",
+        "d": "筷子"
+      },
+      "analysis": "锅可以盛水煮饭（上不怕水），也能放在火上烹饪（下不怕火），是厨房里必备的用具。"
+    },
+    {
+      "questionNumber": 58,
+      "questionText": "小肉虫身子长，喜欢爬到大树上。满身毛毛多难看，变成蝴蝶真漂亮。",
+      "answer": "d",
+      "audioSource": "audio/385",
+      "options": {
+        "a": "野鸭",
+        "b": "秃鹫",
+        "c": "斑马",
+        "d": "毛毛虫"
+      },
+      "analysis": "毛毛虫身体长满毛，喜欢爬树，长大后变成美丽的蝴蝶。"
+    },
+    {
+      "questionNumber": 59,
+      "questionText": "小不点儿有力气，讲团结爱集体。把食物搬洞里，下雨前把家移。",
+      "answer": "d",
+      "audioSource": "audio/387",
+      "options": {
+        "a": "蛇",
+        "b": "犀牛",
+        "c": "蜘蛛",
+        "d": "蚂蚁"
+      },
+      "analysis": "蚂蚁虽然小但很有力气，团结协作，搬运食物到洞里，下雨前会搬家。"
+    },
+    {
+      "questionNumber": 60,
+      "questionText": "冬来飞雪花飘香，有红有白还有黄。严冬季节它独俏，花瓣含蕊久芬芳。",
+      "answer": "b",
+      "audioSource": "audio/430",
+      "options": {
+        "a": "土豆",
+        "b": "梅花",
+        "c": "杏树",
+        "d": "菊花"
+      },
+      "analysis": "梅花在冬天开放，有红白黄色，严冬季节独自美丽，香气持久。"
+    },
+    {
+      "questionNumber": 61,
+      "questionText": "身小力不小，团结又勤劳，有时搬粮食，有时打地道。",
+      "options": {
+        "a": "蚂蚁",
+        "b": "蚯蚓",
+        "c": "蜘蛛",
+        "d": "蜜蜂"
+      },
+      "answer": "a",
+      "analysis": "蚂蚁虽体型小但力量大，非常团结和勤劳，一起组团出去搬运食物，也善于钻洞。",
+      "audioSource": "audio/36"
+    },
+    {
+      "questionNumber": 62,
+      "questionText": "身在水底泥中藏，节节相连似玉长，切开可见千丝缕，清甜可口入厨房。",
+      "options": {
+        "a": "竹子",
+        "b": "甘蔗",
+        "c": "莲藕",
+        "d": "章鱼"
+      },
+      "answer": "c",
+      "analysis": "莲藕生长在水底淤泥中，由多节相连组成，内部有丝状结构，是常见的清甜食材。",
+      "audioSource": "audio/105"
+    },
+    {
+      "questionNumber": 63,
+      "questionText": "它的模样真奇怪，牙齿全长嘴唇外。专往人的头上爬，又咬又叫都喜爱。",
+      "answer": "c",
+      "audioSource": "audio/515",
+      "options": {
+        "a": "锯子",
+        "b": "杏",
+        "c": "理发推子",
+        "d": "收音机"
+      },
+      "analysis": "理发推子牙齿在嘴唇外，专门在头上工作，发出声音人们都喜欢。"
+    },
+    {
+      "questionNumber": 64,
+      "questionText": "墙角站住小姑娘，身子苗条头发长。洗洗头发满地爬，地上灰尘都害怕。",
+      "answer": "b",
+      "audioSource": "audio/497",
+      "options": {
+        "a": "平板",
+        "b": "拖把",
+        "c": "桃",
+        "d": "葡萄"
+      },
+      "analysis": "拖把像小姑娘站在墙角，身子苗条头发长，洗头发后拖地，灰尘都害怕。"
+    },
+    {
+      "questionNumber": 65,
+      "questionText": "身体胖，穿白袄，坐着浮冰漂呀漂。又摇头，又晃脑，北冰洋上乐陶陶。",
+      "answer": "b",
+      "audioSource": "audio/418",
+      "options": {
+        "a": "海马",
+        "b": "北极熊",
+        "c": "豹子",
+        "d": "鳄鱼"
+      },
+      "analysis": "北极熊身体胖，穿白色皮毛，坐在浮冰上漂流，在北冰洋上生活。"
+    },
+    {
+      "questionNumber": 66,
+      "questionText": "娃娃爱吃它，动刀又动叉。谁要过生日，它就去谁家。",
+      "answer": "b",
+      "audioSource": "audio/473",
+      "options": {
+        "a": "馒头",
+        "b": "生日蛋糕",
+        "c": "棒棒糖",
+        "d": "苹果"
+      },
+      "analysis": "生日蛋糕娃娃爱吃，用刀叉吃，谁过生日就会出现在谁家。"
+    },
+    {
+      "questionNumber": 67,
+      "questionText": "层层叠叠向上攀，步步高升非等闲。白天黑夜皆忙碌，无声无息助人前。",
+      "options": {
+        "a": "山峰",
+        "b": "书架",
+        "c": "高升",
+        "d": "楼梯"
+      },
+      "answer": "d",
+      "analysis": "楼梯由台阶层层叠叠构成，供人上下行走，默默为人们提供便利。",
+      "audioSource": "audio/165"
+    },
+    {
+      "questionNumber": 68,
+      "questionText": "卫士宝宝白衣穿，上下排成一道关。谁想进来先粉碎，你我都有好保安。",
+      "answer": "c",
+      "audioSource": "audio/481",
+      "options": {
+        "a": "大米",
+        "b": "录音机",
+        "c": "牙齿",
+        "d": "锤子"
+      },
+      "analysis": "牙齿像白衣卫士，上下排成关，食物进来先被粉碎，保护口腔。"
+    },
+    {
+      "questionNumber": 69,
+      "questionText": "说它是棵苗，为啥有知觉，轻轻一碰它，低头叶合了。",
+      "answer": "c",
+      "audioSource": "audio/242",
+      "options": {
+        "a": "捕蝇草",
+        "b": "仙人掌",
+        "c": "含羞草",
+        "d": "向日葵"
+      },
+      "analysis": "含羞草外形像小苗，触碰时叶片会闭合，仿佛有知觉般做出反应。"
+    },
+    {
+      "questionNumber": 70,
+      "questionText": "外衣层层裹，内里白如玉，辛辣味十足，厨房常备物。",
+      "options": {
+        "a": "生姜",
+        "b": "大蒜",
+        "c": "土豆",
+        "d": "洋葱"
+      },
+      "answer": "b",
+      "analysis": "大蒜有多层外皮包裹，内部洁白，味道辛辣，是厨房常用的调味品。",
+      "audioSource": "audio/100"
+    },
+    {
+      "questionNumber": 71,
+      "questionText": "一个小姑娘，生在水中央，身穿粉红衣，坐在绿船上。",
+      "answer": "b",
+      "audioSource": "audio/193",
+      "options": {
+        "a": "水母",
+        "b": "莲花",
+        "c": "荷花灯",
+        "d": "金鱼"
+      },
+      "analysis": "莲花生长在水中，粉红的花瓣搭配绿色的荷叶，宛如一位坐在绿船上的姑娘。"
+    },
+    {
+      "questionNumber": 72,
+      "questionText": "头上戴朵花，身上披彩霞。见人张开屏，彩屏比扇大。",
+      "answer": "a",
+      "audioSource": "audio/376",
+      "options": {
+        "a": "孔雀",
+        "b": "萤火虫",
+        "c": "海葵",
+        "d": "海贝"
+      },
+      "analysis": "孔雀头上有花冠，身上有彩色的羽毛，见到人会开屏展示美丽的羽毛。"
+    },
+    {
+      "questionNumber": 73,
+      "questionText": "小小身躯穿褐衣，枝头跳跃不停息，晨起歌声唤日出，秋来群飞向南移。",
+      "options": {
+        "a": "松鼠",
+        "b": "蜜蜂",
+        "c": "风筝",
+        "d": "麻雀"
+      },
+      "answer": "d",
+      "analysis": "麻雀体型小巧，羽毛呈褐色，常在枝头跳跃，清晨鸣叫，秋季会成群迁徙到南方。",
+      "audioSource": "audio/42"
+    },
+    {
+      "questionNumber": 74,
+      "questionText": "身上有盏灯，夜间空中行。一闪又一闪，像颗小星星。",
+      "answer": "c",
+      "audioSource": "audio/383",
+      "options": {
+        "a": "豹子",
+        "b": "海狮",
+        "c": "萤火虫",
+        "d": "蟋蟀"
+      },
+      "analysis": "萤火虫身上会发光，晚上在空中飞行，一闪一闪像小星星。"
+    },
+    {
+      "questionNumber": 75,
+      "questionText": "小小球，浑身皱。外头皱皱皮，里头皱皱肉。",
+      "answer": "b",
+      "audioSource": "audio/468",
+      "options": {
+        "a": "橡树",
+        "b": "核桃",
+        "c": "百合",
+        "d": "莴笋"
+      },
+      "analysis": "核桃像小球，浑身皱巴巴，外面是皱皮，里面是皱肉。"
+    },
+    {
+      "questionNumber": 76,
+      "questionText": "生在土里十八杈，一年能开两次花，先开金花结青果，后开银花落万家。",
+      "answer": "b",
+      "audioSource": "audio/226",
+      "options": {
+        "a": "向日葵",
+        "b": "棉花",
+        "c": "牡丹",
+        "d": "玉米"
+      },
+      "analysis": "棉花先开花后结棉铃，棉絮飘散,棉花被采摘后，进入家里给人做衣服,"
+    },
+    {
+      "questionNumber": 77,
+      "questionText": "一只八宝袋，样样都能装。能装棉和纱，能装铁和钢。",
+      "answer": "d",
+      "audioSource": "audio/285",
+      "options": {
+        "a": "冰箱",
+        "b": "工具箱",
+        "c": "书包",
+        "d": "针线包"
+      },
+      "analysis": "针线包外形像个小袋子，能收纳各种材质的物品，包括柔软的棉纱和坚硬的针线工具。"
+    },
+    {
+      "questionNumber": 78,
+      "questionText": "半截白，半截青，半截实来半截空，半截长在地面上，半截长在土当中。",
+      "answer": "a",
+      "audioSource": "audio/344",
+      "options": {
+        "a": "葱",
+        "b": "竹子",
+        "c": "玉米",
+        "d": "萝卜"
+      },
+      "analysis": "葱的上半部分是绿色的空心叶，下半部分是白色的实心茎，一部分长在地面以上，一部分埋在土里。"
+    },
+    {
+      "questionNumber": 79,
+      "questionText": "像烟不是烟，布满天地间，太阳一出来，赶快都逃散。",
+      "answer": "c",
+      "audioSource": "audio/173",
+      "options": {
+        "a": "雪花",
+        "b": "炊烟",
+        "c": "雾",
+        "d": "灰尘"
+      },
+      "analysis": "太阳出来后，温度升高，雾中的水汽会蒸发，雾就会逐渐消散。"
+    },
+    {
+      "questionNumber": 80,
+      "questionText": "一双玉燕靠地飞，早上出门夜里归。",
+      "answer": "b",
+      "audioSource": "audio/273",
+      "options": {
+        "a": "风筝",
+        "b": "鞋子",
+        "c": "燕子",
+        "d": "滑板"
+      },
+      "analysis": "鞋子像一对贴地飞行的燕子，白天穿出门晚上回家脱下。"
+    },
+    {
+      "questionNumber": 81,
+      "questionText": "有样东西真稀奇，家里电器不能离。要是你去乱碰它，它就对你不客气。",
+      "answer": "c",
+      "audioSource": "audio/350",
+      "options": {
+        "a": "刀",
+        "b": "火",
+        "c": "电",
+        "d": "毒"
+      },
+      "analysis": "电在日常生活中不可或缺，但触碰它会有危险。"
+    },
+    {
+      "questionNumber": 82,
+      "questionText": "青的青，红的红，矮树挂满小灯笼。不是水果和蜜枣，吃到嘴里热烘烘。",
+      "answer": "c",
+      "audioSource": "audio/464",
+      "options": {
+        "a": "大蒜",
+        "b": "山药",
+        "c": "辣椒",
+        "d": "韭菜"
+      },
+      "analysis": "辣椒有青有红，像小灯笼挂在矮树上，吃到嘴里热辣辣的。"
+    },
+    {
+      "questionNumber": 83,
+      "questionText": "头戴一顶尖帽，手舞两股钢叉。晃晃细长头发，就怕大网捉拿。",
+      "answer": "b",
+      "audioSource": "audio/366",
+      "options": {
+        "a": "斑马",
+        "b": "龙虾",
+        "c": "蜻蜓",
+        "d": "金丝雀"
+      },
+      "analysis": "龙虾有尖尖的头，两只大钳子像钢叉，有长须，害怕被网捉住。"
+    },
+    {
+      "questionNumber": 84,
+      "questionText": "有个大红桃，咚咚不停跳。长在胸腔里，人人离不了。",
+      "answer": "b",
+      "audioSource": "audio/482",
+      "options": {
+        "a": "茶几",
+        "b": "心脏",
+        "c": "桌子",
+        "d": "剪刀"
+      },
+      "analysis": "心脏像大红桃，咚咚不停地跳动，在胸腔里，人人都离不开它。"
+    },
+    {
+      "questionNumber": 85,
+      "questionText": "面朝太阳笑，金黄大脸庞，随日转方向，秋来籽满仓。",
+      "options": {
+        "a": "风车",
+        "b": "向日葵",
+        "c": "油菜花",
+        "d": "指南针"
+      },
+      "answer": "b",
+      "analysis": "向日葵总是朝向太阳生长，有着金黄色的花盘，随着太阳转动方向，秋天结出饱满的籽实。",
+      "audioSource": "audio/65"
+    },
+    {
+      "questionNumber": 86,
+      "questionText": "一朵花，手中栽。下雨天，遍地开。",
+      "answer": "b",
+      "audioSource": "audio/510",
+      "options": {
+        "a": "苹果",
+        "b": "雨伞",
+        "c": "电视机",
+        "d": "柜子"
+      },
+      "analysis": "雨伞像一朵花在手中，下雨天打开遍地都是。"
+    },
+    {
+      "questionNumber": 87,
+      "questionText": "方方正正一箱子，肚里装水又装衣，转来转去忙不停，洗净污渍不留痕。",
+      "options": {
+        "a": "书柜",
+        "b": "冰箱",
+        "c": "微波炉",
+        "d": "洗衣机"
+      },
+      "answer": "d",
+      "analysis": "洗衣机外形方正，内部可盛水和衣物，通过旋转运作来清洁衣物。",
+      "audioSource": "audio/144"
+    },
+    {
+      "questionNumber": 88,
+      "questionText": "高耸入云非楼阁，颈长如柱望天涯，斑纹点缀身如画，草原漫步显优雅。",
+      "options": {
+        "a": "椰子树",
+        "b": "长颈鹿",
+        "c": "灯塔",
+        "d": "斑马"
+      },
+      "answer": "b",
+      "analysis": "长颈鹿有着高耸的身躯、长长的脖子、斑驳的花纹，常在草原上优雅地行走。",
+      "audioSource": "audio/21"
+    },
+    {
+      "questionNumber": 89,
+      "questionText": "吃进的是草，挤出的是宝。舍己为人类，功劳可不小。",
+      "answer": "c",
+      "audioSource": "audio/283",
+      "options": {
+        "a": "蜜蜂",
+        "b": "蚕",
+        "c": "奶牛",
+        "d": "马"
+      },
+      "analysis": "奶牛以草为食，为人类提供牛奶等宝贵产品，无私奉献。"
+    },
+    {
+      "questionNumber": 90,
+      "questionText": "像推车，像座椅。腿脚不方便，它能帮助你。",
+      "answer": "a",
+      "audioSource": "audio/526",
+      "options": {
+        "a": "轮椅",
+        "b": "黄豆",
+        "c": "录音机",
+        "d": "电视柜"
+      },
+      "analysis": "轮椅像推车又像座椅，腿脚不方便的人，它能帮助移动。"
+    },
+    {
+      "questionNumber": 91,
+      "questionText": "身躯如山岳，长鼻似巨蟒，耳大如蒲扇，行走稳如钟。",
+      "options": {
+        "a": "河马",
+        "b": "恐龙",
+        "c": "长颈鹿",
+        "d": "大象"
+      },
+      "answer": "d",
+      "analysis": "大象拥有庞大的身躯、长长的鼻子、巨大的耳朵和沉稳的步伐。",
+      "audioSource": "audio/20"
+    },
+    {
+      "questionNumber": 92,
+      "questionText": "最早出现三叠纪，地球霸主了不起。灭绝原因成了谜，至今无人知谜底。",
+      "answer": "b",
+      "audioSource": "audio/422",
+      "options": {
+        "a": "大蒜",
+        "b": "恐龙",
+        "c": "桃树",
+        "d": "玫瑰"
+      },
+      "analysis": "恐龙最早出现在三叠纪，曾经是地球霸主，灭绝原因至今是个谜。"
+    },
+    {
+      "questionNumber": 93,
+      "questionText": "左一孔，右一孔，是香是臭它最懂。",
+      "answer": "b",
+      "audioSource": "audio/187",
+      "options": {
+        "a": "嘴巴",
+        "b": "鼻子",
+        "c": "眼睛",
+        "d": "耳朵"
+      },
+      "analysis": "鼻子位于面部中央两侧各有一个鼻孔，能够辨别气味的好坏。"
+    },
+    {
+      "questionNumber": 94,
+      "questionText": "无骨无壳身柔软，土中穿行不留痕，雨后常见它现身，松土能手不虚传。",
+      "options": {
+        "a": "蜗牛",
+        "b": "泥鳅",
+        "c": "蛇",
+        "d": "蚯蚓"
+      },
+      "answer": "d",
+      "analysis": "蚯蚓身体柔软无骨，能在土壤中灵活移动却不留明显痕迹，尤其雨后常钻出地面，是改良土壤结构的益虫。",
+      "audioSource": "audio/54"
+    },
+    {
+      "questionNumber": 95,
+      "questionText": "身披黄金甲，头顶绿缨帽，粒粒皆饱满，秋来满田笑。",
+      "options": {
+        "a": "土豆",
+        "b": "黄瓜",
+        "c": "向日葵",
+        "d": "玉米"
+      },
+      "answer": "d",
+      "analysis": "玉米的外皮呈金黄色，顶端有绿色的穗须，颗粒饱满，成熟时在田间摇曳。",
+      "audioSource": "audio/110"
+    },
+    {
+      "questionNumber": 96,
+      "questionText": "一物不才，比客先来，客来他不见，客走又出来。",
+      "answer": "a",
+      "audioSource": "audio/272",
+      "options": {
+        "a": "扫帚",
+        "b": "门铃",
+        "c": "椅子",
+        "d": "拖鞋"
+      },
+      "analysis": "扫帚在客人到来前打扫干净，客人来时看不到它，离开后又需要它来清理。"
+    },
+    {
+      "questionNumber": 97,
+      "questionText": "哪种动物尾巴粗，身上花纹像乐谱？王字写在脑门上，走起路来好威武。",
+      "answer": "c",
+      "audioSource": "audio/419",
+      "options": {
+        "a": "海豹",
+        "b": "螳螂",
+        "c": "老虎",
+        "d": "海星"
+      },
+      "analysis": "老虎尾巴粗，身上有花纹像乐谱，额头上有王字，走路很威武。"
+    },
+    {
+      "questionNumber": 98,
+      "questionText": "穿花衣，圆圆脸，高高兴兴一起玩。庆节日，好喜欢，乘着风儿飞上天。",
+      "answer": "d",
+      "audioSource": "audio/531",
+      "options": {
+        "a": "录音机",
+        "b": "橙子",
+        "c": "苹果",
+        "d": "气球"
+      },
+      "analysis": "气球穿花衣圆圆脸，高高兴兴一起玩，庆祝节日时喜欢，乘着风飞上天。"
+    },
+    {
+      "questionNumber": 99,
+      "questionText": "上边草，下边草，中间一颗黑葡萄。",
+      "options": {
+        "a": "眼睛",
+        "b": "蚂蚁",
+        "c": "草莓",
+        "d": "葡萄"
+      },
+      "answer": "a",
+      "analysis": "上边的眉毛和下边的睫毛像草一样，中间的眼珠如同黑葡萄。",
+      "audioSource": "audio/19"
+    },
+    {
+      "questionNumber": 100,
+      "questionText": "拖着一条大尾巴，长着一口小尖牙。爱吃松子和板栗，大树上面来安家。",
+      "answer": "b",
+      "audioSource": "audio/415",
+      "options": {
+        "a": "海雀",
+        "b": "松鼠",
+        "c": "海葵",
+        "d": "蜻蜓"
+      },
+      "analysis": "松鼠有大尾巴，尖尖的牙齿，爱吃松子和板栗，在树上安家。"
+    },
+    {
+      "questionNumber": 101,
+      "questionText": "什么虎？真勇敢，高高楼房敢登攀。密密麻麻小根须，活像个个小吸盘。",
+      "answer": "d",
+      "audioSource": "audio/433",
+      "options": {
+        "a": "槐树",
+        "b": "萝卜",
+        "c": "油菜",
+        "d": "爬山虎"
+      },
+      "analysis": "爬山虎很勇敢，敢爬高楼，有很多小根须像吸盘一样吸附在墙上。"
+    },
+    {
+      "questionNumber": 102,
+      "questionText": "尖尖嘴，细细腿，狡猾多疑拖大尾。",
+      "answer": "a",
+      "audioSource": "audio/195",
+      "options": {
+        "a": "狐狸",
+        "b": "松鼠",
+        "c": "猴子",
+        "d": "狼"
+      },
+      "analysis": "狐狸有着尖尖的嘴和细细的腿，性格狡猾多疑，尾巴又大又蓬松。"
+    },
+    {
+      "questionNumber": 103,
+      "questionText": "身披绿衣裳，头顶小黄花，夏日清凉伴，脆嫩人人夸。",
+      "options": {
+        "a": "西瓜",
+        "b": "黄瓜",
+        "c": "哈密瓜",
+        "d": "青蛙"
+      },
+      "answer": "b",
+      "analysis": "黄瓜外表呈绿色，顶端带有黄色小花，是夏季常见的清凉爽口蔬菜。",
+      "audioSource": "audio/93"
+    },
+    {
+      "questionNumber": 104,
+      "questionText": "四季常青绿，只是花开难，摊开一只手，尖针已扎满。",
+      "answer": "b",
+      "audioSource": "audio/196",
+      "options": {
+        "a": "芦荟",
+        "b": "仙人掌",
+        "c": "松树",
+        "d": "刺猬"
+      },
+      "analysis": "仙人掌常年保持绿色，很少开花，其形状像摊开的手掌，表面布满尖刺。"
+    },
+    {
+      "questionNumber": 105,
+      "questionText": "动作表情很像人，大树再高敢攀登。树间它能来回跳，好像小孩玩秋千。",
+      "answer": "c",
+      "audioSource": "audio/402",
+      "options": {
+        "a": "天鹅",
+        "b": "海龟",
+        "c": "猴子",
+        "d": "蛇"
+      },
+      "analysis": "猴子动作表情像人，敢爬高树，在树间跳跃像小孩玩秋千。"
+    },
+    {
+      "questionNumber": 106,
+      "questionText": "夏天开满火红花，秋天娃娃坐树杈。成群娃娃咧嘴笑，露出满口小红牙。",
+      "answer": "b",
+      "audioSource": "audio/446",
+      "options": {
+        "a": "橡树",
+        "b": "石榴",
+        "c": "山药",
+        "d": "茉莉"
+      },
+      "analysis": "石榴夏天开红花，秋天果实像娃娃坐在树杈上，露出红色籽粒像小红牙。"
+    },
+    {
+      "questionNumber": 107,
+      "questionText": "一个矮胖子,天天挨鞭子。鞭子抽一遍，胖子转圈圈。",
+      "answer": "a",
+      "audioSource": "audio/233",
+      "options": {
+        "a": "陀螺",
+        "b": "磨盘",
+        "c": "风车",
+        "d": "地球仪"
+      },
+      "analysis": "陀螺外形矮胖，抽打后会旋转不停。"
+    },
+    {
+      "questionNumber": 108,
+      "questionText": "两叶花四朵，颜色白又黄，一年开一次，八月放异香。",
+      "answer": "b",
+      "audioSource": "audio/302",
+      "options": {
+        "a": "菊花",
+        "b": "桂花",
+        "c": "梅花",
+        "d": "荷花"
+      },
+      "analysis": "桂花通常有两片叶子和四瓣花朵，颜色呈白或黄，每年八月开花并散发浓郁香气。"
+    },
+    {
+      "questionNumber": 109,
+      "questionText": "一个球，热烘烘，落在西，出在东。",
+      "answer": "b",
+      "audioSource": "audio/319",
+      "options": {
+        "a": "火球",
+        "b": "太阳",
+        "c": "月亮",
+        "d": "地球"
+      },
+      "analysis": "太阳像火球般炽热，从西边落下后又从东方升起。"
+    },
+    {
+      "questionNumber": 110,
+      "questionText": "站起一条线，张开一大片。夏天闹得欢，冬天无事干。",
+      "answer": "c",
+      "audioSource": "audio/499",
+      "options": {
+        "a": "电视机",
+        "b": "李子",
+        "c": "折扇",
+        "d": "桃"
+      },
+      "analysis": "折扇收起是一条线，打开是一大片，夏天用得多，冬天不用。"
+    },
+    {
+      "questionNumber": 111,
+      "questionText": "四四方方，大口一张，独立滚水，转吞衣裳。",
+      "answer": "c",
+      "audioSource": "audio/296",
+      "options": {
+        "a": "冰箱",
+        "b": "电视机",
+        "c": "洗衣机",
+        "d": "微波炉"
+      },
+      "analysis": "洗衣机外形方正，有一个开口可以放入衣物，通过旋转水流来清洗衣服。"
+    },
+    {
+      "questionNumber": 112,
+      "questionText": "天上一只鸟，用线拴得牢，不怕大风吹，就怕细雨飘。",
+      "answer": "d",
+      "audioSource": "audio/244",
+      "options": {
+        "a": "飞机",
+        "b": "鸟",
+        "c": "气球",
+        "d": "风筝"
+      },
+      "analysis": "风筝像鸟一样飞在天上，靠线牵引，大风时飞得更稳，但雨水会损坏它的材质。"
+    },
+    {
+      "questionNumber": 113,
+      "questionText": "身体白又胖，常在泥中藏，浑身是蜂窝，生熟都能尝。",
+      "answer": "d",
+      "audioSource": "audio/333",
+      "options": {
+        "a": "萝卜",
+        "b": "土豆",
+        "c": "蘑菇",
+        "d": "藕"
+      },
+      "analysis": "藕外表洁白粗壮，生长在淤泥里，内部有许多孔洞，既可以生吃也能熟食。"
+    },
+    {
+      "questionNumber": 114,
+      "questionText": "细长身，头戴红帽，一触即发，点亮黑夜。",
+      "options": {
+        "a": "火柴",
+        "b": "红绿灯",
+        "c": "火箭",
+        "d": "蜡烛"
+      },
+      "answer": "a",
+      "analysis": "火柴有着细长的身体，顶端涂有红色的磷，摩擦即可点燃，在黑暗中发出光亮。",
+      "audioSource": "audio/147"
+    },
+    {
+      "questionNumber": 115,
+      "questionText": "稀奇稀奇真稀奇，把人鼻子当马骑。",
+      "options": {
+        "a": "帽子",
+        "b": "眼镜",
+        "c": "手套",
+        "d": "鞋子"
+      },
+      "answer": "b",
+      "analysis": "眼镜架在人的鼻子上，就像骑马时马鞍放在马背上一样。",
+      "audioSource": "audio/5"
+    },
+    {
+      "questionNumber": 116,
+      "questionText": "圆圆身子青变黄，身穿格子花衣裳。绿色头发像鸡冠，喜爱爬高望远方。",
+      "answer": "b",
+      "audioSource": "audio/448",
+      "options": {
+        "a": "芍药",
+        "b": "菠萝",
+        "c": "生菜",
+        "d": "月季"
+      },
+      "analysis": "菠萝圆圆的身子从青变黄，有格子花纹，绿色叶子像鸡冠，喜欢长在高处。"
+    },
+    {
+      "questionNumber": 117,
+      "questionText": "皮肤雪雪白，肚里默默黑，从不偷东西，却说他是贼。",
+      "answer": "b",
+      "audioSource": "audio/212",
+      "options": {
+        "a": "墨鱼",
+        "b": "乌贼",
+        "c": "鱿鱼",
+        "d": "章鱼"
+      },
+      "analysis": "乌贼外表洁白，体内有墨囊能释放黑色墨汁，虽非真贼却因\"贼\"字得名。"
+    },
+    {
+      "questionNumber": 118,
+      "questionText": "颜色有白又有灰，经过驯养很聪明，可以当做联络员，飞山越岭把信送。",
+      "options": {
+        "a": "鹦鹉",
+        "b": "鸽子",
+        "c": "老鹰",
+        "d": "麻雀"
+      },
+      "answer": "b",
+      "analysis": "鸽子有着洁白的羽毛，常被用作传递信件，栖息在屋檐附近，也是和平的象征。",
+      "audioSource": "audio/43"
+    },
+    {
+      "questionNumber": 119,
+      "questionText": "身披绿甲刺如针，沙漠之中独自行，不需雨水常青翠，花开时节更动人。",
+      "options": {
+        "a": "刺猬",
+        "b": "松树",
+        "c": "仙人掌",
+        "d": "玫瑰"
+      },
+      "answer": "c",
+      "analysis": "仙人掌外表布满尖刺，适应干旱环境保持常绿，并在开花时展现独特美感。",
+      "audioSource": "audio/68"
+    },
+    {
+      "questionNumber": 120,
+      "questionText": "千只脚，万只脚，站不住，靠墙角。",
+      "answer": "d",
+      "audioSource": "audio/219",
+      "options": {
+        "a": "椅子",
+        "b": "拖把",
+        "c": "梯子",
+        "d": "扫把"
+      },
+      "analysis": "扫把有许多细条像脚一样，平时不用时靠在墙角放置。"
+    },
+    {
+      "questionNumber": 121,
+      "questionText": "一朵花儿开得大，藤儿牵着高高挂，没有香味没有叶，会唱歌来会说话。",
+      "answer": "d",
+      "audioSource": "audio/250",
+      "options": {
+        "a": "铃铛",
+        "b": "风筝",
+        "c": "气球",
+        "d": "喇叭"
+      },
+      "analysis": "喇叭形状像一朵大花，由藤蔓般的电线悬挂，虽无香味和叶子，但能播放声音。"
+    },
+    {
+      "questionNumber": 122,
+      "questionText": "蹼状脚扁扁嘴，它的衣服不沾水。游到河里像小船，捕捉鱼虾心里美。",
+      "answer": "b",
+      "audioSource": "audio/398",
+      "options": {
+        "a": "壁虎",
+        "b": "鸭子",
+        "c": "大象",
+        "d": "孔雀"
+      },
+      "analysis": "鸭子有蹼状脚和扁嘴，羽毛不沾水，像小船一样在河里游泳捉鱼虾。"
+    },
+    {
+      "questionNumber": 123,
+      "questionText": "能制串串糖葫芦，美得宝宝吐舌头。健脾开胃降血压，可爱红球就是它。",
+      "answer": "d",
+      "audioSource": "audio/445",
+      "options": {
+        "a": "芹菜",
+        "b": "枣树",
+        "c": "月季",
+        "d": "山楂"
+      },
+      "analysis": "山楂能制作糖葫芦，宝宝很喜欢，有健脾开胃降血压的功效。"
+    },
+    {
+      "questionNumber": 124,
+      "questionText": "身披螺纹衣，头戴小帽顶，旋转入深处，固定不动摇。",
+      "options": {
+        "a": "火箭",
+        "b": "陀螺",
+        "c": "铅笔",
+        "d": "螺丝"
+      },
+      "answer": "d",
+      "analysis": "螺丝的外表有螺纹，顶端带有螺帽，通过旋转可以深入物体并稳固固定。",
+      "audioSource": "audio/153"
+    },
+    {
+      "questionNumber": 125,
+      "questionText": "小小扫帚，一手拿牢，白石缝里，天天打扫。",
+      "answer": "d",
+      "audioSource": "audio/328",
+      "options": {
+        "a": "扫把",
+        "b": "梳子",
+        "c": "筷子",
+        "d": "牙刷"
+      },
+      "analysis": "牙刷像一把小扫帚，握在手中每天清洁牙齿缝隙。"
+    },
+    {
+      "questionNumber": 126,
+      "questionText": "一场春雨,蝴蝶嬉戏,再看大地,一片新绿。",
+      "answer": "b",
+      "audioSource": "audio/339",
+      "options": {
+        "a": "春雨",
+        "b": "小草",
+        "c": "蝴蝶",
+        "d": "大地"
+      },
+      "analysis": "春雨滋润后蝴蝶飞舞的景象常伴随着小草萌发，大地因此披上绿装。"
+    },
+    {
+      "questionNumber": 127,
+      "questionText": "背着根根针，田间到处走。遇到危险后，缩成一个球。",
+      "answer": "c",
+      "audioSource": "audio/391",
+      "options": {
+        "a": "海燕",
+        "b": "白鹤",
+        "c": "刺猬",
+        "d": "斑马"
+      },
+      "analysis": "刺猬背上长满刺，在田间活动，遇到危险会缩成球状保护自己。"
+    },
+    {
+      "questionNumber": 128,
+      "questionText": "说像糖它不甜，说像盐它不咸，冬天有时会遇见，夏天谁也见不到。",
+      "answer": "b",
+      "audioSource": "audio/214",
+      "options": {
+        "a": "棉花",
+        "b": "雪",
+        "c": "面粉",
+        "d": "冰"
+      },
+      "analysis": "雪看起来像糖或盐却没有味道，只在寒冷的冬天出现而夏天消失。"
+    },
+    {
+      "questionNumber": 129,
+      "questionText": "像个黄睡袋，睡着小乖乖。打开睡袋来，乖乖白又白。",
+      "answer": "d",
+      "audioSource": "audio/443",
+      "options": {
+        "a": "红薯",
+        "b": "杏树",
+        "c": "芋头",
+        "d": "香蕉"
+      },
+      "analysis": "香蕉像黄色睡袋，里面睡着白色的小乖乖，剥开皮露出白色果肉。"
+    },
+    {
+      "questionNumber": 130,
+      "questionText": "小小一间房，只有一扇窗，唱歌又跳舞，天天变花样。",
+      "answer": "b",
+      "audioSource": "audio/306",
+      "options": {
+        "a": "洗衣机",
+        "b": "电视机",
+        "c": "收音机",
+        "d": "电冰箱"
+      },
+      "analysis": "电视机外形像一个小房间，屏幕是它的窗户，能播放各种歌舞节目且内容每天不同。"
+    },
+    {
+      "questionNumber": 131,
+      "questionText": "名字叫做牛，但是不干活，好像大力士，背着房子走。",
+      "options": {
+        "a": "犀牛",
+        "b": "乌龟",
+        "c": "河马",
+        "d": "蜗牛"
+      },
+      "answer": "d",
+      "analysis": "蜗牛虽名字带“牛”却不耕地，外壳如同移动的房子，展现了它的独特力量。",
+      "audioSource": "audio/12"
+    },
+    {
+      "questionNumber": 132,
+      "questionText": "平日不思，中秋想你，有方有圆，又甜又蜜。",
+      "options": {
+        "a": "汤圆",
+        "b": "月饼",
+        "c": "饼干",
+        "d": "蛋糕"
+      },
+      "answer": "b",
+      "analysis": "月饼一般为中秋节时食用，有圆形和方形，馅料以甜蜜口味为主，是象征团圆的传统节庆食品。",
+      "audioSource": "audio/152"
+    },
+    {
+      "questionNumber": 133,
+      "questionText": "一群小姑娘，花丛嗡嗡唱。不是贪玩耍，采粉来造糖。",
+      "answer": "d",
+      "audioSource": "audio/382",
+      "options": {
+        "a": "老虎",
+        "b": "苍蝇",
+        "c": "蟑螂",
+        "d": "蜜蜂"
+      },
+      "analysis": "蜜蜂在花丛中嗡嗡叫，不是为了玩耍，而是为了采集花粉制造蜂蜜。"
+    },
+    {
+      "questionNumber": 134,
+      "questionText": "一个小娃娃，口小肚肚大。给它人民币，不说答谢话。",
+      "answer": "b",
+      "audioSource": "audio/506",
+      "options": {
+        "a": "洗衣机",
+        "b": "储蓄罐",
+        "c": "书架",
+        "d": "橘子"
+      },
+      "analysis": "储蓄罐像小娃娃，口小肚子大，放钱进去不会说谢谢。"
+    },
+    {
+      "questionNumber": 135,
+      "questionText": "小眼睛长尾巴，夜晚偷粮运回家。见了狗不害怕，就怕猫咪跑来抓。",
+      "answer": "a",
+      "audioSource": "audio/393",
+      "options": {
+        "a": "老鼠",
+        "b": "海参",
+        "c": "长颈鹿",
+        "d": "苍蝇"
+      },
+      "analysis": "老鼠眼睛小尾巴长，晚上偷粮食，不怕狗但怕猫。"
+    },
+    {
+      "questionNumber": 136,
+      "questionText": "细长藤，开黄花，朵朵花儿像喇叭。蜜蜂、蝴蝶来亲它，结出果实甜又大。",
+      "answer": "a",
+      "audioSource": "audio/460",
+      "options": {
+        "a": "南瓜",
+        "b": "芹菜",
+        "c": "栀子",
+        "d": "茶花"
+      },
+      "analysis": "南瓜有细长藤，开黄花像喇叭，蜜蜂蝴蝶喜欢，果实甜大。"
+    },
+    {
+      "questionNumber": 137,
+      "questionText": "两片透明窗，架在鼻梁上，看远又看近，世界更明亮。",
+      "options": {
+        "a": "望远镜",
+        "b": "放大镜",
+        "c": "显微镜",
+        "d": "眼镜"
+      },
+      "answer": "d",
+      "analysis": "眼镜有两片透明镜片，戴在鼻梁上帮助人们看清远近的事物。",
+      "audioSource": "audio/126"
+    },
+    {
+      "questionNumber": 138,
+      "questionText": "万线织成一条线，冰天雪地不怕寒，似蛇围在颈脖中，冬天来临人人爱。",
+      "answer": "d",
+      "audioSource": "audio/348",
+      "options": {
+        "a": "手套",
+        "b": "项链",
+        "c": "腰带",
+        "d": "围巾"
+      },
+      "analysis": "围巾由许多线编织而成，能保暖御寒，常像蛇一样绕在脖子上，是冬季受欢迎的保暖物品。"
+    },
+    {
+      "questionNumber": 139,
+      "questionText": "别看名字消极，其实却很积极，成天忙着劳动，干活特别卖力。",
+      "answer": "b",
+      "audioSource": "audio/308",
+      "options": {
+        "a": "扫帚",
+        "b": "拖拉机",
+        "c": "闹钟",
+        "d": "蜜蜂"
+      },
+      "analysis": "别看名字消极，其实却很积极，成天忙着劳动，干活特别卖力。"
+    },
+    {
+      "questionNumber": 140,
+      "questionText": "清晨一杯香，提神又醒脑。色如黑玉液，苦中带香甜。",
+      "options": {
+        "a": "咖啡",
+        "b": "可乐",
+        "c": "墨水",
+        "d": "茶"
+      },
+      "answer": "a",
+      "analysis": "咖啡在清晨饮用能提神醒脑，颜色深如黑玉，味道苦涩中带有香甜。",
+      "audioSource": "audio/162"
+    },
+    {
+      "questionNumber": 141,
+      "questionText": "铁头木柄身，劈山又开林，挥动风声起，砍伐力千钧。",
+      "options": {
+        "a": "铲子",
+        "b": "斧头",
+        "c": "锯子",
+        "d": "锤子"
+      },
+      "answer": "b",
+      "analysis": "斧头坚硬如铁，木制手柄便于挥动，劈砍时带起风声，是砍伐树木的有力工具。",
+      "audioSource": "audio/154"
+    },
+    {
+      "questionNumber": 142,
+      "questionText": "两只小口袋，天天随身带，要是少一只，就把人笑坏。",
+      "answer": "c",
+      "audioSource": "audio/230",
+      "options": {
+        "a": "眼镜",
+        "b": "手套",
+        "c": "袜子",
+        "d": "鞋子"
+      },
+      "analysis": "袜子有两只，人们每天穿在脚上，少了一只就会显得滑稽可笑。"
+    },
+    {
+      "questionNumber": 143,
+      "questionText": "模样黑黑个头小，尾巴长长吃水草。等到有腿长出来，长长尾巴不见了。",
+      "answer": "b",
+      "audioSource": "audio/362",
+      "options": {
+        "a": "蝴蝶",
+        "b": "蝌蚪",
+        "c": "犀牛",
+        "d": "金丝雀"
+      },
+      "analysis": "蝌蚪小时候是黑色的小动物，有长尾巴，长大后变成青蛙，尾巴消失长出腿。"
+    },
+    {
+      "questionNumber": 144,
+      "questionText": "青皮包白肉，像个大枕头，莫听名称冷，热天菜场有。",
+      "answer": "d",
+      "audioSource": "audio/276",
+      "options": {
+        "a": "西瓜",
+        "b": "哈密瓜",
+        "c": "南瓜",
+        "d": "冬瓜"
+      },
+      "analysis": "冬瓜外皮青绿、内里白嫩，形状像枕头，虽是寒性食材但盛产于夏季菜场。"
+    },
+    {
+      "questionNumber": 145,
+      "questionText": "脱去黄金袍，露出白玉体，身子比豆小，名字有三尺。",
+      "answer": "c",
+      "audioSource": "audio/201",
+      "options": {
+        "a": "玉米",
+        "b": "小麦",
+        "c": "大米",
+        "d": "花生"
+      },
+      "analysis": "大米去掉黄色的外壳后露出白色的米粒，虽然颗粒很小，但“米”字的笔画有三笔（三尺）。"
+    },
+    {
+      "questionNumber": 146,
+      "questionText": "一个黑大汉，靠墙靠壁站，白蛇身上过，脚印人人见。",
+      "answer": "c",
+      "audioSource": "audio/168",
+      "options": {
+        "a": "煤炭",
+        "b": "影子",
+        "c": "黑板",
+        "d": "墨汁"
+      },
+      "analysis": "黑板通常固定在墙上，用粉笔（白蛇）书写后会留下明显的字迹（脚印）。"
+    },
+    {
+      "questionNumber": 147,
+      "questionText": "藤上挂绿袍，身长似蛇绕，切开白如玉，煮汤味道好。",
+      "options": {
+        "a": "丝瓜",
+        "b": "面条",
+        "c": "蟒蛇",
+        "d": "黄瓜"
+      },
+      "answer": "a",
+      "analysis": "丝瓜藤蔓细长缠绕，果实呈绿色长条状，内部洁白，煮熟后汤味鲜美。",
+      "audioSource": "audio/107"
+    },
+    {
+      "questionNumber": 148,
+      "questionText": "齿密如林排成行，轻轻一抚发丝亮，晨起晚睡常相伴，不见其影心慌慌。",
+      "options": {
+        "a": "钢琴",
+        "b": "梳子",
+        "c": "窗帘",
+        "d": "牙刷"
+      },
+      "answer": "b",
+      "analysis": "梳子的齿排列紧密，用于整理头发使其光亮，是人们日常生活中早晚常用的物品，缺少时会让人感到不便。",
+      "audioSource": "audio/128"
+    },
+    {
+      "questionNumber": 149,
+      "questionText": "黄衣小精灵，花间舞不停，采得百花蜜，甜香满园庭。",
+      "options": {
+        "a": "小鸟",
+        "b": "蝴蝶",
+        "c": "风筝",
+        "d": "蜜蜂"
+      },
+      "answer": "d",
+      "analysis": "蜜蜂身穿黄色外衣，在花丛中飞舞采蜜，为花园带来香甜的气息。",
+      "audioSource": "audio/37"
+    },
+    {
+      "questionNumber": 150,
+      "questionText": "圆圆小铁汉，肚里盛着电，不要随处仍，小心有污染。",
+      "answer": "c",
+      "audioSource": "audio/335",
+      "options": {
+        "a": "纽扣",
+        "b": "药片",
+        "c": "电池",
+        "d": "硬币"
+      },
+      "analysis": "电池外形圆小，内部储存电能，随意丢弃会造成环境污染。"
+    },
+    {
+      "questionNumber": 151,
+      "questionText": "身上有节不是竹，紫色皮儿包白骨。连皮带骨一起咬，一边嚼来一边吐。",
+      "answer": "c",
+      "audioSource": "audio/437",
+      "options": {
+        "a": "樱花",
+        "b": "芋头",
+        "c": "甘蔗",
+        "d": "茶花"
+      },
+      "analysis": "甘蔗有节但不是竹子，紫色外皮包着白色茎，连皮带骨一起咬，嚼完吐渣。"
+    },
+    {
+      "questionNumber": 152,
+      "questionText": "叶儿青青像圆锥，花儿白白像圆锤。生来胡子一大把，脑袋钻进土里睡。",
+      "answer": "c",
+      "audioSource": "audio/463",
+      "options": {
+        "a": "玫瑰",
+        "b": "韭菜",
+        "c": "洋葱",
+        "d": "栀子"
+      },
+      "analysis": "洋葱叶子像圆锥，花像圆锤，有很多根须像胡子，根在土里。"
+    },
+    {
+      "questionNumber": 153,
+      "questionText": "尾巴蓬松如扫帚，树上跳跃似飞鸟，储存果实为冬粮，小巧机灵林中跑。",
+      "options": {
+        "a": "松鼠",
+        "b": "麻雀",
+        "c": "扫帚",
+        "d": "松果"
+      },
+      "answer": "a",
+      "analysis": "松鼠有着蓬松的尾巴，善于在树上跳跃，会储存食物过冬，是森林中灵活的小动物。",
+      "audioSource": "audio/31"
+    },
+    {
+      "questionNumber": 154,
+      "questionText": "白白一片似雪花，落下水里就不见。",
+      "answer": "c",
+      "audioSource": "audio/251",
+      "options": {
+        "a": "纸屑",
+        "b": "棉絮",
+        "c": "盐",
+        "d": "花瓣"
+      },
+      "analysis": "盐的外观洁白如雪，放入水中后会迅速溶解消失。"
+    },
+    {
+      "questionNumber": 155,
+      "questionText": "出门旅行，背着小山。不怕路远，不怕干旱。要问它去哪，专走戈壁滩。",
+      "answer": "a",
+      "audioSource": "audio/420",
+      "options": {
+        "a": "骆驼",
+        "b": "蝴蝶",
+        "c": "苍蝇",
+        "d": "斑马"
+      },
+      "analysis": "骆驼背上有驼峰像小山，不怕远路和干旱，专门在戈壁滩上行走。"
+    },
+    {
+      "questionNumber": 156,
+      "questionText": "像对双胞胎，把脚包起来。鞋子穿在外，一起把步迈。",
+      "answer": "b",
+      "audioSource": "audio/512",
+      "options": {
+        "a": "玉米",
+        "b": "袜子",
+        "c": "杏",
+        "d": "电视机"
+      },
+      "analysis": "袜子像双胞胎，把脚包起来，穿在鞋子里面，一起走路。"
+    },
+    {
+      "questionNumber": 157,
+      "questionText": "不用床不用被，身子倒挂吊着睡。喜欢洞穴怕阳光，白天睡觉晚上飞。",
+      "answer": "a",
+      "audioSource": "audio/392",
+      "options": {
+        "a": "蝙蝠",
+        "b": "秃鹫",
+        "c": "海豹",
+        "d": "老鹰"
+      },
+      "analysis": "蝙蝠倒挂着睡觉，喜欢洞穴，怕阳光，白天睡觉晚上活动。"
+    },
+    {
+      "questionNumber": 158,
+      "questionText": "白羽浮绿水，红掌拨清波，曲颈向天歌，声震四野阔。",
+      "options": {
+        "a": "鸭子",
+        "b": "白鹭",
+        "c": "火烈鸟",
+        "d": "白鹅"
+      },
+      "answer": "d",
+      "analysis": "白鹅的白色羽毛浮在绿色水面上，红色脚掌划动清波，弯曲的脖子朝向天空鸣叫，声音洪亮传遍四周。",
+      "audioSource": "audio/61"
+    },
+    {
+      "questionNumber": 159,
+      "questionText": "海中霸主威名扬，尖牙利齿水中藏，游动如风无影踪，捕猎迅猛谁能挡。",
+      "options": {
+        "a": "潜水艇",
+        "b": "章鱼",
+        "c": "海龟",
+        "d": "鲨鱼"
+      },
+      "answer": "d",
+      "analysis": "鲨鱼是海洋中的顶级掠食者，以其锋利的牙齿和迅猛的游速成为令人畏惧的猎手。",
+      "audioSource": "audio/33"
+    },
+    {
+      "questionNumber": 160,
+      "questionText": "八足横行水陆间，双钳挥舞似刀剑，身披铠甲难攻破，秋来肥美宴席前。",
+      "options": {
+        "a": "龙虾",
+        "b": "乌龟",
+        "c": "蜘蛛",
+        "d": "螃蟹"
+      },
+      "answer": "d",
+      "analysis": "螃蟹有八只脚横着行走，生活在水中和陆地上，挥舞着钳子，外壳坚硬，秋天时肉质肥美常被食用。",
+      "audioSource": "audio/49"
+    },
+    {
+      "questionNumber": 161,
+      "questionText": "用手拿不起，用刀劈不开，煮饭和洗衣，都得请我来。",
+      "answer": "b",
+      "audioSource": "audio/271",
+      "options": {
+        "a": "木头",
+        "b": "水",
+        "c": "空气",
+        "d": "石头"
+      },
+      "analysis": "水无法用手拿起或用刀劈开，但煮饭和洗衣都离不开它。"
+    },
+    {
+      "questionNumber": 162,
+      "questionText": "一个黑孩，从不开口，他若开口，先露舌头。",
+      "answer": "b",
+      "audioSource": "audio/203",
+      "options": {
+        "a": "火柴",
+        "b": "瓜子",
+        "c": "西瓜",
+        "d": "铅笔"
+      },
+      "analysis": "瓜子外壳是黑色的，不开口时看不见内部，打开后先露出里面的果仁，形状像舌头。"
+    },
+    {
+      "questionNumber": 163,
+      "questionText": "不怕细菌小，有它能看到，化验需要它，科研不可少。",
+      "answer": "c",
+      "audioSource": "audio/229",
+      "options": {
+        "a": "放大镜",
+        "b": "望远镜",
+        "c": "显微镜",
+        "d": "手术刀"
+      },
+      "analysis": "显微镜能观察微小的细菌，是化验和科研中的重要工具。"
+    },
+    {
+      "questionNumber": 164,
+      "questionText": "外皮金黄似太阳，内藏甜蜜如蜜糖，夏日炎炎最解渴，热带风情满口香。",
+      "options": {
+        "a": "樱桃",
+        "b": "芒果",
+        "c": "西瓜",
+        "d": "葡萄"
+      },
+      "answer": "b",
+      "analysis": "芒果的外皮呈金黄色，果肉甜美多汁，是夏季解渴的热带水果。",
+      "audioSource": "audio/80"
+    },
+    {
+      "questionNumber": 165,
+      "questionText": "一物长来真奇怪，肚皮下头长口袋，小孩袋里吃和睡，跑得不快跳得快。",
+      "answer": "a",
+      "audioSource": "audio/239",
+      "options": {
+        "a": "袋鼠",
+        "b": "企鹅",
+        "c": "兔子",
+        "d": "骆驼"
+      },
+      "analysis": "袋鼠的腹部有一个育儿袋，幼崽在里面生活，它们行动时以跳跃为主而非奔跑。"
+    },
+    {
+      "questionNumber": 166,
+      "questionText": "根在院墙下，顺势墙头爬。花色红白紫，个个像喇叭。",
+      "answer": "b",
+      "audioSource": "audio/428",
+      "options": {
+        "a": "韭菜",
+        "b": "牵牛花",
+        "c": "柏树",
+        "d": "杨树"
+      },
+      "analysis": "牵牛花根在墙下，顺着墙头爬，有红白紫色，花朵像喇叭。"
+    },
+    {
+      "questionNumber": 167,
+      "questionText": "有个朋友真奇怪，有时长来有时短，你走他也走，你停他也停。",
+      "options": {
+        "a": "影子",
+        "b": "路灯",
+        "c": "雨伞",
+        "d": "风筝"
+      },
+      "answer": "a",
+      "analysis": "影子会随着人的移动而变化长短，人动它动，人停它停。",
+      "audioSource": "audio/13"
+    },
+    {
+      "questionNumber": 168,
+      "questionText": "小小诸葛亮，独坐中军帐，摆下八卦阵，专捉飞来将。",
+      "answer": "a",
+      "audioSource": "audio/209",
+      "options": {
+        "a": "蜘蛛",
+        "b": "蝴蝶",
+        "c": "蜻蜓",
+        "d": "蚂蚁"
+      },
+      "analysis": "蜘蛛像诸葛亮一样足智多谋，在网中央布下陷阱等待飞虫自投罗网。"
+    },
+    {
+      "questionNumber": 169,
+      "questionText": "细长身，毛刷头，早晚见，清口腔。",
+      "options": {
+        "a": "筷子",
+        "b": "钉子",
+        "c": "牙刷",
+        "d": "铅笔"
+      },
+      "answer": "c",
+      "analysis": "牙刷有着细长的外形和刷毛，每天早晚用于清洁口腔。",
+      "audioSource": "audio/120"
+    },
+    {
+      "questionNumber": 170,
+      "questionText": "小小孩儿人不爱，水儿见它皱眉头，树儿见它直摇头，云儿见它忙溜走。",
+      "answer": "a",
+      "audioSource": "audio/222",
+      "options": {
+        "a": "风",
+        "b": "雨",
+        "c": "雪",
+        "d": "雷"
+      },
+      "analysis": "风会让水面起波纹、吹动树枝摇晃，也能驱散云朵，但人们往往不喜欢它的强烈吹拂。"
+    },
+    {
+      "questionNumber": 171,
+      "questionText": "紫色树，开紫花，紫色果里盛芝麻。",
+      "answer": "c",
+      "audioSource": "audio/314",
+      "options": {
+        "a": "洋葱",
+        "b": "紫罗兰",
+        "c": "茄子",
+        "d": "葡萄"
+      },
+      "analysis": "茄子外皮呈紫色，开紫色花，果实内部布满细小的籽，形似芝麻。"
+    },
+    {
+      "questionNumber": 172,
+      "questionText": "身披铠甲似将军，鼻上独角显威风，草原漫步显雄姿，力大无穷护家园。",
+      "options": {
+        "a": "犀牛",
+        "b": "坦克",
+        "c": "狮子",
+        "d": "大象"
+      },
+      "answer": "a",
+      "analysis": "犀牛的外皮厚实如铠甲，鼻部长有独特的角，常栖息于草原，以其强壮的体型守护领地。",
+      "audioSource": "audio/29"
+    },
+    {
+      "questionNumber": 173,
+      "questionText": "合起来像把尺，展开像半月，人家笑它冷，它笑大家热。",
+      "answer": "b",
+      "audioSource": "audio/330",
+      "options": {
+        "a": "梳子",
+        "b": "折扇",
+        "c": "雨伞",
+        "d": "尺子"
+      },
+      "analysis": "折扇合拢时形似直尺，展开后状如半月，天热时人们用它取凉，而扇子本身却因被使用而\"感到热\"。"
+    },
+    {
+      "questionNumber": 174,
+      "questionText": "不长在庭院，不开在溪边。砰砰飞上天，朵朵空中现。节日好伙伴，欢乐喜庆添。",
+      "answer": "c",
+      "audioSource": "audio/534",
+      "options": {
+        "a": "小米",
+        "b": "茶几",
+        "c": "烟花",
+        "d": "柜子"
+      },
+      "analysis": "烟花不长在庭院溪边，砰砰飞上天，朵朵在空中绽放，是节日的好伙伴。"
+    },
+    {
+      "questionNumber": 175,
+      "questionText": "农田竖起火红旗，一片珍珠笑眯眯。珍珠还能酿好酒，万众争传好名气。",
+      "answer": "c",
+      "audioSource": "audio/467",
+      "options": {
+        "a": "茶花",
+        "b": "枫树",
+        "c": "红高粱",
+        "d": "韭菜"
+      },
+      "analysis": "红高粱在农田里像火红旗，籽粒像珍珠，能酿酒，很有名气。"
+    },
+    {
+      "questionNumber": 176,
+      "questionText": "两个口袋里，不装麦和米，十个小兄弟，五个住一起。",
+      "answer": "a",
+      "audioSource": "audio/318",
+      "options": {
+        "a": "手套",
+        "b": "裤袋",
+        "c": "帽子",
+        "d": "鞋子"
+      },
+      "analysis": "手套的两边口袋分别装着五根手指，合起来正好十根。"
+    },
+    {
+      "questionNumber": 177,
+      "questionText": "黑衣披身不染尘，叫声凄凉夜半闻，常伴枯枝与冷月，智者门前报吉凶。",
+      "options": {
+        "a": "蝙蝠",
+        "b": "老鹰",
+        "c": "黑猫",
+        "d": "乌鸦"
+      },
+      "answer": "d",
+      "analysis": "乌鸦全身黑色羽毛显得干净，常在夜晚发出凄凉的叫声，栖息于枯枝上，古人认为它的出现能预示吉凶。",
+      "audioSource": "audio/44"
+    },
+    {
+      "questionNumber": 178,
+      "questionText": "像糖不是糖，有圆也有方，帮你把错改，自己不怕脏。",
+      "answer": "d",
+      "audioSource": "audio/169",
+      "options": {
+        "a": "骰子",
+        "b": "糖果",
+        "c": "抹布",
+        "d": "橡皮擦"
+      },
+      "analysis": "橡皮擦形状多样，能擦除笔迹，使用后会变脏。"
+    },
+    {
+      "questionNumber": 179,
+      "questionText": "脏屋子，红被子，里面睡个白胖子。",
+      "answer": "b",
+      "audioSource": "audio/188",
+      "options": {
+        "a": "石榴",
+        "b": "花生",
+        "c": "核桃",
+        "d": "红枣"
+      },
+      "analysis": "花生壳像脏屋子，红色外皮如同红被子，里面的白色果仁就是白胖子。"
+    },
+    {
+      "questionNumber": 180,
+      "questionText": "高高在上，不同形状。头上站岗，把寒冷挡。",
+      "answer": "b",
+      "audioSource": "audio/514",
+      "options": {
+        "a": "鞋柜",
+        "b": "帽子",
+        "c": "高粱",
+        "d": "李子"
+      },
+      "analysis": "帽子戴在头上，有不同形状，站在头上站岗，挡住寒冷。"
+    },
+    {
+      "questionNumber": 181,
+      "questionText": "身体像小山，耳朵像蒲扇。四肢像柱子，鼻子像根管。",
+      "answer": "a",
+      "audioSource": "audio/421",
+      "options": {
+        "a": "大象",
+        "b": "樱花",
+        "c": "榆树",
+        "d": "芹菜"
+      },
+      "analysis": "大象身体像小山，耳朵像蒲扇，四肢像柱子，鼻子像管子。"
+    },
+    {
+      "questionNumber": 182,
+      "questionText": "橙色小姑娘，绿色头发长。身子钻进土，头发没法藏。",
+      "answer": "b",
+      "audioSource": "audio/453",
+      "options": {
+        "a": "茉莉",
+        "b": "胡萝卜",
+        "c": "松树",
+        "d": "玫瑰"
+      },
+      "analysis": "胡萝卜橙色像小姑娘，绿色叶子像头发，根在土里，叶子露在外面。"
+    },
+    {
+      "questionNumber": 183,
+      "questionText": "林间轻盈步，角似树杈生。夜半常惊梦，身披斑点衣。",
+      "options": {
+        "a": "斑马",
+        "b": "长颈鹿",
+        "c": "松鼠",
+        "d": "梅花鹿"
+      },
+      "answer": "d",
+      "analysis": "鹿常在林中轻盈走动，长着树枝般的角，夜间活动时易惊扰他人，皮毛上布满斑点。",
+      "audioSource": "audio/158"
+    },
+    {
+      "questionNumber": 184,
+      "questionText": "溜溜圆光闪闪，两根针会动弹，一根长一根短，嘀哒嘀哒转圈圈。",
+      "answer": "a",
+      "audioSource": "audio/241",
+      "options": {
+        "a": "钟表",
+        "b": "指南针",
+        "c": "陀螺",
+        "d": "算盘"
+      },
+      "analysis": "钟表外形圆润光亮，有两根长短不一的指针不断转动并发出嘀嗒声。"
+    },
+    {
+      "questionNumber": 185,
+      "questionText": "外皮绿纹绕，内里甜如蜜，夏日解暑宝，西域来客稀。",
+      "options": {
+        "a": "芒果",
+        "b": "椰子",
+        "c": "哈密瓜",
+        "d": "菠萝"
+      },
+      "answer": "c",
+      "analysis": "哈密瓜外表有绿色纹路，果肉香甜多汁，是夏季消暑佳品，原产于西域地区。",
+      "audioSource": "audio/78"
+    },
+    {
+      "questionNumber": 186,
+      "questionText": "说它是虎它不像，金钱印在黄袄上，站在山上吼一声，吓跑猴子吓跑狼。",
+      "answer": "d",
+      "audioSource": "audio/282",
+      "options": {
+        "a": "长颈鹿",
+        "b": "老虎",
+        "c": "狮子",
+        "d": "金钱豹"
+      },
+      "analysis": "金钱豹身上的斑纹类似铜钱，黄色的毛皮像黄袄，作为猛兽的吼声能威慑其他动物。"
+    },
+    {
+      "questionNumber": 187,
+      "questionText": "角儿尖尖，胡子长长。爱吃青草，咩咩歌唱。",
+      "answer": "c",
+      "audioSource": "audio/407",
+      "options": {
+        "a": "蜻蜓",
+        "b": "蝴蝶",
+        "c": "山羊",
+        "d": "老鹰"
+      },
+      "analysis": "山羊有尖尖的角，长长的胡子，爱吃草，会咩咩叫。"
+    },
+    {
+      "questionNumber": 188,
+      "questionText": "有个小小怪孩子，年纪不大长胡子。脱掉层层绿袍子，露出满身黄珠子。",
+      "answer": "b",
+      "audioSource": "audio/466",
+      "options": {
+        "a": "萝卜",
+        "b": "玉米",
+        "c": "红薯",
+        "d": "百合"
+      },
+      "analysis": "玉米像怪孩子，年纪不大有胡须，剥去绿色外皮露出黄色玉米粒。"
+    },
+    {
+      "questionNumber": 189,
+      "questionText": "云中有面鼓，躲在最深处，平时它不响，雨前它先唱。",
+      "answer": "b",
+      "audioSource": "audio/223",
+      "options": {
+        "a": "风",
+        "b": "雷",
+        "c": "闪电",
+        "d": "冰雹"
+      },
+      "analysis": "雷声像藏在云中的鼓，通常在降雨前轰隆作响。"
+    },
+    {
+      "questionNumber": 190,
+      "questionText": "从早到晚不说话，却把东西全看下，一黑一亮有规律，天天走它的轨迹。",
+      "answer": "c",
+      "audioSource": "audio/315",
+      "options": {
+        "a": "太阳",
+        "b": "钟表",
+        "c": "时间",
+        "d": "影子"
+      },
+      "analysis": "时间从不言语却见证一切，昼夜交替遵循固定的规律永不停歇。"
+    },
+    {
+      "questionNumber": 191,
+      "questionText": "一座火山环着海，海水沸腾煮着菜。荤菜素菜让你尝，美味可口人人爱。",
+      "answer": "c",
+      "audioSource": "audio/476",
+      "options": {
+        "a": "茶花",
+        "b": "柏树",
+        "c": "火锅",
+        "d": "栀子"
+      },
+      "analysis": "火锅像火山环着海，水沸腾煮菜，荤素菜都有，美味可口人人爱。"
+    },
+    {
+      "questionNumber": 192,
+      "questionText": "头上青丝如针刺，皮肤厚裂像龟甲，越是寒冷越昂扬，一年四季精神好。",
+      "answer": "c",
+      "audioSource": "audio/246",
+      "options": {
+        "a": "仙人掌",
+        "b": "柳树",
+        "c": "松树",
+        "d": "竹子"
+      },
+      "analysis": "松树的针叶如同青丝，树皮粗糙似龟甲，在寒冷中依然挺拔，四季常青。"
+    },
+    {
+      "questionNumber": 193,
+      "questionText": "有眼看不见，有口不说话，长得白又胖，最怕见阳光。",
+      "answer": "b",
+      "audioSource": "audio/305",
+      "options": {
+        "a": "棉花",
+        "b": "雪人",
+        "c": "冰块",
+        "d": "月亮"
+      },
+      "analysis": "雪人没有真正的眼睛和嘴巴，外表洁白臃肿，遇热阳光就会融化消失。"
+    },
+    {
+      "questionNumber": 194,
+      "questionText": "外披鳞甲红如火，内藏珍珠白似雪，热带风情藏其中。",
+      "options": {
+        "a": "火龙果",
+        "b": "椰子",
+        "c": "西瓜",
+        "d": "芒果"
+      },
+      "answer": "a",
+      "analysis": "火龙果外表有红色鳞片状突起，果肉呈白色带有黑色籽粒，是热带水果且常给人带来清凉口感。",
+      "audioSource": "audio/87"
+    },
+    {
+      "questionNumber": 195,
+      "questionText": "两撇小胡子，油嘴小牙齿，贼头又贼脑，喜欢偷油吃。",
+      "answer": "a",
+      "audioSource": "audio/234",
+      "options": {
+        "a": "老鼠",
+        "b": "蟑螂",
+        "c": "猫",
+        "d": "狐狸"
+      },
+      "analysis": "老鼠长着胡须和小尖牙，行为机敏狡猾，常偷吃油类食物。"
+    },
+    {
+      "questionNumber": 196,
+      "questionText": "四四方方一座城，里面埋伏百余兵。接到命令去出征，英勇献身放光明。",
+      "answer": "a",
+      "audioSource": "audio/530",
+      "options": {
+        "a": "火柴",
+        "b": "电视柜",
+        "c": "平板",
+        "d": "床"
+      },
+      "analysis": "火柴盒四四方方像城，里面有很多火柴像兵，点燃后英勇献身发光。"
+    },
+    {
+      "questionNumber": 197,
+      "questionText": "明月当空照，美酒杯中摇，中秋团聚日，共饮乐陶陶。",
+      "answer": "b",
+      "options": {
+        "a": "吃汤圆",
+        "b": "赏月饮酒",
+        "c": "包粽子",
+        "d": "团年饭"
+      },
+      "audioSource": "audio/548",
+      "analysis": "“明月当空”对应赏月，“美酒杯中摇”点出饮酒，合称中秋赏月饮酒之俗。"
+    },
+    {
+      "questionNumber": 198,
+      "questionText": "长方形，两面毛，棉花线线做原料。宝宝手脸擦干净，它脏了，找肥皂。",
+      "answer": "a",
+      "audioSource": "audio/491",
+      "options": {
+        "a": "毛巾",
+        "b": "胶水",
+        "c": "橙子",
+        "d": "钳子"
+      },
+      "analysis": "毛巾长方形，两面有毛，用棉花线做成，宝宝用来擦手脸，脏了用肥皂洗。"
+    },
+    {
+      "questionNumber": 199,
+      "questionText": "人脱衣服，它穿衣服，人脱帽子，它戴帽子。",
+      "answer": "c",
+      "audioSource": "audio/202",
+      "options": {
+        "a": "衣柜",
+        "b": "镜子",
+        "c": "衣帽架",
+        "d": "椅子"
+      },
+      "analysis": "衣帽架在人脱下衣物和帽子时承担起“穿戴”它们的角色。"
+    },
+    {
+      "questionNumber": 200,
+      "questionText": "外皮绿如翡翠，内藏苦涩滋味，夏日清凉解暑，餐桌常见身影。",
+      "options": {
+        "a": "苦瓜",
+        "b": "青椒",
+        "c": "黄瓜",
+        "d": "西瓜"
+      },
+      "answer": "a",
+      "analysis": "苦瓜外表呈绿色，内部味道苦涩，是夏季消暑的常见蔬菜。",
+      "audioSource": "audio/108"
+    },
+    {
+      "questionNumber": 201,
+      "questionText": "生来青又黄，好似水一样，不能下水去，只能浮上水。",
+      "answer": "c",
+      "audioSource": "audio/180",
+      "options": {
+        "a": "蜂蜜",
+        "b": "泡沫",
+        "c": "油",
+        "d": "手帕"
+      },
+      "analysis": "油的颜色是青黄的，看上去形态和水很像，但比水轻会浮在水面上。"
+    },
+    {
+      "questionNumber": 202,
+      "questionText": "好吃没滋味，脏了不能洗，掉到地面上，再也拿不起。",
+      "answer": "d",
+      "audioSource": "audio/321",
+      "options": {
+        "a": "石头",
+        "b": "空气",
+        "c": "影子",
+        "d": "水"
+      },
+      "analysis": "水可以解渴但本身无味，弄脏后无法洗净，洒落地面后便难以收回。"
+    },
+    {
+      "questionNumber": 203,
+      "questionText": "蓬蓬又松松，三月飞空中，远看像雪花，近看一团绒。",
+      "answer": "c",
+      "audioSource": "audio/247",
+      "options": {
+        "a": "雪花",
+        "b": "棉花",
+        "c": "柳絮",
+        "d": "蒲公英"
+      },
+      "analysis": "柳絮轻盈蓬松，常在春季飘散，远观似雪，近看是柔软的絮状物。"
+    },
+    {
+      "questionNumber": 204,
+      "questionText": "一个小娃娃，身上穿红衣，烟头烫一下，大叫飞上天。",
+      "answer": "d",
+      "audioSource": "audio/215",
+      "options": {
+        "a": "烟花",
+        "b": "气球",
+        "c": "红灯笼",
+        "d": "爆竹"
+      },
+      "analysis": "爆竹外表裹着红纸，被点燃后会发出响亮的声音并飞向空中。"
+    },
+    {
+      "questionNumber": 205,
+      "questionText": "红颜多刺藏，香气满园扬，情人间常赠，爱意不言长。",
+      "options": {
+        "a": "巧克力",
+        "b": "香水",
+        "c": "仙人掌",
+        "d": "玫瑰"
+      },
+      "answer": "d",
+      "analysis": "玫瑰带刺却芬芳动人，常被用来表达恋人之间含蓄而浓烈的情感。",
+      "audioSource": "audio/66"
+    },
+    {
+      "questionNumber": 206,
+      "questionText": "全身都是宝，什么都爱吃，吃完就睡觉，走路哼哼叫。",
+      "options": {
+        "a": "大象",
+        "b": "猪",
+        "c": "熊猫",
+        "d": "河马"
+      },
+      "answer": "b",
+      "analysis": "猪全身上下都很有用，什么都吃，懒惰喜欢睡觉， 且叫声是‘哼哼’的。",
+      "audioSource": "audio/26"
+    },
+    {
+      "questionNumber": 207,
+      "questionText": "身子苗条盆中长，长得好像蒜模样。亭亭玉立水里生，开出白花喷喷香。",
+      "answer": "c",
+      "audioSource": "audio/423",
+      "options": {
+        "a": "樱花",
+        "b": "苹果树",
+        "c": "水仙",
+        "d": "韭菜"
+      },
+      "analysis": "水仙花苗条，像蒜一样，在水中生长，开白色花朵很香。"
+    },
+    {
+      "questionNumber": 208,
+      "questionText": "白天黑夜不合眼，风吹雨打它值班。记录所有大小事，警察叔叔好破案。",
+      "answer": "d",
+      "audioSource": "audio/537",
+      "options": {
+        "a": "椅子",
+        "b": "梨",
+        "c": "锤子",
+        "d": "监控器"
+      },
+      "analysis": "监控器白天黑夜不合眼，风吹雨打都在值班，记录所有事情帮助破案。"
+    },
+    {
+      "questionNumber": 209,
+      "questionText": "皮黄肉白心儿甜，秋来挂满枝头间，风吹叶落声清脆，解渴生津人皆爱。",
+      "options": {
+        "a": "枇杷",
+        "b": "西瓜",
+        "c": "梨",
+        "d": "香蕉"
+      },
+      "answer": "c",
+      "analysis": "梨的外皮呈黄色，果肉为白色且味道甜美，秋季成熟挂在枝头，落叶时发出清脆声响，是人们喜爱的解渴水果。",
+      "audioSource": "audio/89"
+    },
+    {
+      "questionNumber": 210,
+      "questionText": "腰间绕一圈，紧束不松脱，皮革或织物，日常不可缺。",
+      "options": {
+        "a": "围巾",
+        "b": "皮带",
+        "c": "钥匙链",
+        "d": "手表"
+      },
+      "answer": "b",
+      "analysis": "皮带通常绕在腰间，由皮革或织物制成，用于固定衣物且日常生活中经常使用。",
+      "audioSource": "audio/130"
+    },
+    {
+      "questionNumber": 211,
+      "questionText": "紫衣裹身长又弯，头顶绿帽笑开颜，夏日园中常见它，炒菜炖汤味更鲜。",
+      "options": {
+        "a": "黄瓜",
+        "b": "葡萄",
+        "c": "茄子",
+        "d": "香蕉"
+      },
+      "answer": "c",
+      "analysis": "茄子外皮呈紫色且形状细长弯曲，顶端带有绿色蒂头，是夏季常见的蔬菜，适合多种烹饪方式。",
+      "audioSource": "audio/94"
+    },
+    {
+      "questionNumber": 212,
+      "questionText": "高高身体顶着它，圆圆滚滚像个瓜。五个大官上面住，相亲相爱不吵架。",
+      "answer": "a",
+      "audioSource": "audio/484",
+      "options": {
+        "a": "头",
+        "b": "螺丝刀",
+        "c": "橘子",
+        "d": "小米"
+      },
+      "analysis": "头在高高的身体顶上，圆圆滚滚像瓜，五官在上面和谐相处。"
+    },
+    {
+      "questionNumber": 213,
+      "questionText": "前面来只船，舵手在上边，来时下小雨，走后路已干。",
+      "answer": "a",
+      "audioSource": "audio/284",
+      "options": {
+        "a": "熨斗",
+        "b": "雨伞",
+        "c": "拖把",
+        "d": "轮船"
+      },
+      "analysis": "熨斗的形状像一只船，使用时冒出蒸汽如同下小雨，熨过衣物后水分蒸发使布料变干。"
+    },
+    {
+      "questionNumber": 214,
+      "questionText": "独木起高楼，没瓦没砖头，人在水下走，水在人上流。",
+      "answer": "a",
+      "audioSource": "audio/207",
+      "options": {
+        "a": "雨伞",
+        "b": "房屋",
+        "c": "帐篷",
+        "d": "树木"
+      },
+      "analysis": "雨伞撑开时像独木搭起的高楼，没有砖瓦结构，人在伞下走时雨水从伞上流下。"
+    },
+    {
+      "questionNumber": 215,
+      "questionText": "方方正正一块宝，遇水化开香气飘，洗去污垢留清香，家家户户少不了。",
+      "options": {
+        "a": "砖头",
+        "b": "巧克力",
+        "c": "茶叶",
+        "d": "香皂"
+      },
+      "answer": "d",
+      "analysis": "香皂形状方正，遇水溶解后散发香味，能清洁去污并留下清香，是日常生活中的必需品。",
+      "audioSource": "audio/123"
+    },
+    {
+      "questionNumber": 216,
+      "questionText": "细长如蛇绕颈间，色彩斑斓显尊贵，正式场合常见它，系紧松紧随人意。",
+      "options": {
+        "a": "领花",
+        "b": "腰带",
+        "c": "丝巾",
+        "d": "领带"
+      },
+      "answer": "d",
+      "analysis": "领带形状细长，常佩戴于颈部，花色多样且多用于正式场合，松紧可自由调节。",
+      "audioSource": "audio/131"
+    },
+    {
+      "questionNumber": 217,
+      "questionText": "铁嘴钢牙咬纸张，轻轻一按便成章，办公桌上常相伴，整理文件它最忙。",
+      "options": {
+        "a": "订书机",
+        "b": "剪刀",
+        "c": "打印机",
+        "d": "橡皮擦"
+      },
+      "answer": "a",
+      "analysis": "订书机用金属部件固定纸张，按压操作即可装订文件，是办公中常用的文具。",
+      "audioSource": "audio/116"
+    },
+    {
+      "questionNumber": 218,
+      "questionText": "秋风吹，寒冷追，排成队伍向南飞。人字一字排得美，遵守纪律不掉队。",
+      "answer": "c",
+      "audioSource": "audio/371",
+      "options": {
+        "a": "海燕",
+        "b": "犀牛",
+        "c": "大雁",
+        "d": "老鹰"
+      },
+      "analysis": "大雁秋天南飞时排成人字或一字形，纪律性强，不会掉队。"
+    },
+    {
+      "questionNumber": 219,
+      "questionText": "生来脖子长，爱把朋友帮。驮着小猴上树梢，叼下树叶小兔尝。",
+      "answer": "b",
+      "audioSource": "audio/408",
+      "options": {
+        "a": "凤凰",
+        "b": "长颈鹿",
+        "c": "海燕",
+        "d": "苍蝇"
+      },
+      "analysis": "长颈鹿脖子很长，帮助朋友，驮小猴上树，叼树叶给小兔吃。"
+    },
+    {
+      "questionNumber": 220,
+      "questionText": "白娃娃，爬黑墙，越爬个儿越变小，再也没法往上长。",
+      "answer": "a",
+      "audioSource": "audio/198",
+      "options": {
+        "a": "粉笔",
+        "b": "雪人",
+        "c": "蜡烛",
+        "d": "冰雕"
+      },
+      "analysis": "粉笔在黑色的黑板上书写时逐渐磨损变短，最终无法继续使用。"
+    },
+    {
+      "questionNumber": 221,
+      "questionText": "坐也是行，立也是行，行也是行，卧也是行。",
+      "answer": "a",
+      "audioSource": "audio/281",
+      "options": {
+        "a": "鱼",
+        "b": "马",
+        "c": "风车",
+        "d": "时钟"
+      },
+      "analysis": "鱼无论是坐、立、行还是卧的姿态，都是在水中游动。"
+    },
+    {
+      "questionNumber": 222,
+      "questionText": "天生驼背，力大无穷，车水马龙，背在身上。",
+      "answer": "c",
+      "audioSource": "audio/204",
+      "options": {
+        "a": "骆驼",
+        "b": "卡车",
+        "c": "桥",
+        "d": "拱门"
+      },
+      "analysis": "桥的形状像驼背，能够承载车辆和行人通行。"
+    },
+    {
+      "questionNumber": 223,
+      "questionText": "噼啪啪，地上冒，一节一节长得高。身穿褐色皮夹克，脱去夹克换绿袄。",
+      "answer": "b",
+      "audioSource": "audio/455",
+      "options": {
+        "a": "柏树",
+        "b": "竹笋",
+        "c": "梨树",
+        "d": "桃树"
+      },
+      "analysis": "竹笋噼啪啪从地上冒出来，一节一节长高，有褐色外皮，剥去后是绿色。"
+    },
+    {
+      "questionNumber": 224,
+      "questionText": "身披铠甲游四海，长寿千年不言败，沙滩产卵留后代，深海潜行无阻碍。",
+      "options": {
+        "a": "螃蟹",
+        "b": "海龟",
+        "c": "金鱼",
+        "d": "龙虾"
+      },
+      "answer": "b",
+      "analysis": "海龟有着坚硬的甲壳，寿命很长，会在沙滩上产卵，并能在深海中自由游动。",
+      "audioSource": "audio/51"
+    },
+    {
+      "questionNumber": 225,
+      "questionText": "长着四只脚，不能走和跑。请宝宝坐好，不累也不叫。",
+      "answer": "a",
+      "audioSource": "audio/524",
+      "options": {
+        "a": "椅子",
+        "b": "空调",
+        "c": "钻头",
+        "d": "电脑"
+      },
+      "analysis": "椅子有四只脚，不能走不能跑，请宝宝坐好，不会累不会叫。"
+    },
+    {
+      "questionNumber": 226,
+      "questionText": "有面没有口，有脚没有手，虽有四只脚，自己不会走。",
+      "options": {
+        "a": "桌子",
+        "b": "花瓶",
+        "c": "钟表",
+        "d": "电视机"
+      },
+      "answer": "a",
+      "analysis": "桌子有桌面但没有开口，有桌腿但没有手臂，虽然四条腿却不能自己移动。",
+      "audioSource": "audio/8"
+    },
+    {
+      "questionNumber": 227,
+      "questionText": "力大无穷耕田地，角弯如月挂天边，草料为食不言苦，默默奉献在人间。",
+      "options": {
+        "a": "月亮",
+        "b": "拖拉机",
+        "c": "大象",
+        "d": "牛"
+      },
+      "answer": "d",
+      "analysis": "牛用强壮的身体耕田，弯角似月亮，以草为食且任劳任怨，为人类辛勤劳作。",
+      "audioSource": "audio/27"
+    },
+    {
+      "questionNumber": 228,
+      "questionText": "憨憨一小老头，不会跑来不会走。让他躺下睡，他就猛摇头。",
+      "answer": "b",
+      "audioSource": "audio/225",
+      "options": {
+        "a": "陀螺",
+        "b": "不倒翁",
+        "c": "木偶",
+        "d": "闹钟"
+      },
+      "analysis": "不倒翁外形像个小老头，无论怎么推倒都会摇头晃脑地重新立起。"
+    },
+    {
+      "questionNumber": 229,
+      "questionText": "爸爸有个小玩具，像架小小除草机，呜呜呜呜满脸跑，只除胡须不除草。",
+      "answer": "c",
+      "audioSource": "audio/538",
+      "options": {
+        "a": "螺丝刀",
+        "b": "圆规",
+        "c": "剃须刀",
+        "d": "柚子"
+      },
+      "analysis": "剃须刀像小除草机，呜呜响在脸上跑，只除胡须不除草。"
+    },
+    {
+      "questionNumber": 230,
+      "questionText": "毛茸茸红红眼，豁豁嘴短短尾。只爱吃菜不吃饭，打洞跑步它在行。",
+      "answer": "d",
+      "audioSource": "audio/401",
+      "options": {
+        "a": "蜥蜴",
+        "b": "喜鹊",
+        "c": "蚂蚁",
+        "d": "兔子"
+      },
+      "analysis": "兔子毛茸茸的，红眼睛，豁嘴短尾，爱吃菜，会打洞和跑步。"
+    },
+    {
+      "questionNumber": 231,
+      "questionText": "一条腿，走得慢，走一走，站一站。老爷爷，老奶奶，出门它是好伙伴。",
+      "answer": "d",
+      "audioSource": "audio/525",
+      "options": {
+        "a": "台灯",
+        "b": "手机",
+        "c": "玉米",
+        "d": "拐杖"
+      },
+      "analysis": "拐杖一条腿，走得慢，走一走站一站，老人出门的好伙伴。"
+    },
+    {
+      "questionNumber": 232,
+      "questionText": "夜行山林间，目光如绿光，群居有纪律，嚎月声震天。",
+      "options": {
+        "a": "狼",
+        "b": "野猪",
+        "c": "猫头鹰",
+        "d": "萤火虫"
+      },
+      "answer": "a",
+      "analysis": "狼常在夜间活动于山林，眼睛在黑暗中发绿，群体生活有序，对月嚎叫声音洪亮。",
+      "audioSource": "audio/25"
+    },
+    {
+      "questionNumber": 233,
+      "questionText": "个头小小叫哥哥，无人时刻善高歌，全靠保护色过活，找它需在丛中捉。",
+      "answer": "c",
+      "audioSource": "audio/360",
+      "options": {
+        "a": "蚂蚁",
+        "b": "蝴蝶",
+        "c": "蝈蝈",
+        "d": "麻雀"
+      },
+      "analysis": "蝈蝈体型小且鸣声响亮，常躲在草丛中依靠绿色保护色隐藏自己。"
+    },
+    {
+      "questionNumber": 234,
+      "questionText": "背上有山峰，行走沙漠间，耐渴又耐劳，商队的好伙伴。",
+      "options": {
+        "a": "仙人掌",
+        "b": "骆驼",
+        "c": "沙丘",
+        "d": "蜥蜴"
+      },
+      "answer": "b",
+      "analysis": "骆驼背上有驼峰，能在沙漠中长时间行走而不需频繁饮水，是商队常用的运输工具。",
+      "audioSource": "audio/28"
+    },
+    {
+      "questionNumber": 235,
+      "questionText": "看着没有，摸着倒有，像冰不化，像水不流。",
+      "answer": "c",
+      "audioSource": "audio/191",
+      "options": {
+        "a": "空气",
+        "b": "镜子",
+        "c": "玻璃",
+        "d": "石头"
+      },
+      "analysis": "玻璃透明看似不存在，触摸却能感受到其存在，具有冰的质感却不会融化，像水一样光滑却不会流动。"
+    },
+    {
+      "questionNumber": 236,
+      "questionText": "硬壳当小屋，都在海底住。空壳能当号，一吹呜呜呜。",
+      "answer": "d",
+      "audioSource": "audio/369",
+      "options": {
+        "a": "蟑螂",
+        "b": "麻雀",
+        "c": "瓢虫",
+        "d": "海螺"
+      },
+      "analysis": "海螺有硬壳作为保护，生活在海底，空壳可以当号角吹出呜呜声。"
+    },
+    {
+      "questionNumber": 237,
+      "questionText": "一群小白鸭，肚子吃得饱。不去河里游，专往锅里跳。问它去干啥，泡个热水澡。",
+      "answer": "c",
+      "audioSource": "audio/472",
+      "options": {
+        "a": "百合",
+        "b": "橡树",
+        "c": "饺子",
+        "d": "槐树"
+      },
+      "analysis": "饺子像小白鸭，肚子鼓鼓的，不去河里游，专门跳到锅里泡热水澡。"
+    },
+    {
+      "questionNumber": 238,
+      "questionText": "说鸟不是鸟，字里有个鸟。会画竹叶子，爱吃小虫子。",
+      "answer": "b",
+      "audioSource": "audio/172",
+      "options": {
+        "a": "风筝",
+        "b": "鸡",
+        "c": "青蛙",
+        "d": "毛笔"
+      },
+      "analysis": "鸡的繁体字“雞”中包含“鸟”字，且鸡爪印形似竹叶，还喜欢啄食虫子。"
+    },
+    {
+      "questionNumber": 239,
+      "questionText": "千根线，万根线，长在头上连一片。每天梳理常清洗，乌黑健康更亮丽。",
+      "answer": "c",
+      "audioSource": "audio/485",
+      "options": {
+        "a": "床",
+        "b": "平板",
+        "c": "头发",
+        "d": "茶几"
+      },
+      "analysis": "头发像千根万根线，长在头上连成一片，每天梳理清洗保持健康。"
+    },
+    {
+      "questionNumber": 240,
+      "questionText": "叶如扇，果似杏，秋来金黄满树梢，千年古树人称宝。",
+      "options": {
+        "a": "枫树",
+        "b": "银杏",
+        "c": "梧桐",
+        "d": "松树"
+      },
+      "answer": "b",
+      "analysis": "银杏的叶子呈扇形，果实像杏子，秋天叶子变黄，是珍贵的古老树种。",
+      "audioSource": "audio/70"
+    },
+    {
+      "questionNumber": 241,
+      "questionText": "它的形状像手掌，沙漠生，沙漠长。绿颜色，刺儿长，不怕风沙不怕旱。",
+      "answer": "d",
+      "audioSource": "audio/434",
+      "options": {
+        "a": "苹果树",
+        "b": "橡树",
+        "c": "月季",
+        "d": "仙人掌"
+      },
+      "analysis": "仙人掌形状像手掌，生长在沙漠，绿色有长刺，不怕风沙和干旱。"
+    },
+    {
+      "questionNumber": 242,
+      "questionText": "像刺猬，真奇怪，满身尖刺竖起来。气味独特营养多，吃上两次就喜爱。",
+      "answer": "a",
+      "audioSource": "audio/450",
+      "options": {
+        "a": "榴莲",
+        "b": "菠菜",
+        "c": "杜鹃",
+        "d": "海棠"
+      },
+      "analysis": "榴莲像刺猬，满身尖刺，气味独特，营养丰富，吃两次就会喜欢。"
+    },
+    {
+      "questionNumber": 243,
+      "questionText": "弯弯曲，曲曲弯，好像黄线一团团。要是想吃开水烫，喷香喷香又解馋。",
+      "answer": "c",
+      "audioSource": "audio/471",
+      "options": {
+        "a": "芋头",
+        "b": "月季",
+        "c": "方便面",
+        "d": "桂花"
+      },
+      "analysis": "方便面弯弯曲曲像黄线团，用开水泡后很香很解馋。"
+    },
+    {
+      "questionNumber": 244,
+      "questionText": "伞盖小又圆，生在木头上，雨后冒出头，香味满山飘。",
+      "options": {
+        "a": "阳伞",
+        "b": "草莓",
+        "c": "松果",
+        "d": "香菇"
+      },
+      "answer": "d",
+      "analysis": "香菇长在木头上，伞盖小而圆，雨后生长并散发香味。",
+      "audioSource": "audio/106"
+    },
+    {
+      "questionNumber": 245,
+      "questionText": "黑白条纹身上披，草原奔跑如风驰，不是马儿却似马，群居生活乐无比。",
+      "options": {
+        "a": "企鹅",
+        "b": "斑马",
+        "c": "足球",
+        "d": "长颈鹿"
+      },
+      "answer": "b",
+      "analysis": "斑马身披黑白条纹，在草原上快速奔跑，外形似马且过着群居生活。",
+      "audioSource": "audio/22"
+    },
+    {
+      "questionNumber": 246,
+      "questionText": "土里生，水里捞，石头缝里走一遭，白白胖胖无骨头，人人爱吃营养高。",
+      "answer": "c",
+      "audioSource": "audio/341",
+      "options": {
+        "a": "鸡蛋",
+        "b": "馒头",
+        "c": "豆腐",
+        "d": "莲藕"
+      },
+      "analysis": "豆腐由土里种植的黄豆制成，经过水泡和石磨加工，最终成为柔软白嫩的营养食品。"
+    },
+    {
+      "questionNumber": 247,
+      "questionText": "红脸圆润挂枝头，甜中带酸滋味稠，秋来丰收满园香，摘下送君解忧愁。",
+      "options": {
+        "a": "红豆",
+        "b": "苹果",
+        "c": "灯笼",
+        "d": "玫瑰"
+      },
+      "answer": "b",
+      "analysis": "苹果成熟时呈现红润的圆球形，酸甜可口，秋季丰收时散发香气，常作为表达心意的礼物。",
+      "audioSource": "audio/72"
+    },
+    {
+      "questionNumber": 248,
+      "questionText": "水里游岸上跳，唱起歌来呱呱叫。夏天稻田捉害虫，冬天洞里睡大觉。",
+      "answer": "b",
+      "audioSource": "audio/363",
+      "options": {
+        "a": "长颈鹿",
+        "b": "青蛙",
+        "c": "鳄鱼",
+        "d": "狮子"
+      },
+      "analysis": "青蛙既能在水里游泳又能在岸上跳跃，会呱呱叫，夏天捉害虫，冬天冬眠。"
+    },
+    {
+      "questionNumber": 249,
+      "questionText": "一头怪牛，两条圆腿，骑他肚上，抓他双角。",
+      "answer": "b",
+      "audioSource": "audio/327",
+      "options": {
+        "a": "滑板车",
+        "b": "自行车",
+        "c": "跷跷板",
+        "d": "摩托车"
+      },
+      "analysis": "自行车的车架形似牛身，两个轮子如同圆腿，人坐在车座上就像骑在牛肚上，而车把则像抓住牛的双角。"
+    },
+    {
+      "questionNumber": 250,
+      "questionText": "全家住在格子间，天天花园里上班，工作时候嗡嗡叫，劳动成果比糖甜。",
+      "answer": "b",
+      "audioSource": "audio/190",
+      "options": {
+        "a": "苍蝇",
+        "b": "蜜蜂",
+        "c": "蝴蝶",
+        "d": "蚂蚁"
+      },
+      "analysis": "蜜蜂住在蜂巢的六边形格子中，白天在花丛中采蜜，飞行时发出嗡嗡声，酿出的蜂蜜比糖更香甜。"
+    },
+    {
+      "questionNumber": 251,
+      "questionText": "有种花儿长得怪，羞羞答答晚上开。花开只有数小时，洁白清香惹人爱。",
+      "answer": "d",
+      "audioSource": "audio/431",
+      "options": {
+        "a": "橡树",
+        "b": "桂花",
+        "c": "芹菜",
+        "d": "昙花"
+      },
+      "analysis": "昙花晚上开放，花期很短只有几小时，白色花朵很香，人们都喜欢。"
+    },
+    {
+      "questionNumber": 252,
+      "questionText": "夜行无声影，双眼如灯明，头似猫非猫，林中守安宁。",
+      "options": {
+        "a": "蝙蝠",
+        "b": "狐狸",
+        "c": "猫头鹰",
+        "d": "萤火虫"
+      },
+      "answer": "c",
+      "analysis": "猫头鹰常在夜间无声飞行，眼睛在黑暗中明亮如灯，头部类似猫但并非猫科动物，栖息于森林中。",
+      "audioSource": "audio/41"
+    },
+    {
+      "questionNumber": 253,
+      "questionText": "身轻如燕，齿密如梳，一入锁孔，门户洞开。",
+      "options": {
+        "a": "锁",
+        "b": "梳子",
+        "c": "羽毛",
+        "d": "钥匙"
+      },
+      "answer": "d",
+      "analysis": "钥匙小巧轻便，齿纹排列紧密，插入锁孔就能打开门锁。",
+      "audioSource": "audio/125"
+    },
+    {
+      "questionNumber": 254,
+      "questionText": "不会跑，不会叫，小小公鸡躲猫猫。红红嘴巴地下钻，绿绿尾巴外面翘。",
+      "answer": "b",
+      "audioSource": "audio/454",
+      "options": {
+        "a": "芹菜",
+        "b": "菠菜",
+        "c": "兰花",
+        "d": "柏树"
+      },
+      "analysis": "菠菜不会跑不会叫，像小公鸡躲猫猫，红色根在地下，绿色叶子在外面。"
+    },
+    {
+      "questionNumber": 255,
+      "questionText": "俩小刀，像兄弟，连一起，不分离。像嘴巴，张又闭，咔嚓嚓，咬东西。",
+      "answer": "d",
+      "audioSource": "audio/502",
+      "options": {
+        "a": "草莓",
+        "b": "钳子",
+        "c": "烤箱",
+        "d": "剪刀"
+      },
+      "analysis": "剪刀像两把小刀连在一起，像嘴巴张合，咔嚓咔嚓剪东西。"
+    },
+    {
+      "questionNumber": 256,
+      "questionText": "五个娃娃一个组，长长短短一起住。两个小组同劳动，你左我右来帮助。",
+      "answer": "c",
+      "audioSource": "audio/483",
+      "options": {
+        "a": "床头柜",
+        "b": "橘子",
+        "c": "手",
+        "d": "草莓"
+      },
+      "analysis": "手有五个手指像娃娃，长短不一，左右手一起劳动互相帮助。"
+    },
+    {
+      "questionNumber": 257,
+      "questionText": "紫衣裹身小圆球，酸甜滋味藏里头，营养丰富人人求。",
+      "options": {
+        "a": "蓝莓",
+        "b": "苹果",
+        "c": "李子",
+        "d": "樱桃"
+      },
+      "answer": "a",
+      "analysis": "蓝莓外皮呈紫色，味道酸甜，富含营养深受喜爱。",
+      "audioSource": "audio/75"
+    },
+    {
+      "questionNumber": 258,
+      "questionText": "有个小姑娘，身穿黄衣裳，你要欺侮它，它就扎一枪。",
+      "answer": "a",
+      "audioSource": "audio/243",
+      "options": {
+        "a": "马蜂",
+        "b": "蝴蝶",
+        "c": "知了",
+        "d": "蜻蜓"
+      },
+      "analysis": "马蜂的外表呈黄色，当受到威胁时会用尾部的刺攻击人。"
+    },
+    {
+      "questionNumber": 259,
+      "questionText": "脚尖身子圆，走路团团转，需要鞭子抽，越抽越欢喜。",
+      "answer": "a",
+      "audioSource": "audio/323",
+      "options": {
+        "a": "陀螺",
+        "b": "气球",
+        "c": "风车",
+        "d": "骰子"
+      },
+      "analysis": "陀螺底部尖尖的，身体圆圆的，旋转时需要鞭子抽打才能持续转动。"
+    },
+    {
+      "questionNumber": 260,
+      "questionText": "头戴红帽穿花衣，敲敲打打不停息，森林医生忙不停，树木健康它欢喜。",
+      "options": {
+        "a": "猫头鹰",
+        "b": "喜鹊",
+        "c": "麻雀",
+        "d": "啄木鸟"
+      },
+      "answer": "d",
+      "analysis": "啄木鸟头顶红色羽毛，身披彩色外衣，通过不断啄木为树木治病。",
+      "audioSource": "audio/63"
+    },
+    {
+      "questionNumber": 261,
+      "questionText": "看上去明又亮，摸上去硬又凉，走上去滑溜溜，碰上火泪汪汪。",
+      "answer": "a",
+      "audioSource": "audio/240",
+      "options": {
+        "a": "冰",
+        "b": "玻璃",
+        "c": "蜡烛",
+        "d": "钻石"
+      },
+      "analysis": "冰看起来透明光亮，触感坚硬冰凉，表面光滑易滑倒，遇热会融化成水。"
+    },
+    {
+      "questionNumber": 262,
+      "questionText": "不见花开只见果，绿叶丛中藏秘密，甜而不露真面目，果实累累挂枝头。",
+      "options": {
+        "a": "无花果",
+        "b": "石榴",
+        "c": "松果",
+        "d": "菠萝"
+      },
+      "answer": "a",
+      "analysis": "无花果不开花却直接结果，果实隐藏在绿叶间，味道甜美且外表不显眼。",
+      "audioSource": "audio/91"
+    },
+    {
+      "questionNumber": 263,
+      "questionText": "个儿不算大，帮着人看家， 身子用铁打，辫子门上挂。",
+      "answer": "b",
+      "audioSource": "audio/218",
+      "options": {
+        "a": "门栓",
+        "b": "锁",
+        "c": "铁锤",
+        "d": "钥匙"
+      },
+      "analysis": "锁体积不大，用于看护家门，由金属制成，挂锁的部分形似辫子挂在门上。"
+    },
+    {
+      "questionNumber": 264,
+      "questionText": "身穿绿衣裳，肚皮水汪汪，生的子孙多，全是黑脸蛋。",
+      "options": {
+        "a": "石榴",
+        "b": "芭乐",
+        "c": "苹果",
+        "d": "西瓜"
+      },
+      "answer": "d",
+      "analysis": "西瓜外皮绿色，富含水分，切开可见黑色籽粒，味道甜美多汁。",
+      "audioSource": "audio/77"
+    },
+    {
+      "questionNumber": 265,
+      "questionText": "小小灯笼树上挂，里面住满小宝宝。",
+      "options": {
+        "a": "灯笼",
+        "b": "草莓",
+        "c": "苹果",
+        "d": "石榴"
+      },
+      "answer": "d",
+      "analysis": "石榴的外皮呈红色像灯笼，内部有许多晶莹的籽粒，成熟时挂满枝头。",
+      "audioSource": "audio/82"
+    },
+    {
+      "questionNumber": 266,
+      "questionText": "跑得快胆子小，爱吃树叶爱吃草。头上犄角像小树，身上穿着白花袄。",
+      "answer": "d",
+      "audioSource": "audio/409",
+      "options": {
+        "a": "喜鹊",
+        "b": "秃鹫",
+        "c": "海螺",
+        "d": "梅花鹿"
+      },
+      "analysis": "梅花鹿跑得快但胆子小，吃树叶和草，头上有像小树的角，身上有白花斑。"
+    },
+    {
+      "questionNumber": 267,
+      "questionText": "叫马不是马，地上不见它，要用它做药，请到海里抓。",
+      "answer": "b",
+      "audioSource": "audio/268",
+      "options": {
+        "a": "章鱼",
+        "b": "海马",
+        "c": "河马",
+        "d": "斑马"
+      },
+      "analysis": "海马虽然名字有“马”，但并非陆地动物，而是生活在海洋中，且具有药用价值。"
+    },
+    {
+      "questionNumber": 268,
+      "questionText": "绿衣裹身圆又小，兄弟成串挂枝梢，剥开外衣见珍珠，煮汤炒菜皆美味。",
+      "options": {
+        "a": "樱桃",
+        "b": "西瓜",
+        "c": "豌豆",
+        "d": "葡萄"
+      },
+      "answer": "c",
+      "analysis": "豌豆外皮呈绿色且小巧圆润，常成串生长在藤蔓上，内部的豆粒像珍珠一样，适合用于烹饪各种菜肴。",
+      "audioSource": "audio/112"
+    },
+    {
+      "questionNumber": 269,
+      "questionText": "圆桌中央坐，热气腾腾冒，众人围一圈，食材任你挑。",
+      "options": {
+        "a": "饮水机",
+        "b": "火锅",
+        "c": "电饭煲",
+        "d": "烤肉架"
+      },
+      "answer": "b",
+      "analysis": "火锅摆在圆桌中央，冒着热气，大家围坐一圈可以自由挑选食材涮煮。",
+      "audioSource": "audio/150"
+    },
+    {
+      "questionNumber": 270,
+      "questionText": "静默无言，映照万物。",
+      "options": {
+        "a": "照片",
+        "b": "影子",
+        "c": "湖水",
+        "d": "镜子"
+      },
+      "answer": "d",
+      "analysis": "镜子不发出声音，却能清晰地反射出面前的景象。",
+      "audioSource": "audio/159"
+    },
+    {
+      "questionNumber": 271,
+      "questionText": "短短腿长长脖，身上背着一口锅。背着锅不生火，遇到危险里面躲。",
+      "answer": "d",
+      "audioSource": "audio/367",
+      "options": {
+        "a": "海马",
+        "b": "萤火虫",
+        "c": "黄鹂",
+        "d": "乌龟"
+      },
+      "analysis": "乌龟有短短的腿和长长的脖子，背上有硬壳像锅，遇到危险会缩进壳里。"
+    },
+    {
+      "questionNumber": 272,
+      "questionText": "体内有台发动机，保证人人有精力，血液流畅营养足，干活学习创奇迹。",
+      "answer": "a",
+      "audioSource": "audio/359",
+      "options": {
+        "a": "心脏",
+        "b": "汽车",
+        "c": "发电机",
+        "d": "电脑"
+      },
+      "analysis": "心脏像一台发动机，通过泵血为身体提供能量和营养，支撑日常活动和学习。"
+    },
+    {
+      "questionNumber": 273,
+      "questionText": "说是牛，不是牛，不吃草，光喝油，工人叔叔送它来，支援农业大丰收。",
+      "answer": "c",
+      "audioSource": "audio/343",
+      "options": {
+        "a": "抽水机",
+        "b": "水牛",
+        "c": "拖拉机",
+        "d": "油罐车"
+      },
+      "analysis": "拖拉机外形像牛但不吃草，依靠燃油驱动，是农民耕作的重要机械。"
+    },
+    {
+      "questionNumber": 274,
+      "questionText": "打打滚，睡大觉，饿了抱着竹笋咬。生来就爱戴墨镜，我们都叫它国宝。",
+      "answer": "a",
+      "audioSource": "audio/416",
+      "options": {
+        "a": "大熊猫",
+        "b": "海螺",
+        "c": "斑马",
+        "d": "蜥蜴"
+      },
+      "analysis": "大熊猫喜欢打滚睡觉，吃竹笋，眼睛周围有黑眼圈像戴墨镜，是国宝。"
+    },
+    {
+      "questionNumber": 275,
+      "questionText": "四四又方方，总爱站卧房。白天来守家，夜晚把班上。搂着小宝宝，甜睡到天亮。",
+      "answer": "c",
+      "audioSource": "audio/521",
+      "options": {
+        "a": "收音机",
+        "b": "高粱",
+        "c": "床",
+        "d": "尺子"
+      },
+      "analysis": "床四四方方，总在卧房里，白天守家，晚上工作，搂着宝宝睡觉。"
+    },
+    {
+      "questionNumber": 276,
+      "questionText": "身穿黑白礼服，行走摇摆如舞，冰天雪地是家，水中游弋自如。",
+      "options": {
+        "a": "海豚",
+        "b": "斑马",
+        "c": "天鹅",
+        "d": "企鹅"
+      },
+      "answer": "d",
+      "analysis": "企鹅有着黑白相间的羽毛，走路时左右摇摆，生活在寒冷的南极，并且擅长在水中游泳。",
+      "audioSource": "audio/45"
+    },
+    {
+      "questionNumber": 277,
+      "questionText": "红脸庞，小麻脸，咬一口，甜滋滋。",
+      "options": {
+        "a": "西红柿",
+        "b": "樱桃",
+        "c": "草莓",
+        "d": "香蕉"
+      },
+      "answer": "c",
+      "analysis": "草莓外表红润，果皮点缀着小籽，味道酸甜可口。",
+      "audioSource": "audio/74"
+    },
+    {
+      "questionNumber": 278,
+      "questionText": "一架小飞机，飞行看天气，晴天飞得高，阴天飞得低。",
+      "answer": "d",
+      "audioSource": "audio/352",
+      "options": {
+        "a": "麻雀",
+        "b": "蝙蝠",
+        "c": "燕子",
+        "d": "蜻蜓"
+      },
+      "analysis": "蜻蜓的飞行高度常随天气变化，晴天时飞得较高，阴天则贴近地面。"
+    },
+    {
+      "questionNumber": 279,
+      "questionText": "是虎不上山，特别会爬墙，不怕尾巴断，断了能再长。",
+      "answer": "b",
+      "audioSource": "audio/291",
+      "options": {
+        "a": "蜗牛",
+        "b": "壁虎",
+        "c": "蜘蛛",
+        "d": "蜥蜴"
+      },
+      "analysis": "壁虎擅长攀爬墙壁而非像老虎生活在山上，且尾部有断后再生能力。"
+    },
+    {
+      "questionNumber": 280,
+      "questionText": "家住青山顶，身上披蓑衣，常在天上游，爱吃兔和鸡。",
+      "options": {
+        "a": "猫头鹰",
+        "b": "老鹰",
+        "c": "大雁",
+        "d": "孔雀"
+      },
+      "answer": "b",
+      "analysis": "老鹰常在山顶筑巢，羽毛的颜色和花纹与蓑衣很相似，在空中翱翔，喜欢捕猎小动物。",
+      "audioSource": "audio/40"
+    },
+    {
+      "questionNumber": 281,
+      "questionText": "老师不说话，肚里学问大，你如不识字，可去请教它。",
+      "answer": "b",
+      "audioSource": "audio/258",
+      "options": {
+        "a": "黑板",
+        "b": "字典",
+        "c": "书包",
+        "d": "电脑"
+      },
+      "analysis": "字典虽不言语，却包含丰富的知识，能帮助人们查找不认识的字词。"
+    },
+    {
+      "questionNumber": 282,
+      "questionText": "叶儿青，桃儿大，桃儿咧嘴开白花。遍地花开雪铺地，又像白云落地下。",
+      "answer": "c",
+      "audioSource": "audio/432",
+      "options": {
+        "a": "榆树",
+        "b": "茶花",
+        "c": "棉花",
+        "d": "菠菜"
+      },
+      "analysis": "棉花叶子青绿，果实像桃子，裂开后露出白色花朵，像雪铺地。"
+    },
+    {
+      "questionNumber": 283,
+      "questionText": "耳朵长，尾巴短，身穿白衣把药碾，住在月宫伴仙子，捣药从不嫌麻烦。",
+      "answer": "b",
+      "options": {
+        "a": "麒麟",
+        "b": "玉兔",
+        "c": "白鹤",
+        "d": "天狗"
+      },
+      "audioSource": "audio/546",
+      "analysis": "长耳短尾、白色形象、月宫捣药——都是“玉兔”的典型意象。"
+    },
+    {
+      "questionNumber": 284,
+      "questionText": "性子像鸭水里游，样子像鸟天上飞，游玩休息成双对，夫妻恩爱永不离。",
+      "answer": "a",
+      "audioSource": "audio/186",
+      "options": {
+        "a": "鸳鸯",
+        "b": "鸭子",
+        "c": "天鹅",
+        "d": "企鹅"
+      },
+      "analysis": "鸳鸯在水中游动时姿态似鸭，飞行时形如鸟类，且以成双成对、终生相伴的习性著称。"
+    },
+    {
+      "questionNumber": 285,
+      "questionText": "是牛从来不耕田，体矮毛密能耐寒，爬冰卧雪善驮运，高原之舟人人赞。",
+      "answer": "b",
+      "audioSource": "audio/199",
+      "options": {
+        "a": "骆驼",
+        "b": "牦牛",
+        "c": "企鹅",
+        "d": "北极熊"
+      },
+      "analysis": "牦牛生活在高原地区，耐寒且擅长驮运，被称为“高原之舟”。"
+    },
+    {
+      "questionNumber": 286,
+      "questionText": "一个玻璃人，一颗水银心。冷了缩脖子，热了往长伸。",
+      "answer": "a",
+      "audioSource": "audio/500",
+      "options": {
+        "a": "温度计",
+        "b": "烤箱",
+        "c": "大麦",
+        "d": "黄豆"
+      },
+      "analysis": "温度计像玻璃人，里面有水银，温度低时水银下降，温度高时上升。"
+    },
+    {
+      "questionNumber": 287,
+      "questionText": "有的长来有的短，有的方来有的圆，能架大桥能造房，小朋友们喜欢玩。",
+      "answer": "b",
+      "audioSource": "audio/293",
+      "options": {
+        "a": "拼图",
+        "b": "积木",
+        "c": "橡皮泥",
+        "d": "铅笔"
+      },
+      "analysis": "积木有不同形状和大小，既能用于搭建大型建筑，也是孩子们喜爱的玩具。"
+    },
+    {
+      "questionNumber": 288,
+      "questionText": "红颜绿衣披，辛辣藏心里，夏日添风味，冬日暖脾胃。",
+      "options": {
+        "a": "辣椒",
+        "b": "西瓜",
+        "c": "围巾",
+        "d": "火焰"
+      },
+      "answer": "a",
+      "analysis": "辣椒外表呈红或绿色，内部带有辛辣味道，既能增添夏日菜肴风味，也能在冬季帮助驱寒暖身。",
+      "audioSource": "audio/98"
+    },
+    {
+      "questionNumber": 289,
+      "questionText": "一团幽香口难言，色如丹桂味如莲，真身已归西天去，十指尖尖在人间。",
+      "answer": "a",
+      "audioSource": "audio/275",
+      "options": {
+        "a": "佛手",
+        "b": "荷花",
+        "c": "桂花",
+        "d": "石榴"
+      },
+      "analysis": "佛手外形似手指，散发幽香如丹桂莲花，虽为植物却常被用作供佛，留下“指尖”般的果实。"
+    },
+    {
+      "questionNumber": 290,
+      "questionText": "身子胖胖站路旁，专吃垃圾不怕脏。人人都把它来喂，文明城市俏模样。",
+      "answer": "c",
+      "audioSource": "audio/498",
+      "options": {
+        "a": "洗衣机",
+        "b": "绿豆",
+        "c": "垃圾桶",
+        "d": "杏"
+      },
+      "analysis": "垃圾桶胖胖的站在路旁，专门装垃圾不怕脏，人人都往里面扔垃圾。"
+    },
+    {
+      "questionNumber": 291,
+      "questionText": "靠墙一条道，能走不能跳。手扶脚又踩，一步一登高。",
+      "answer": "c",
+      "audioSource": "audio/527",
+      "options": {
+        "a": "橘子",
+        "b": "樱桃",
+        "c": "梯子",
+        "d": "胶带"
+      },
+      "analysis": "梯子靠墙像一条道，能走不能跳，手扶脚踩，一步一步登高。"
+    },
+    {
+      "questionNumber": 292,
+      "questionText": "小贼腕足多，好像细胳膊。生在大海里，能够喷黑墨。",
+      "answer": "d",
+      "audioSource": "audio/368",
+      "options": {
+        "a": "老鹰",
+        "b": "百灵鸟",
+        "c": "海龟",
+        "d": "乌贼"
+      },
+      "analysis": "乌贼有很多腕足像细胳膊，生活在海里，遇到危险会喷出黑墨汁。"
+    },
+    {
+      "questionNumber": 293,
+      "questionText": "红衣裹珍珠，秋风笑开颜。内藏千子抱，酸甜皆可尝。",
+      "options": {
+        "a": "石榴",
+        "b": "苹果",
+        "c": "灯笼",
+        "d": "辣椒"
+      },
+      "answer": "a",
+      "analysis": "石榴外皮红艳似红衣，内部籽粒晶莹如珍珠，成熟时裂开如笑脸，内含众多籽粒，味道酸甜可口。",
+      "audioSource": "audio/164"
+    },
+    {
+      "questionNumber": 294,
+      "questionText": "夜晚花儿闭眼睡，清晨开放迎朝阳。叶像马蹄浮水面，花色娇艳白红黄。",
+      "answer": "d",
+      "audioSource": "audio/425",
+      "options": {
+        "a": "樱花",
+        "b": "百合",
+        "c": "生菜",
+        "d": "睡莲"
+      },
+      "analysis": "睡莲晚上闭合睡觉，早上开放迎接太阳，叶子像马蹄浮在水面。"
+    },
+    {
+      "questionNumber": 295,
+      "questionText": "脑袋尖尖眼睛瞎，样子虽丑不可怕。翻土造肥勤劳动，人人喜欢人人夸。",
+      "answer": "d",
+      "audioSource": "audio/390",
+      "options": {
+        "a": "螳螂",
+        "b": "麻雀",
+        "c": "老虎",
+        "d": "蚯蚓"
+      },
+      "analysis": "蚯蚓头尖尖的，没有眼睛，虽然丑但不吓人，翻土造肥，人们都喜欢它。"
+    },
+    {
+      "questionNumber": 296,
+      "questionText": "红红脸儿长麻点，戴着绿帽扎小辫。辫儿一根帽上翘，羞羞答答躲叶间。",
+      "answer": "a",
+      "audioSource": "audio/441",
+      "options": {
+        "a": "草莓",
+        "b": "兰花",
+        "c": "茉莉",
+        "d": "牡丹"
+      },
+      "analysis": "草莓红红的脸有麻点，绿色叶子像帽子，一根茎像辫子，害羞地躲在叶间。"
+    },
+    {
+      "questionNumber": 297,
+      "questionText": "白天草里住，晚上天上飞，带着灯笼把路照，飞来飞去不怕黑。",
+      "options": {
+        "a": "星星",
+        "b": "蝙蝠",
+        "c": "风筝",
+        "d": "萤火虫"
+      },
+      "answer": "d",
+      "analysis": "萤火虫白天栖息在草丛中，夜晚飞行时会发出光亮，像提着灯笼一样照亮周围。",
+      "audioSource": "audio/10"
+    },
+    {
+      "questionNumber": 298,
+      "questionText": "头戴帽，身直站，又能挤，又能钻。修桌椅，建门窗，人人夸它铁打汉。",
+      "answer": "a",
+      "audioSource": "audio/504",
+      "options": {
+        "a": "钉子",
+        "b": "烤箱",
+        "c": "衣柜",
+        "d": "豌豆"
+      },
+      "analysis": "钉子头戴帽，身子直直站着，能挤能钻，用来修桌椅建门窗。"
+    },
+    {
+      "questionNumber": 299,
+      "questionText": "栖息沼泽和田头，随着季节南北走，队列排成人字形，纪律自觉能遵守。",
+      "options": {
+        "a": "大雁",
+        "b": "麻雀",
+        "c": "喜鹊",
+        "d": "燕子"
+      },
+      "answer": "a",
+      "analysis": "大雁常栖息在沼泽或田头,在春秋季节迁徙时排成人字形队伍飞行，飞行时非常遵守纪律。",
+      "audioSource": "audio/64"
+    },
+    {
+      "questionNumber": 300,
+      "questionText": "方方正正坐桌边，不吃不喝不言传，白纸进去字出来，默默工作不偷闲。",
+      "options": {
+        "a": "打印机",
+        "b": "电视机",
+        "c": "台灯",
+        "d": "书架"
+      },
+      "answer": "a",
+      "analysis": "打印机方方正正地放在桌边，将白纸放入后打印出文字，安静地完成工作。",
+      "audioSource": "audio/140"
+    },
+    {
+      "questionNumber": 301,
+      "questionText": "水上一只铃，摇晃没声音，仔细看一看，满脸大眼睛。",
+      "answer": "a",
+      "audioSource": "audio/236",
+      "options": {
+        "a": "莲蓬",
+        "b": "灯笼",
+        "c": "气球",
+        "d": "蜂窝"
+      },
+      "analysis": "莲蓬浮在水面上像一只铃铛，表面布满的孔洞宛如许多眼睛。"
+    },
+    {
+      "questionNumber": 302,
+      "questionText": "土里生土里长，皮黄肉白心儿黄，煮熟香喷喷，生吃脆生生。",
+      "options": {
+        "a": "花生",
+        "b": "萝卜",
+        "c": "土豆",
+        "d": "红薯"
+      },
+      "answer": "c",
+      "analysis": "土豆生长在土里，外皮黄色、内里白色，中心发黄，煮熟后香气扑鼻，生吃时口感脆爽。",
+      "audioSource": "audio/95"
+    },
+    {
+      "questionNumber": 303,
+      "questionText": "一字有五口，与门交朋友，顺贴人人爱，倒贴家家有。",
+      "answer": "a",
+      "audioSource": "audio/320",
+      "options": {
+        "a": "福",
+        "b": "逼",
+        "c": "富",
+        "d": "田"
+      },
+      "analysis": "“福”字由“示”和“畐”（五口）组成，常贴在门上，正贴象征吉祥，倒贴谐音“福到”。"
+    },
+    {
+      "questionNumber": 304,
+      "questionText": "白皮裹着馅，弯弯似月牙，水煮浮水面，香气满屋飘。",
+      "options": {
+        "a": "香蕉",
+        "b": "月亮",
+        "c": "小船",
+        "d": "饺子"
+      },
+      "answer": "d",
+      "analysis": "饺子外皮洁白，内里包着馅料，形状弯弯像月牙，煮熟后会浮在水面，散发出诱人的香味。",
+      "audioSource": "audio/149"
+    },
+    {
+      "questionNumber": 305,
+      "questionText": "绿衣小将跳得高，田间地头常出没，两腿一蹬飞上天，落地无声静悄悄。",
+      "options": {
+        "a": "蜻蜓",
+        "b": "蝴蝶",
+        "c": "蚂蚱",
+        "d": "树叶"
+      },
+      "answer": "c",
+      "analysis": "蚂蚱身着绿色，擅长跳跃，常在田野活动，轻轻一蹬就能跃起，落地时几乎没有声音。",
+      "audioSource": "audio/55"
+    },
+    {
+      "questionNumber": 306,
+      "questionText": "昔日凡尘女，偷吃灵药去，身居广寒宫，遥望故乡地。",
+      "answer": "a",
+      "options": {
+        "a": "嫦娥",
+        "b": "吴刚",
+        "c": "玉兔",
+        "d": "后羿"
+      },
+      "audioSource": "audio/544",
+      "analysis": "“偷吃灵药升月宫”的典故直指嫦娥，中秋传说核心人物。"
+    },
+    {
+      "questionNumber": 307,
+      "questionText": "有山不见一寸土，有地不见半亩田，五湖四海没有水，世界各国在眼前。",
+      "answer": "a",
+      "audioSource": "audio/337",
+      "options": {
+        "a": "地图",
+        "b": "沙盘",
+        "c": "算盘",
+        "d": "年画"
+      },
+      "analysis": "地图展示世界各国的地理位置、疆域范围等信息。"
+    },
+    {
+      "questionNumber": 308,
+      "questionText": "身披铠甲水中游，牙齿锋利似刀钩，静如枯木动如雷，捕食迅猛不回头。",
+      "options": {
+        "a": "螃蟹",
+        "b": "鲨鱼",
+        "c": "鳄鱼",
+        "d": "乌龟"
+      },
+      "answer": "c",
+      "analysis": "鳄鱼的外皮坚硬如铠甲，牙齿尖锐，平时静止不动像枯木，捕食时却迅猛如雷。",
+      "audioSource": "audio/30"
+    },
+    {
+      "questionNumber": 309,
+      "questionText": "看看没有，摸摸倒有，像冰不化，像水不流。",
+      "answer": "c",
+      "audioSource": "audio/288",
+      "options": {
+        "a": "空气",
+        "b": "镜子",
+        "c": "玻璃",
+        "d": "石头"
+      },
+      "analysis": "玻璃透明看不见却能摸到，具有冰的质感却不会融化，像水一样光滑却不会流动。"
+    },
+    {
+      "questionNumber": 310,
+      "questionText": "地上脏，它很忙，灰尘杂物清理光。地面干净它休息，躲在墙角喜洋洋。",
+      "answer": "a",
+      "audioSource": "audio/496",
+      "options": {
+        "a": "扫帚",
+        "b": "电风扇",
+        "c": "大米",
+        "d": "柚子"
+      },
+      "analysis": "扫帚在地上忙，清理灰尘杂物，地面干净后休息，躲在墙角。"
+    },
+    {
+      "questionNumber": 311,
+      "questionText": "一物生得妙，看了哈哈笑，矮子能变高，瘦子能变胖。",
+      "answer": "c",
+      "audioSource": "audio/287",
+      "options": {
+        "a": "投影仪",
+        "b": "放大镜",
+        "c": "哈哈镜",
+        "d": "望远镜"
+      },
+      "analysis": "哈哈镜通过扭曲的镜面让人看到自己变高、变胖等滑稽形象，引发笑声。"
+    },
+    {
+      "questionNumber": 312,
+      "questionText": "许多兄弟一个娘，人人穿着黄衣裳，个个身子都长弯，都有一副软心肠。",
+      "answer": "d",
+      "audioSource": "audio/317",
+      "options": {
+        "a": "向日葵",
+        "b": "弓箭",
+        "c": "月亮",
+        "d": "香蕉"
+      },
+      "analysis": "香蕉生长在同一植株上，外皮呈黄色，形状弯曲，果肉柔软。"
+    },
+    {
+      "questionNumber": 313,
+      "questionText": "两排牙齿闪闪亮，专咬指甲不怕脏。小小细菌无处藏，专心守护保健康。",
+      "answer": "c",
+      "audioSource": "audio/501",
+      "options": {
+        "a": "茶几",
+        "b": "台灯",
+        "c": "指甲钳",
+        "d": "黑莓"
+      },
+      "analysis": "指甲钳有两排牙齿闪闪亮，专门剪指甲，清除细菌保护健康。"
+    },
+    {
+      "questionNumber": 314,
+      "questionText": "小家伙爬树梢，就爱大声唱歌谣。不管别人说什么，总是叫着喊知道。",
+      "answer": "a",
+      "audioSource": "audio/384",
+      "options": {
+        "a": "蝉",
+        "b": "蛇",
+        "c": "甲虫",
+        "d": "孔雀"
+      },
+      "analysis": "蝉喜欢在树梢上大声鸣叫，不管别人说什么，总是叫着知了知了。"
+    },
+    {
+      "questionNumber": 315,
+      "questionText": "有风不动无风动，不动无风动有风。",
+      "options": {
+        "a": "风筝",
+        "b": "扇子",
+        "c": "帆船",
+        "d": "风车"
+      },
+      "answer": "b",
+      "analysis": "扇子在没有风时需要手动摇动来产生风，而有风时则不需要使用。",
+      "audioSource": "audio/4"
+    },
+    {
+      "questionNumber": 316,
+      "questionText": "方方正正一块木，厨房里头它最苦，刀光剑影常相伴，切菜剁肉不喊苦。",
+      "options": {
+        "a": "菜刀",
+        "b": "砧板",
+        "c": "抹布",
+        "d": "锅铲"
+      },
+      "answer": "b",
+      "analysis": "砧板是方正的木质工具，常年在厨房承受刀具的切割而不损坏。",
+      "audioSource": "audio/136"
+    },
+    {
+      "questionNumber": 317,
+      "questionText": "一种蔬菜像灯笼，拳头大小红彤彤。酸甜可口人人爱，热炒凉拌它都在。",
+      "answer": "c",
+      "audioSource": "audio/452",
+      "options": {
+        "a": "山药",
+        "b": "玫瑰",
+        "c": "西红柿",
+        "d": "土豆"
+      },
+      "analysis": "西红柿像灯笼，拳头大小红色，酸甜可口，热炒凉拌都可以。"
+    },
+    {
+      "questionNumber": 318,
+      "questionText": "桌上蹲着一只猫，嘴里叼着线一条，摇头摆尾不捉鼠，光为人们造衣袍。",
+      "answer": "a",
+      "audioSource": "audio/324",
+      "options": {
+        "a": "缝纫机",
+        "b": "绣花针",
+        "c": "毛线",
+        "d": "剪刀"
+      },
+      "analysis": "缝纫机像猫一样蹲在桌上，针线如同叼着的线，工作时机头摆动却不捉老鼠，专门用来缝制衣物。"
+    },
+    {
+      "questionNumber": 319,
+      "questionText": "小小圆盘身，衣上常作伴，两孔穿一线，紧系不分离。",
+      "options": {
+        "a": "戒指",
+        "b": "硬币",
+        "c": "纽扣",
+        "d": "手表"
+      },
+      "answer": "c",
+      "analysis": "纽扣是圆形的小物件，常缝在衣服上，通过两个孔穿线固定，使衣物紧密连接。",
+      "audioSource": "audio/124"
+    },
+    {
+      "questionNumber": 320,
+      "questionText": "方方正正一小盒，数字按键排整齐，加减乘除它都行，算账理财好帮手。",
+      "options": {
+        "a": "电视机",
+        "b": "书包",
+        "c": "微波炉",
+        "d": "计算器"
+      },
+      "answer": "d",
+      "analysis": "计算器外形方正，带有数字按键，能够进行各种数学运算，常用于财务计算。",
+      "audioSource": "audio/118"
+    },
+    {
+      "questionNumber": 321,
+      "questionText": "像马不是马，一身黑头发，地里能干活，田里能载瓜。",
+      "answer": "c",
+      "audioSource": "audio/237",
+      "options": {
+        "a": "牛",
+        "b": "骆驼",
+        "c": "驴",
+        "d": "河马"
+      },
+      "analysis": "驴外形类似马但并非马匹，全身覆盖深色毛发，既能耕地劳作又可驮运农作物。"
+    },
+    {
+      "questionNumber": 322,
+      "questionText": "大树上面值夜班，站得高来望得远。瞪着两只铜铃眼，吓得田鼠腿发软。",
+      "answer": "c",
+      "audioSource": "audio/373",
+      "options": {
+        "a": "野鸭",
+        "b": "海星",
+        "c": "猫头鹰",
+        "d": "百灵鸟"
+      },
+      "analysis": "猫头鹰在树上值夜班，站得高看得远，有铜铃般的眼睛，让田鼠害怕。"
+    },
+    {
+      "questionNumber": 323,
+      "questionText": "一种果儿鸡蛋大，毛茸茸的好奇葩。皮儿薄薄绿色肉，籽儿小小像芝麻。",
+      "answer": "d",
+      "audioSource": "audio/442",
+      "options": {
+        "a": "茉莉",
+        "b": "莴笋",
+        "c": "萝卜",
+        "d": "猕猴桃"
+      },
+      "analysis": "猕猴桃鸡蛋大小，毛茸茸的很奇特，薄皮绿色果肉，籽像芝麻。"
+    },
+    {
+      "questionNumber": 324,
+      "questionText": "头戴红冠不用裁，身披彩衣不用裁，清晨一叫千门开，夜晚归巢月下来。",
+      "options": {
+        "a": "闹钟",
+        "b": "孔雀",
+        "c": "公鸡",
+        "d": "太阳"
+      },
+      "answer": "c",
+      "analysis": "公鸡头上长着红色鸡冠，羽毛色彩艳丽，清晨打鸣报晓，夜晚回窝休息。",
+      "audioSource": "audio/60"
+    },
+    {
+      "questionNumber": 325,
+      "questionText": "身圆口小肚里空，文房四宝它居中，笔杆插满如林立，静待主人挥毫功。",
+      "options": {
+        "a": "笔筒",
+        "b": "闹钟",
+        "c": "灯笼",
+        "d": "花瓶"
+      },
+      "answer": "a",
+      "analysis": "笔筒外形圆润开口小，内部中空用于收纳毛笔，是文房用具中专门放置笔的容器。",
+      "audioSource": "audio/148"
+    },
+    {
+      "questionNumber": 326,
+      "questionText": "紫红藤，地上爬，藤上长绿叶，地下结红瓜。",
+      "answer": "d",
+      "audioSource": "audio/316",
+      "options": {
+        "a": "葡萄",
+        "b": "草莓",
+        "c": "胡萝卜",
+        "d": "红薯"
+      },
+      "analysis": "红薯的藤蔓呈紫红色，匍匐生长，藤上长有绿叶，地下结出红色的块茎。"
+    },
+    {
+      "questionNumber": 327,
+      "questionText": "一位好朋友，天天来聚首，事事告诉我，就是不开口。",
+      "answer": "b",
+      "audioSource": "audio/249",
+      "options": {
+        "a": "收音机",
+        "b": "报纸",
+        "c": "手机",
+        "d": "镜子"
+      },
+      "analysis": "报纸每天都会送来新消息，向我们传递各种信息，却不会发出声音。"
+    },
+    {
+      "questionNumber": 328,
+      "questionText": "长得像竹不是竹，周身有节不太粗，不是紫来就是绿，只吃生来不能熟。",
+      "answer": "a",
+      "audioSource": "audio/292",
+      "options": {
+        "a": "甘蔗",
+        "b": "芦荟",
+        "c": "黄瓜",
+        "d": "竹子"
+      },
+      "analysis": "甘蔗外形似竹有节，颜色多为紫绿，通常生吃而不需烹煮。"
+    },
+    {
+      "questionNumber": 329,
+      "questionText": "日日更新不重样，页页翻过记时光，方寸之间藏岁月，无声无息伴身旁。",
+      "options": {
+        "a": "日历",
+        "b": "相册",
+        "c": "笔记本",
+        "d": "手机"
+      },
+      "answer": "a",
+      "analysis": "日历每天展示新的一页，记录时间的流逝，在小小的页面上承载着岁月的痕迹，默默陪伴在人们身边。",
+      "audioSource": "audio/138"
+    },
+    {
+      "questionNumber": 330,
+      "questionText": "红的花，开得俏，好像公鸡戴红帽。风吹草低头儿昂，昂起头儿不会叫。",
+      "answer": "a",
+      "audioSource": "audio/426",
+      "options": {
+        "a": "鸡冠花",
+        "b": "红薯",
+        "c": "土豆",
+        "d": "榆树"
+      },
+      "analysis": "鸡冠花红色开得俏，像公鸡戴红帽，风吹时昂着头但不会叫。"
+    },
+    {
+      "questionNumber": 331,
+      "questionText": "无口却能言，无眼却能看，无耳却能听，无手却能触。",
+      "options": {
+        "a": "镜子",
+        "b": "手机",
+        "c": "书本",
+        "d": "风"
+      },
+      "answer": "a",
+      "analysis": "镜子能映照出人的言行、样貌、声音和触碰的动作，尽管它本身没有这些器官。",
+      "audioSource": "audio/129"
+    },
+    {
+      "questionNumber": 332,
+      "questionText": "白门楼，红围墙，里面住个红姑娘，酸甜苦辣她都尝。",
+      "answer": "d",
+      "audioSource": "audio/295",
+      "options": {
+        "a": "眼睛",
+        "b": "鼻子",
+        "c": "耳朵",
+        "d": "舌头"
+      },
+      "analysis": "舌头位于口腔（白门楼）中，被嘴唇（红围墙）包围，能品尝各种味道。"
+    },
+    {
+      "questionNumber": 333,
+      "questionText": "说它是水不是水，说它是烟不是烟，一旦升空看不见。",
+      "answer": "c",
+      "audioSource": "audio/310",
+      "options": {
+        "a": "云",
+        "b": "蒸汽",
+        "c": "雾",
+        "d": "灰尘"
+      },
+      "analysis": "雾看似像水却不是水，形似烟却并非烟，升空后便消散无踪。"
+    },
+    {
+      "questionNumber": 334,
+      "questionText": "身背大花扇，模样真好看。飞来又飞去，百花丛中转。",
+      "answer": "d",
+      "audioSource": "audio/381",
+      "options": {
+        "a": "凤凰",
+        "b": "蜥蜴",
+        "c": "河马",
+        "d": "蝴蝶"
+      },
+      "analysis": "蝴蝶有美丽的花纹像扇子，在花丛中飞来飞去，非常漂亮。"
+    },
+    {
+      "questionNumber": 335,
+      "questionText": "没有头，没有脚，只会站着不会跑。不去逛街不出门，却爱穿衣爱戴帽。",
+      "answer": "b",
+      "audioSource": "audio/522",
+      "options": {
+        "a": "柠檬",
+        "b": "衣架",
+        "c": "书桌",
+        "d": "洗衣机"
+      },
+      "analysis": "衣架没有头脚，只会站着不会跑，不出门但爱挂衣服戴帽子。"
+    },
+    {
+      "questionNumber": 336,
+      "questionText": "有点像碗，但比碗浅。菜装里面，供人挑选。",
+      "answer": "a",
+      "audioSource": "audio/488",
+      "options": {
+        "a": "盘子",
+        "b": "螺丝刀",
+        "c": "冰箱",
+        "d": "胶水"
+      },
+      "analysis": "盘子像碗但比碗浅，用来装菜供人挑选。"
+    },
+    {
+      "questionNumber": 337,
+      "questionText": "说它像蛇它不像，头和尾巴都一样，人们用它来健身，跳来跳去乐欢喜。",
+      "answer": "b",
+      "audioSource": "audio/336",
+      "options": {
+        "a": "弹簧",
+        "b": "跳绳",
+        "c": "绳子",
+        "d": "呼啦圈"
+      },
+      "analysis": "跳绳的形状像蛇但不是蛇，两端相同，是常见的健身工具，使用时需要跳跃动作。"
+    },
+    {
+      "questionNumber": 338,
+      "questionText": "身披绿衣四季青，节节高升向天行，空心有节不畏风，文人墨客常题名。",
+      "options": {
+        "a": "旗杆",
+        "b": "松树",
+        "c": "铅笔",
+        "d": "竹子"
+      },
+      "answer": "d",
+      "analysis": "竹子常年翠绿，茎秆中空有节且挺拔向上生长，常被古代文人作为咏颂对象。",
+      "audioSource": "audio/67"
+    },
+    {
+      "questionNumber": 339,
+      "questionText": "绿叶红根藏土中，春来秋去总相逢。营养丰富人称道，炒菜煮汤味无穷。",
+      "options": {
+        "a": "白萝卜",
+        "b": "菠菜",
+        "c": "玫瑰",
+        "d": "土豆"
+      },
+      "answer": "b",
+      "analysis": "菠菜生长时绿叶红根埋于土中，是春秋季节常见蔬菜，富含营养且适合多种烹饪方式。",
+      "audioSource": "audio/103"
+    },
+    {
+      "questionNumber": 340,
+      "questionText": "手掌珍贵似明珠，行动笨拙傻乎乎，每到冬天要冬眠，下水上树有功夫。",
+      "options": {
+        "a": "熊",
+        "b": "老虎",
+        "c": "考拉",
+        "d": "斑马"
+      },
+      "answer": "a",
+      "analysis": "熊掌很珍贵，且熊看上去行动比较笨拙，冬天要冬眠，又会爬树又会游泳。",
+      "audioSource": "audio/23"
+    },
+    {
+      "questionNumber": 341,
+      "questionText": "会飞会跳，吵吵闹闹，吃虫吃粮，功大过小。",
+      "answer": "b",
+      "audioSource": "audio/184",
+      "options": {
+        "a": "孔雀",
+        "b": "麻雀",
+        "c": "青蛙",
+        "d": "蝴蝶"
+      },
+      "analysis": "麻雀喜欢蹦跳移动，叫声喧闹，以昆虫和谷物为食，对人类利大于弊。"
+    },
+    {
+      "questionNumber": 342,
+      "questionText": "倒着披头散发，立着地上乱爬。",
+      "answer": "d",
+      "audioSource": "audio/181",
+      "options": {
+        "a": "章鱼",
+        "b": "扫帚",
+        "c": "柳树",
+        "d": "拖把"
+      },
+      "analysis": "拖把倒放时拖布散开像头发，直立使用时在地面来回移动像爬行。"
+    },
+    {
+      "questionNumber": 343,
+      "questionText": "弯弯绕绕似银蛇，轻轻一夹纸不飞，虽无生命却有心，办公桌上常见它。",
+      "options": {
+        "a": "铅笔",
+        "b": "订书机",
+        "c": "回形针",
+        "d": "橡皮筋"
+      },
+      "answer": "c",
+      "analysis": "回形针的形状弯曲如银蛇，能夹住纸张防止散落，是办公桌上的常用物品。",
+      "audioSource": "audio/117"
+    },
+    {
+      "questionNumber": 344,
+      "questionText": "身体肥，头儿大，脸儿长方宽嘴巴，名字叫马却没毛，常在水中度生涯。",
+      "answer": "a",
+      "audioSource": "audio/266",
+      "options": {
+        "a": "河马",
+        "b": "海豚",
+        "c": "犀牛",
+        "d": "鳄鱼"
+      },
+      "analysis": "河马体型肥胖，头部宽大且呈长方形，虽名为“马”却无毛发，主要栖息在水中生活。"
+    },
+    {
+      "questionNumber": 345,
+      "questionText": "小小木棍排排站，每天起床把人扮。",
+      "answer": "a",
+      "audioSource": "audio/197",
+      "options": {
+        "a": "梳子",
+        "b": "火柴",
+        "c": "牙刷",
+        "d": "筷子"
+      },
+      "analysis": "梳子由许多小木齿排列组成，人们每天起床后用它整理头发。"
+    },
+    {
+      "questionNumber": 346,
+      "questionText": "头黑肚白尾巴长，传说娶妻忘了娘，生活之中人喜爱，因为常来报吉祥。",
+      "answer": "a",
+      "audioSource": "audio/216",
+      "options": {
+        "a": "喜鹊",
+        "b": "燕子",
+        "c": "企鹅",
+        "d": "乌鸦"
+      },
+      "analysis": "喜鹊羽毛黑白相间，尾巴修长，民间传说中与\"鹊桥相会\"相关，其报喜的习性使它成为吉祥的象征。"
+    },
+    {
+      "questionNumber": 347,
+      "questionText": "四季青，巴掌大，用手摸，毛虫扎。",
+      "answer": "b",
+      "audioSource": "audio/260",
+      "options": {
+        "a": "绿萝",
+        "b": "仙人掌",
+        "c": "松树",
+        "d": "刺猬"
+      },
+      "analysis": "仙人掌四季常青，表面布满刺状毛，触摸时容易被扎到。"
+    },
+    {
+      "questionNumber": 348,
+      "questionText": "圆如珍珠挂枝头，皮薄肉厚藏甘甜，夏日炎炎解暑热，果中佳品美名传。",
+      "options": {
+        "a": "龙眼",
+        "b": "葡萄",
+        "c": "山竹",
+        "d": "西瓜"
+      },
+      "answer": "a",
+      "analysis": "龙眼外形圆润如珍珠，果肉甜美多汁，是夏季消暑的佳果。",
+      "audioSource": "audio/86"
+    },
+    {
+      "questionNumber": 349,
+      "questionText": "小小身材藏火种，一按即亮照四方，随身携带方便用，点燃希望不费工。",
+      "options": {
+        "a": "火柴",
+        "b": "蜡烛",
+        "c": "打火机",
+        "d": "灯泡"
+      },
+      "answer": "c",
+      "analysis": "打火机体积小巧，轻轻一按就能发出火焰，便于携带且能快速提供光亮。",
+      "audioSource": "audio/146"
+    },
+    {
+      "questionNumber": 350,
+      "questionText": "身体半球形，背上七颗星，棉花喜爱它，捕虫最著名。",
+      "answer": "b",
+      "audioSource": "audio/269",
+      "options": {
+        "a": "蝴蝶",
+        "b": "七星瓢虫",
+        "c": "蜜蜂",
+        "d": "螳螂"
+      },
+      "analysis": "七星瓢虫的背部呈半球形并有七个黑斑，喜食棉蚜虫，是著名的益虫。"
+    },
+    {
+      "questionNumber": 351,
+      "questionText": "地面爬水里游，外长骨头里长肉。手举两把大钳子，八条长腿横着走。",
+      "answer": "a",
+      "audioSource": "audio/365",
+      "options": {
+        "a": "螃蟹",
+        "b": "老虎",
+        "c": "海星",
+        "d": "海马"
+      },
+      "analysis": "螃蟹有坚硬的外壳，里面是肉，有两只大钳子，八条腿横着走路。"
+    },
+    {
+      "questionNumber": 352,
+      "questionText": "白玉盘，圆又圆，青色板上滚一晚。",
+      "answer": "d",
+      "audioSource": "audio/256",
+      "options": {
+        "a": "瓷盘",
+        "b": "露珠",
+        "c": "珍珠",
+        "d": "月亮"
+      },
+      "analysis": "月亮洁白如玉，形状圆润，夜晚在深蓝色的天空中移动。"
+    },
+    {
+      "questionNumber": 353,
+      "questionText": "速度比马差，耐力胜过马。脾气非常大，蒙眼把磨拉。",
+      "answer": "b",
+      "audioSource": "audio/403",
+      "options": {
+        "a": "长颈鹿",
+        "b": "驴",
+        "c": "苍蝇",
+        "d": "秃鹫"
+      },
+      "analysis": "驴速度比马慢，但耐力比马好，脾气大，蒙着眼睛也能拉磨。"
+    },
+    {
+      "questionNumber": 354,
+      "questionText": "两人不说话，却能传情意，一方有声音，一方无生命。",
+      "answer": "a",
+      "audioSource": "audio/309",
+      "options": {
+        "a": "电话机",
+        "b": "书信",
+        "c": "收音机",
+        "d": "镜子"
+      },
+      "analysis": "电话机让双方无需开口就能交流，通过声音传递信息，而设备本身是没有生命的。"
+    },
+    {
+      "questionNumber": 355,
+      "questionText": "个头大尾巴长，吃青草身体壮。犁地它会来帮忙，庄稼茁壮绿成行。",
+      "answer": "b",
+      "audioSource": "audio/404",
+      "options": {
+        "a": "海贝",
+        "b": "牛",
+        "c": "百灵鸟",
+        "d": "海雀"
+      },
+      "analysis": "牛个头大尾巴长，吃草身体壮，会帮助人们犁地种庄稼。"
+    },
+    {
+      "questionNumber": 356,
+      "questionText": "日夜不停走，声音震天响，清晨催人醒，夜晚伴人眠。",
+      "options": {
+        "a": "瀑布",
+        "b": "雷声",
+        "c": "闹钟",
+        "d": "火车"
+      },
+      "answer": "c",
+      "analysis": "闹钟持续运转，发出响亮的声音，早晨叫醒人们，晚上则安静下来陪伴入睡。",
+      "audioSource": "audio/137"
+    },
+    {
+      "questionNumber": 357,
+      "questionText": "一年四季住家里，天热忙，天冷忙，不冷不热它放假。",
+      "options": {
+        "a": "暖气片",
+        "b": "冰箱",
+        "c": "电风扇",
+        "d": "空调"
+      },
+      "answer": "d",
+      "analysis": "空调在天气炎热或寒冷时工作，温度适宜时则停止运行。",
+      "audioSource": "audio/2"
+    },
+    {
+      "questionNumber": 358,
+      "questionText": "山中一大王，黄袍穿身上，虽然没兵将，一吼谁都怕。",
+      "answer": "c",
+      "audioSource": "audio/338",
+      "options": {
+        "a": "狮子",
+        "b": "豹",
+        "c": "老虎",
+        "d": "猴子"
+      },
+      "analysis": "老虎常居山林，身披黄黑条纹的皮毛，其威猛的吼声足以震慑其他动物。"
+    },
+    {
+      "questionNumber": 359,
+      "questionText": "有个娃娃个不高，常年穿件小红袄。要是哪里着了火，拔腿就朝火海跑。",
+      "answer": "d",
+      "audioSource": "audio/536",
+      "options": {
+        "a": "手机",
+        "b": "台灯",
+        "c": "钳子",
+        "d": "灭火器"
+      },
+      "analysis": "灭火器像娃娃个子不高，穿红袄，哪里着火就往火海跑灭火。"
+    },
+    {
+      "questionNumber": 360,
+      "questionText": "弯弯曲曲像弹簧，袋袋盒盒里面装，想要吃它很方便，只需要开水烫一烫。",
+      "answer": "b",
+      "audioSource": "audio/170",
+      "options": {
+        "a": "速溶咖啡",
+        "b": "方便面",
+        "c": "袋装茶叶",
+        "d": "弹簧"
+      },
+      "analysis": "方便面的形状弯曲如弹簧，常装在袋装或盒装中，食用时只需用开水冲泡即可。"
+    },
+    {
+      "questionNumber": 361,
+      "questionText": "两只胳膊细又长，套在小小耳朵上。灰尘病菌它来挡，身体健健又康康。",
+      "answer": "a",
+      "audioSource": "audio/508",
+      "options": {
+        "a": "口罩",
+        "b": "黑莓",
+        "c": "李子",
+        "d": "高粱"
+      },
+      "analysis": "口罩有两条细长带子，套在耳朵上，挡住灰尘病菌保护健康。"
+    },
+    {
+      "questionNumber": 362,
+      "questionText": "抖抖长须子，拍拍大肚子。开个演唱会，大家都欢喜。",
+      "answer": "a",
+      "audioSource": "audio/388",
+      "options": {
+        "a": "蟋蟀",
+        "b": "鳄鱼",
+        "c": "豹子",
+        "d": "蜥蜴"
+      },
+      "analysis": "蟋蟀有长须，会拍打肚子发出声音，像开演唱会一样让大家开心。"
+    },
+    {
+      "questionNumber": 363,
+      "questionText": "绿冠层层叠，形似小树丛，餐桌常作伴，营养在其中。",
+      "options": {
+        "a": "西兰花",
+        "b": "仙人掌",
+        "c": "玫瑰",
+        "d": "蘑菇"
+      },
+      "answer": "a",
+      "analysis": "西兰花有着层层叠叠的绿色花冠，外形像小树丛，是餐桌上常见的营养蔬菜。",
+      "audioSource": "audio/102"
+    },
+    {
+      "questionNumber": 364,
+      "questionText": "胖胖圆圆不长毛，又像橘子又像桃，霜里风里熬几夜，绿衫换成大红袍。",
+      "answer": "d",
+      "audioSource": "audio/238",
+      "options": {
+        "a": "番茄",
+        "b": "灯笼",
+        "c": "苹果",
+        "d": "柿子"
+      },
+      "analysis": "柿子外形圆润无毛，成熟时颜色由绿转红，经历风霜后更加甜美。"
+    },
+    {
+      "questionNumber": 365,
+      "questionText": "绿衣细长身，弯弯似月牙，藤上挂满串，餐桌常见它。",
+      "options": {
+        "a": "豆角",
+        "b": "黄瓜",
+        "c": "丝带",
+        "d": "香蕉"
+      },
+      "answer": "a",
+      "analysis": "豆角外形细长弯曲如月牙，常成串生长在藤蔓上，是餐桌上常见的绿色蔬菜。",
+      "audioSource": "audio/113"
+    },
+    {
+      "questionNumber": 366,
+      "questionText": "头顶一撮毛，专往人嘴跑。上下左右爬，吐出白泡泡。",
+      "answer": "d",
+      "audioSource": "audio/490",
+      "options": {
+        "a": "茶几",
+        "b": "扳手",
+        "c": "桌子",
+        "d": "牙刷"
+      },
+      "analysis": "牙刷头顶有毛，专门往人嘴里跑，上下左右刷，吐出白泡泡。"
+    },
+    {
+      "questionNumber": 367,
+      "questionText": "水里生来水里长，小时绿来老时黄，去掉外壳黄金甲，煮成白饭喷鼻香。",
+      "answer": "d",
+      "audioSource": "audio/178",
+      "options": {
+        "a": "芦苇",
+        "b": "玉米",
+        "c": "荷花",
+        "d": "水稻"
+      },
+      "analysis": "水稻生长在水中，幼时呈绿色，成熟后变黄，脱壳后露出米粒，煮熟后成为香喷喷的白米饭。"
+    },
+    {
+      "questionNumber": 368,
+      "questionText": "粽子脸，梅花脚，前面喊叫，后面舞刀。",
+      "answer": "c",
+      "audioSource": "audio/325",
+      "options": {
+        "a": "狮子",
+        "b": "猫",
+        "c": "狗",
+        "d": "狐狸"
+      },
+      "analysis": "狗的脸型像粽子，脚印似梅花，吠叫时前面发声，奔跑时尾巴摇摆如舞刀。"
+    },
+    {
+      "questionNumber": 369,
+      "questionText": "夏日炎炎送清凉，冬日寒冷送温暖，静立墙角无声息，调节四季如春般。",
+      "options": {
+        "a": "电风扇",
+        "b": "遮阳伞",
+        "c": "空调",
+        "d": "暖气片"
+      },
+      "answer": "c",
+      "analysis": "空调在夏天提供冷气降温，冬天制热供暖，安静地安装在墙角，保持室内四季如春的舒适温度。",
+      "audioSource": "audio/142"
+    },
+    {
+      "questionNumber": 370,
+      "questionText": "一根草，河边绕，水上开白花，水下结元宝。",
+      "answer": "b",
+      "audioSource": "audio/235",
+      "options": {
+        "a": "莲蓬",
+        "b": "菱角",
+        "c": "芦苇",
+        "d": "荷花"
+      },
+      "analysis": "菱角的茎叶浮在水面开白花，果实生长在水下，形状像元宝。"
+    },
+    {
+      "questionNumber": 371,
+      "questionText": "绿叶浮水面，花开映日红，淤泥不染身，清香远飘送。",
+      "options": {
+        "a": "向日葵",
+        "b": "金鱼",
+        "c": "气球",
+        "d": "荷花"
+      },
+      "answer": "d",
+      "analysis": "荷花生长在水中，绿叶浮于水面，花朵在阳光下鲜艳绽放，出淤泥而不染，并散发清香。",
+      "audioSource": "audio/71"
+    },
+    {
+      "questionNumber": 372,
+      "questionText": "花花布匹，遮着玻璃。阳光无力，照到屋里。",
+      "answer": "c",
+      "audioSource": "audio/517",
+      "options": {
+        "a": "镜子",
+        "b": "收音机",
+        "c": "窗帘",
+        "d": "黑麦"
+      },
+      "analysis": "窗帘是花花布匹，遮住玻璃，挡住阳光，让屋里光线柔和。"
+    },
+    {
+      "questionNumber": 373,
+      "questionText": "晴天挂彩桥，雨后才看到，五颜又六色，天上一道光。",
+      "answer": "c",
+      "audioSource": "audio/334",
+      "options": {
+        "a": "风筝",
+        "b": "极光",
+        "c": "彩虹",
+        "d": "气球"
+      },
+      "analysis": "彩虹在雨后天晴时出现，呈现七彩的光桥形状。"
+    },
+    {
+      "questionNumber": 374,
+      "questionText": "滑溜溜，光亮亮，眼睛生在屁股上。",
+      "answer": "c",
+      "audioSource": "audio/326",
+      "options": {
+        "a": "勺子",
+        "b": "别针",
+        "c": "针",
+        "d": "纽扣"
+      },
+      "analysis": "针的表面光滑发亮，针眼位于针的尾部。"
+    },
+    {
+      "questionNumber": 375,
+      "questionText": "身子小来肚皮大，四条小腿爱蹦跶。身上长满小疙瘩，说话只叫咕儿嘎。",
+      "answer": "d",
+      "audioSource": "audio/364",
+      "options": {
+        "a": "海葵",
+        "b": "海狮",
+        "c": "蟑螂",
+        "d": "蟾蜍"
+      },
+      "analysis": "癞蛤蟆身体小但肚子大，有四条腿喜欢跳跃，身上有疙瘩，叫声是咕儿嘎。"
+    },
+    {
+      "questionNumber": 376,
+      "questionText": "来到屋里，赶也赶不走，时间一到，不赶就会走。",
+      "answer": "b",
+      "audioSource": "audio/252",
+      "options": {
+        "a": "风",
+        "b": "阳光",
+        "c": "灰尘",
+        "d": "烟雾"
+      },
+      "analysis": "阳光照进屋内不会因驱赶而消失，但随时间流逝自然消失。"
+    },
+    {
+      "questionNumber": 377,
+      "questionText": "糖是皮来果是馅，一串一串红艳艳，冬天吃它不难买，夏天和它难见面。",
+      "answer": "c",
+      "audioSource": "audio/290",
+      "options": {
+        "a": "棉花糖",
+        "b": "草莓",
+        "c": "糖葫芦",
+        "d": "冰糖橙"
+      },
+      "analysis": "糖葫芦用糖包裹水果制成，颜色红艳，冬季常见而夏季少见。"
+    },
+    {
+      "questionNumber": 378,
+      "questionText": "尾巴大脑袋小，跳远冠军都夸好。肚皮长个小口袋，里面装着小宝宝。",
+      "answer": "d",
+      "audioSource": "audio/414",
+      "options": {
+        "a": "螳螂",
+        "b": "瓢虫",
+        "c": "金丝雀",
+        "d": "袋鼠"
+      },
+      "analysis": "袋鼠尾巴大脑袋小，跳得很远，肚子上有口袋装小宝宝。"
+    },
+    {
+      "questionNumber": 379,
+      "questionText": "甲虫半圆一身红，背上七颗黑星星。消灭蚜虫显本领，都夸它是小英雄。",
+      "answer": "a",
+      "audioSource": "audio/380",
+      "options": {
+        "a": "七星瓢虫",
+        "b": "凤凰",
+        "c": "变色龙",
+        "d": "瓢虫"
+      },
+      "analysis": "七星瓢虫是红色的甲虫，背上有七颗黑星，能消灭蚜虫，被人们称为小英雄。"
+    },
+    {
+      "questionNumber": 380,
+      "questionText": "两头细，中间粗，衣裳缀满绿珍珠。尝一尝，有点苦，它能清热又解毒。",
+      "answer": "c",
+      "audioSource": "audio/459",
+      "options": {
+        "a": "白菜",
+        "b": "桂花",
+        "c": "苦瓜",
+        "d": "百合"
+      },
+      "analysis": "苦瓜两头细中间粗，绿色表面有疙瘩像珍珠，味道苦，能清热解毒。"
+    },
+    {
+      "questionNumber": 381,
+      "questionText": "小小象头儿，伸着长鼻儿，扭它耳朵儿，哗哗掉泪儿。",
+      "answer": "d",
+      "audioSource": "audio/495",
+      "options": {
+        "a": "锯子",
+        "b": "绿豆",
+        "c": "床头柜",
+        "d": "水龙头"
+      },
+      "analysis": "水龙头像小象头，有长鼻子，扭动开关，水哗哗流出来。"
+    },
+    {
+      "questionNumber": 382,
+      "questionText": "兄弟五个人，各走各的门，谁要走错了，出来笑死人。",
+      "options": {
+        "a": "帽子",
+        "b": "插座",
+        "c": "手套",
+        "d": "鞋子"
+      },
+      "answer": "c",
+      "analysis": "手套有五根手指，每根手指都有自己的位置，如果手指穿错了位置，看起来会很滑稽。",
+      "audioSource": "audio/3"
+    },
+    {
+      "questionNumber": 383,
+      "questionText": "一只大公鸡，天天在那里，晚上不进笼，早上也不啼。",
+      "answer": "b",
+      "audioSource": "audio/277",
+      "options": {
+        "a": "竹子",
+        "b": "鸡冠花",
+        "c": "牡丹花",
+        "d": "向日葵"
+      },
+      "analysis": "鸡冠花形似公鸡的鸡冠，但不像真正的公鸡那样有作息规律和啼叫习性。"
+    },
+    {
+      "questionNumber": 384,
+      "questionText": "能吃没有嘴，能跳没有腿，有河没有水，走路不后悔。",
+      "answer": "a",
+      "audioSource": "audio/347",
+      "options": {
+        "a": "象棋",
+        "b": "蚯蚓",
+        "c": "乌龟",
+        "d": "青蛙"
+      },
+      "analysis": "象棋的棋子可以“吃”对方但无嘴，“跳马”移动不需腿，棋盘有“楚河”却无水，落子后不能反悔。"
+    },
+    {
+      "questionNumber": 385,
+      "questionText": "肚大能容水，嘴小出细流，身披彩衣裳，常伴茶香游。",
+      "options": {
+        "a": "彩虹",
+        "b": "茶壶",
+        "c": "喷泉",
+        "d": "花瓶"
+      },
+      "answer": "b",
+      "analysis": "茶壶有一个大肚子装水，小嘴倒水，外表常有装饰，主要用于泡茶。",
+      "audioSource": "audio/133"
+    },
+    {
+      "questionNumber": 386,
+      "questionText": "身体重，脑袋大，四肢短，扁嘴巴。生娃喂奶在水中，常把小河当成家。",
+      "answer": "a",
+      "audioSource": "audio/412",
+      "options": {
+        "a": "河马",
+        "b": "野鸭",
+        "c": "百灵鸟",
+        "d": "豹子"
+      },
+      "analysis": "河马身体重脑袋大，四肢短嘴巴扁，在水中生宝宝喂奶，喜欢住在河里。"
+    },
+    {
+      "questionNumber": 387,
+      "questionText": "身披彩衣随境变，眼珠转动似探针，舌长如箭捕飞虫，林中隐士善藏身。",
+      "options": {
+        "a": "彩衣",
+        "b": "变色龙",
+        "c": "长颈鹿",
+        "d": "孔雀"
+      },
+      "answer": "b",
+      "analysis": "变色龙能够根据环境改变体色，眼睛可独立转动，用长舌捕食昆虫，并擅长在树林中隐蔽自己。",
+      "audioSource": "audio/62"
+    },
+    {
+      "questionNumber": 388,
+      "questionText": "圆滚滚身披黄，藤蔓缠绕地上躺，秋来丰收笑开颜，万圣夜里扮鬼脸。",
+      "options": {
+        "a": "向日葵",
+        "b": "灯笼",
+        "c": "南瓜",
+        "d": "西瓜"
+      },
+      "answer": "c",
+      "analysis": "南瓜外形圆滚呈黄色，生长在藤蔓上，秋季成熟丰收，也是万圣节制作南瓜灯的原料。",
+      "audioSource": "audio/109"
+    },
+    {
+      "questionNumber": 389,
+      "questionText": "一家兄弟多，上下并排坐，谁要进门来，决不轻放过。",
+      "answer": "a",
+      "audioSource": "audio/301",
+      "options": {
+        "a": "牙齿",
+        "b": "门锁",
+        "c": "筷子",
+        "d": "梳子"
+      },
+      "analysis": "牙齿像兄弟一样整齐排列在口腔中，任何进入口中的东西都会被它们咬住或咀嚼。"
+    },
+    {
+      "questionNumber": 390,
+      "questionText": "屋子方正，有门没窗，屋外热烘，屋里起霜。",
+      "options": {
+        "a": "微波炉",
+        "b": "烤箱",
+        "c": "衣柜",
+        "d": "冰箱"
+      },
+      "answer": "d",
+      "analysis": "冰箱外形方正，开门后内部低温结霜，而外部环境通常是温暖的。",
+      "audioSource": "audio/14"
+    },
+    {
+      "questionNumber": 391,
+      "questionText": "有红有绿不是花，有枝有叶不是树，五颜六色居水中，原是海底一动物。",
+      "answer": "c",
+      "audioSource": "audio/174",
+      "options": {
+        "a": "贝壳",
+        "b": "海星",
+        "c": "珊瑚",
+        "d": "水草"
+      },
+      "analysis": "珊瑚色彩丰富如红绿，形态似枝叶却非植物，生活在海底展现出多样的颜色。"
+    },
+    {
+      "questionNumber": 392,
+      "questionText": "身披白衣裳，头戴绿帽子，地下藏身久，拔起满园香。",
+      "options": {
+        "a": "白萝卜",
+        "b": "蘑菇",
+        "c": "白菜",
+        "d": "竹子"
+      },
+      "answer": "a",
+      "analysis": "白萝卜外皮洁白，顶部有绿色叶冠，生长在土中，收获时散发清香。",
+      "audioSource": "audio/97"
+    },
+    {
+      "questionNumber": 393,
+      "questionText": "身披黄金甲，头顶绿冠华，酸甜藏心间，热带是老家。",
+      "options": {
+        "a": "椰子",
+        "b": "菠萝",
+        "c": "黄桃",
+        "d": "黄瓜"
+      },
+      "answer": "b",
+      "analysis": "菠萝外表呈金黄色，顶端有绿色叶片，果肉酸甜可口，主要生长在热带地区。",
+      "audioSource": "audio/79"
+    },
+    {
+      "questionNumber": 394,
+      "questionText": "鼻上尖角当武器，身上厚皮当甲衣。像个将军有威力，狮子老虎也难敌。",
+      "answer": "a",
+      "audioSource": "audio/406",
+      "options": {
+        "a": "犀牛",
+        "b": "蜘蛛",
+        "c": "变色龙",
+        "d": "蜜蜂"
+      },
+      "analysis": "犀牛鼻子上有尖角作武器，厚皮作盔甲，像将军一样有威力。"
+    },
+    {
+      "questionNumber": 395,
+      "questionText": "围绕地球日夜忙，借助太阳才发光，假如你不认识它，中秋夜里朝天望。",
+      "answer": "b",
+      "options": {
+        "a": "太阳",
+        "b": "月亮",
+        "c": "星星",
+        "d": "彗星"
+      },
+      "audioSource": "audio/542",
+      "analysis": "围绕地球运行且靠反射太阳光才“发光”的是月亮；中秋夜观月更为贴切。"
+    },
+    {
+      "questionNumber": 396,
+      "questionText": "人人说它是个宝，少了它都活不了，看不见也摸不着，越到高处它越少。",
+      "answer": "a",
+      "audioSource": "audio/224",
+      "options": {
+        "a": "空气",
+        "b": "阳光",
+        "c": "水",
+        "d": "时间"
+      },
+      "analysis": "空气是生存必需的无形物质，随着海拔升高逐渐稀薄。"
+    },
+    {
+      "questionNumber": 397,
+      "questionText": "鼓眼睛圆肚皮，大嘴巴穿花衣。游到水里吹泡泡，藏在水底做游戏。",
+      "answer": "d",
+      "audioSource": "audio/361",
+      "options": {
+        "a": "长颈鹿",
+        "b": "金丝雀",
+        "c": "蜥蜴",
+        "d": "金鱼"
+      },
+      "analysis": "金鱼有鼓鼓的眼睛和圆圆的肚子，色彩鲜艳，喜欢在水中游动和玩耍。"
+    },
+    {
+      "questionNumber": 398,
+      "questionText": "一种东西客厅放，里面海绵和弹簧。人人见它都喜欢，可以坐来可以躺。",
+      "answer": "a",
+      "audioSource": "audio/523",
+      "options": {
+        "a": "沙发",
+        "b": "黑豆",
+        "c": "圆规",
+        "d": "李子"
+      },
+      "analysis": "沙发放在客厅，里面有海绵和弹簧，人人都喜欢，可以坐可以躺。"
+    },
+    {
+      "questionNumber": 399,
+      "questionText": "前两条腿，后两条腿，肚里还有两条腿。",
+      "answer": "b",
+      "audioSource": "audio/255",
+      "options": {
+        "a": "马",
+        "b": "轿子",
+        "c": "螃蟹",
+        "d": "椅子"
+      },
+      "analysis": "轿子前后各由两人抬着形成四条腿，乘坐的人盘腿而坐如同肚里的两条腿。"
+    },
+    {
+      "questionNumber": 400,
+      "questionText": "姐妹一样长，出入都成双，酸甜苦辣咸，她们总先尝。",
+      "options": {
+        "a": "铅笔",
+        "b": "筷子",
+        "c": "牙刷",
+        "d": "剪刀"
+      },
+      "answer": "b",
+      "analysis": "筷子成对使用且长度相同，品尝各种味道时总是最先接触食物。",
+      "audioSource": "audio/7"
+    },
+    {
+      "questionNumber": 401,
+      "questionText": "一物也不大，走路头朝下，不读孔孟书，光说文气话。",
+      "answer": "c",
+      "audioSource": "audio/166",
+      "options": {
+        "a": "钢笔",
+        "b": "口红",
+        "c": "毛笔",
+        "d": "扫帚"
+      },
+      "analysis": "毛笔虽小，使用时笔头朝下，不用于阅读却能书写文雅的字句。"
+    },
+    {
+      "questionNumber": 402,
+      "questionText": "层层包裹心，剥开泪满襟，辛辣藏深处，厨房常现身。",
+      "options": {
+        "a": "榴莲",
+        "b": "卷心菜",
+        "c": "大蒜",
+        "d": "洋葱"
+      },
+      "answer": "d",
+      "analysis": "洋葱由多层包裹，切开时会刺激眼睛流泪，内部味道辛辣，是厨房常见的食材。",
+      "audioSource": "audio/99"
+    },
+    {
+      "questionNumber": 403,
+      "questionText": "黄金小斧子，装着白玉把，街上有得卖，地里不种它。",
+      "answer": "d",
+      "audioSource": "audio/329",
+      "options": {
+        "a": "蒜苗",
+        "b": "玉米",
+        "c": "白菜",
+        "d": "豆芽"
+      },
+      "analysis": "豆芽的黄色部分像小斧子，白色茎部似白玉把，市场上常见但并非地里种植的作物。"
+    },
+    {
+      "questionNumber": 404,
+      "questionText": "平时喜欢独居，爱穿斑点花衣。奔跑速度第一，捕食猛追伏击。",
+      "answer": "b",
+      "audioSource": "audio/410",
+      "options": {
+        "a": "长颈鹿",
+        "b": "猎豹",
+        "c": "海贝",
+        "d": "凤凰"
+      },
+      "analysis": "猎豹喜欢独居，身上有斑点，奔跑速度最快，捕食时猛追伏击。"
+    },
+    {
+      "questionNumber": 405,
+      "questionText": "绿衣小将水中游，夜晚歌声满田畴，跳跃如飞捕虫忙，雨后池塘它最牛。",
+      "options": {
+        "a": "鸭子",
+        "b": "青蛙",
+        "c": "蜻蜓",
+        "d": "荷叶"
+      },
+      "answer": "b",
+      "analysis": "青蛙身穿绿色外衣生活在水中，夜晚鸣叫响彻田野，擅长跳跃捕食昆虫，尤其活跃在雨后池塘。",
+      "audioSource": "audio/34"
+    },
+    {
+      "questionNumber": 406,
+      "questionText": "身背小房走天涯，触角探路慢悠悠，雨后常见它身影，留下银痕在草间。",
+      "options": {
+        "a": "毛毛虫",
+        "b": "乌龟",
+        "c": "鼻涕虫",
+        "d": "蜗牛"
+      },
+      "answer": "d",
+      "analysis": "蜗牛背着壳缓慢移动，雨后常出现，爬行时会留下黏液痕迹。",
+      "audioSource": "audio/53"
+    },
+    {
+      "questionNumber": 407,
+      "questionText": "生在山里，死在锅里，藏在瓶里，活在杯里。",
+      "answer": "c",
+      "audioSource": "audio/231",
+      "options": {
+        "a": "蜂蜜",
+        "b": "咖啡豆",
+        "c": "茶叶",
+        "d": "草药"
+      },
+      "analysis": "茶叶最初生长在山间，经过炒制加工后储存在容器中，最终在杯中冲泡焕发新生。"
+    },
+    {
+      "questionNumber": 408,
+      "questionText": "是伞不遮雨，飘在天空里高空向下跳，安全到陆地。",
+      "answer": "a",
+      "audioSource": "audio/289",
+      "options": {
+        "a": "降落伞",
+        "b": "气球",
+        "c": "热气球",
+        "d": "风筝"
+      },
+      "analysis": "降落伞像伞但不能遮雨，用于从高空跳下时确保安全着陆。"
+    },
+    {
+      "questionNumber": 409,
+      "questionText": "身披黄衣嫩又娇，头顶绿帽轻轻摇，水中生长不沾泥，餐桌常见味道好。",
+      "options": {
+        "a": "黄瓜",
+        "b": "香蕉",
+        "c": "黄豆芽",
+        "d": "荷叶"
+      },
+      "answer": "c",
+      "analysis": "黄豆芽外皮呈嫩黄色，顶端有绿色芽叶，在水中培育生长，是餐桌上常见的鲜美食材。",
+      "audioSource": "audio/114"
+    },
+    {
+      "questionNumber": 410,
+      "questionText": "红珠挂绿枝，小巧似珍珠，入口甜如蜜，夏日最相宜。",
+      "options": {
+        "a": "芝麻",
+        "b": "西瓜",
+        "c": "樱桃",
+        "d": "杨桃"
+      },
+      "answer": "c",
+      "analysis": "樱桃红润小巧地挂在枝头，味道甜美，是夏季常见的水果。",
+      "audioSource": "audio/76"
+    },
+    {
+      "questionNumber": 411,
+      "questionText": "两条铁轨一样长，整整齐齐铺成行，只见一辆小车过，两行自动变一行。",
+      "answer": "d",
+      "audioSource": "audio/200",
+      "options": {
+        "a": "电梯",
+        "b": "剪刀",
+        "c": "魔术贴",
+        "d": "拉链"
+      },
+      "analysis": "拉链的两排齿牙如同平行的铁轨，拉头滑动时便将两排齿牙合并成一行。"
+    },
+    {
+      "questionNumber": 412,
+      "questionText": "串串红鞭炮，常在花园开。虽然没响声，却有香气来。",
+      "answer": "c",
+      "audioSource": "audio/427",
+      "options": {
+        "a": "生菜",
+        "b": "茶花",
+        "c": "一串红",
+        "d": "杜鹃"
+      },
+      "analysis": "一串红像串串红鞭炮，在花园里开放，没有声音但有香气。"
+    },
+    {
+      "questionNumber": 413,
+      "questionText": "紫色玛瑙串成串，味道甜甜又好看。用它还能酿好酒，招待贵宾更喜欢。",
+      "answer": "c",
+      "audioSource": "audio/444",
+      "options": {
+        "a": "杨树",
+        "b": "百合",
+        "c": "葡萄",
+        "d": "李树"
+      },
+      "analysis": "葡萄像紫色玛瑙串成串，味道甜好看，能酿酒，招待贵宾很喜欢。"
+    },
+    {
+      "questionNumber": 414,
+      "questionText": "一家三兄弟，都是怪脾气。你追我，我追你。整天绕圈跑，从来不歇息。",
+      "answer": "b",
+      "audioSource": "audio/539",
+      "options": {
+        "a": "钻头",
+        "b": "钟表",
+        "c": "黑莓",
+        "d": "小米"
+      },
+      "analysis": "钟表像三兄弟，时针分针秒针，你追我我追你，整天绕圈跑不停。"
+    },
+    {
+      "questionNumber": 415,
+      "questionText": "身上穿件紫长袍，头上戴顶绿色帽。长得憨头又憨脑，营养味道都挺好。",
+      "answer": "b",
+      "audioSource": "audio/456",
+      "options": {
+        "a": "李树",
+        "b": "茄子",
+        "c": "红薯",
+        "d": "芋头"
+      },
+      "analysis": "茄子紫色像长袍，绿色叶子像帽子，长得憨厚，营养味道都很好。"
+    },
+    {
+      "questionNumber": 416,
+      "questionText": "小花瓶，开百花，用手一转，千变万化。",
+      "answer": "d",
+      "audioSource": "audio/332",
+      "options": {
+        "a": "魔术棒",
+        "b": "花瓶",
+        "c": "风车",
+        "d": "万花筒"
+      },
+      "analysis": "万花筒外形像小花瓶，转动时能呈现出不断变化的彩色图案，如同百花绽放。"
+    },
+    {
+      "questionNumber": 417,
+      "questionText": "楼台接楼台，一层一层接起来，上头冒白气，下头水开花。",
+      "answer": "d",
+      "audioSource": "audio/286",
+      "options": {
+        "a": "电饭煲",
+        "b": "烟囱",
+        "c": "暖水瓶",
+        "d": "蒸笼"
+      },
+      "analysis": "蒸笼由多层叠放组成，加热时上层冒出蒸汽，下层沸水翻滚如同开花。"
+    },
+    {
+      "questionNumber": 418,
+      "questionText": "一把小手枪，风儿肚里装。妈妈洗了头，它就嗡嗡唱。",
+      "answer": "d",
+      "audioSource": "audio/540",
+      "options": {
+        "a": "电视机",
+        "b": "电风扇",
+        "c": "圆规",
+        "d": "电吹风"
+      },
+      "analysis": "吹风机像小手枪，肚子里装风，妈妈洗头后用它吹干，发出嗡嗡声。"
+    },
+    {
+      "questionNumber": 419,
+      "questionText": "叶中藏，树上挂，好像球儿圆又大。球里没气壳儿硬，里面有肉又有茶。",
+      "answer": "b",
+      "audioSource": "audio/451",
+      "options": {
+        "a": "桃树",
+        "b": "椰子",
+        "c": "茉莉",
+        "d": "枫树"
+      },
+      "analysis": "椰子藏在叶子中挂在树上，像圆球，壳硬没气，里面有肉和椰汁。"
+    },
+    {
+      "questionNumber": 420,
+      "questionText": "身上衣服真奇怪，一块黑来一块白。吃青草挤鲜奶，人人喜欢人人爱。",
+      "answer": "c",
+      "audioSource": "audio/405",
+      "options": {
+        "a": "麻雀",
+        "b": "萤火虫",
+        "c": "奶牛",
+        "d": "海豚"
+      },
+      "analysis": "奶牛身上有黑白相间的花纹，吃草产奶，人们都喜欢它。"
+    },
+    {
+      "questionNumber": 421,
+      "questionText": "红帽帽穿花衣，高翘尾巴很得意。昂头吹奏起床号，从没失误很神奇。",
+      "answer": "d",
+      "audioSource": "audio/397",
+      "options": {
+        "a": "河马",
+        "b": "蛇",
+        "c": "乌鸦",
+        "d": "公鸡"
+      },
+      "analysis": "公鸡有红冠，羽毛漂亮，尾巴高翘，每天准时打鸣叫醒人们。"
+    },
+    {
+      "questionNumber": 422,
+      "questionText": "浑身光亮亮，有圆也有方。我笑它也笑，我唱它也唱。",
+      "answer": "b",
+      "audioSource": "audio/494",
+      "options": {
+        "a": "高粱",
+        "b": "镜子",
+        "c": "微波炉",
+        "d": "小米"
+      },
+      "analysis": "镜子光亮，有圆形方形，我笑它也笑，我唱它也唱。"
+    },
+    {
+      "questionNumber": 423,
+      "questionText": "左一片，右一片，下雨刮风全听见。不管虫声与鸟鸣，能辨声音远和近。",
+      "answer": "a",
+      "audioSource": "audio/478",
+      "options": {
+        "a": "耳朵",
+        "b": "牡丹",
+        "c": "菊花",
+        "d": "杨树"
+      },
+      "analysis": "耳朵左右各一片，能听到各种声音，能分辨声音的远近。"
+    },
+    {
+      "questionNumber": 424,
+      "questionText": "圆身方底亮堂堂，中秋夜里手中扬，走街串巷看夜景，阖家欢乐喜洋洋。",
+      "answer": "d",
+      "options": {
+        "a": "手电筒",
+        "b": "蜡烛",
+        "c": "孔明灯",
+        "d": "灯笼"
+      },
+      "audioSource": "audio/547",
+      "analysis": "“圆身方底”“手中扬走街串巷”皆写提灯观景的民俗物品——灯笼。"
+    },
+    {
+      "questionNumber": 425,
+      "questionText": "八臂舞动水中游，无骨身躯软如绸，墨汁一喷藏身影，海底世界任它游。",
+      "options": {
+        "a": "海星",
+        "b": "章鱼",
+        "c": "水母",
+        "d": "珊瑚"
+      },
+      "answer": "b",
+      "analysis": "章鱼有八条腕足在水中灵活移动，身体柔软无骨骼，遇到危险时会喷出墨汁掩护自己逃离。",
+      "audioSource": "audio/48"
+    },
+    {
+      "questionNumber": 426,
+      "questionText": "夏天到，若外出，强光让人不舒服。戴上后，看各处，能把眼睛来保护。",
+      "answer": "d",
+      "audioSource": "audio/509",
+      "options": {
+        "a": "李子",
+        "b": "电风扇",
+        "c": "胶带",
+        "d": "太阳镜"
+      },
+      "analysis": "太阳镜夏天外出时戴，挡住强光保护眼睛，让人看得清楚。"
+    },
+    {
+      "questionNumber": 427,
+      "questionText": "小小铁嘴钢牙齿，咬住木头不松口，转一转削一削，铅笔尖尖又尖尖。",
+      "options": {
+        "a": "订书机",
+        "b": "橡皮",
+        "c": "卷笔刀",
+        "d": "剪刀"
+      },
+      "answer": "c",
+      "analysis": "卷笔刀有锋利的金属刀片，能牢牢固定铅笔并通过旋转削尖笔头。",
+      "audioSource": "audio/119"
+    },
+    {
+      "questionNumber": 428,
+      "questionText": "外披硬壳衣，内藏甘甜汁，高高挂树梢，热带风情里。",
+      "options": {
+        "a": "菠萝",
+        "b": "椰子",
+        "c": "西瓜",
+        "d": "榴莲"
+      },
+      "answer": "b",
+      "analysis": "椰子外壳坚硬，内部有甜美的汁液，生长在高高的树上，是热带地区的特色水果。",
+      "audioSource": "audio/88"
+    },
+    {
+      "questionNumber": 429,
+      "questionText": "平日不思，中秋想你，有方有圆，又蜜又甜。",
+      "answer": "c",
+      "options": {
+        "a": "粽子",
+        "b": "汤圆",
+        "c": "月饼",
+        "d": "糖糕"
+      },
+      "audioSource": "audio/541",
+      "analysis": "“中秋想你”“有方有圆、又蜜又甜”均指中秋应节食品月饼，既有圆饼也有方饼，多为甜馅。"
+    },
+    {
+      "questionNumber": 430,
+      "questionText": "你坐我不坐，我行你不行，你睡躺的平，我睡站到明。",
+      "answer": "b",
+      "audioSource": "audio/304",
+      "options": {
+        "a": "狗",
+        "b": "马",
+        "c": "牛",
+        "d": "鱼"
+      },
+      "analysis": "人可以骑马而行但马不会坐，人睡觉时躺着而马通常是站着休息。"
+    },
+    {
+      "questionNumber": 431,
+      "questionText": "一个大肚皮，生来怪脾气，不打不做声，越打越欢喜。",
+      "answer": "c",
+      "audioSource": "audio/253",
+      "options": {
+        "a": "锣",
+        "b": "沙袋",
+        "c": "鼓",
+        "d": "气球"
+      },
+      "analysis": "鼓有一个圆圆的肚子，敲打时才会发出声音，而且敲得越用力声音越响亮。"
+    },
+    {
+      "questionNumber": 432,
+      "questionText": "甜宝宝，个子小，娃娃瞧见啦，帮它脱花袄。",
+      "answer": "a",
+      "audioSource": "audio/470",
+      "options": {
+        "a": "糖果",
+        "b": "大蒜",
+        "c": "菠菜",
+        "d": "百合"
+      },
+      "analysis": "糖果像甜宝宝，个子小，娃娃看到会帮它脱去包装纸。"
+    },
+    {
+      "questionNumber": 433,
+      "questionText": "叶像玉盘大又圆，花开池塘展笑脸。出自污泥身不染，清水芙蓉美名传。",
+      "answer": "b",
+      "audioSource": "audio/424",
+      "options": {
+        "a": "牡丹",
+        "b": "荷花",
+        "c": "芋头",
+        "d": "白菜"
+      },
+      "analysis": "荷花叶子像玉盘又大又圆，在池塘开花，出污泥而不染，美名传扬。"
+    },
+    {
+      "questionNumber": 434,
+      "questionText": "从低到高，由浓到淡，忽左忽右，跟着风走。",
+      "answer": "b",
+      "audioSource": "audio/227",
+      "options": {
+        "a": "云朵",
+        "b": "烟雾",
+        "c": "雪花",
+        "d": "雨滴"
+      },
+      "analysis": "烟雾从低处升起逐渐变高，颜色由浓转淡，随风飘动方向不定。"
+    },
+    {
+      "questionNumber": 435,
+      "questionText": "一间房子真不错，刚好住下哥五个。看看兄弟多爱它，出门上班忘带着。",
+      "answer": "c",
+      "audioSource": "audio/511",
+      "options": {
+        "a": "苹果",
+        "b": "电脑",
+        "c": "鞋",
+        "d": "相机"
+      },
+      "analysis": "鞋像房子住下五个脚趾，兄弟们都爱它，但出门上班有时会忘记。"
+    },
+    {
+      "questionNumber": 436,
+      "questionText": "细长如蛇身，穿梭鞋孔间，一拉紧如弦，行走更安全。",
+      "options": {
+        "a": "跳绳",
+        "b": "鞋带",
+        "c": "拉链",
+        "d": "耳机"
+      },
+      "answer": "b",
+      "analysis": "鞋带形状细长像蛇，穿过鞋孔后拉紧能固定鞋子，确保走路时更稳固。",
+      "audioSource": "audio/127"
+    },
+    {
+      "questionNumber": 437,
+      "questionText": "个头不大作用大，千里万里按几下。爸在远方我在家，拨通能说心里话。",
+      "answer": "a",
+      "audioSource": "audio/535",
+      "options": {
+        "a": "手机",
+        "b": "锯子",
+        "c": "螺丝刀",
+        "d": "砂纸"
+      },
+      "analysis": "手机个头不大但作用大，按几下就能千里万里通话，爸爸在远方我在家也能说话。"
+    },
+    {
+      "questionNumber": 438,
+      "questionText": "远看一座城，近看不像城，只闻脚步声，不见人出城。",
+      "answer": "d",
+      "audioSource": "audio/257",
+      "options": {
+        "a": "风车",
+        "b": "微波炉",
+        "c": "城堡",
+        "d": "台钟"
+      },
+      "analysis": "钟从远处看像一座小城，靠近时却不像，能听到指针走动的声音但看不到内部有“人”进出。"
+    },
+    {
+      "questionNumber": 439,
+      "questionText": "一条横弄堂，几处小天窗，这边风儿起，那边乐声扬。",
+      "options": {
+        "a": "气球",
+        "b": "喇叭",
+        "c": "口哨",
+        "d": "笛子"
+      },
+      "answer": "d",
+      "analysis": "笛子长长的类似弄堂，有七个音孔像天窗，依靠演奏者用空气吹奏，能发出悦耳的声音。",
+      "audioSource": "audio/156"
+    },
+    {
+      "questionNumber": 440,
+      "questionText": "半个球，手上托，球里有吃也有喝。一天三次热水澡，明天还干同样活。",
+      "answer": "c",
+      "audioSource": "audio/486",
+      "options": {
+        "a": "柠檬",
+        "b": "胶带",
+        "c": "碗",
+        "d": "橘子"
+      },
+      "analysis": "碗像半个球，用手托着，里面装食物和汤水，每天三次用热水洗。"
+    },
+    {
+      "questionNumber": 441,
+      "questionText": "长相俊俏，爱舞爱跳，飞舞花丛，快乐逍遥。",
+      "options": {
+        "a": "知了",
+        "b": "蝴蝶",
+        "c": "蜻蜓",
+        "d": "瓢虫"
+      },
+      "answer": "b",
+      "analysis": "蝴蝶身着鲜艳翅膀，喜欢在花丛中飞舞。",
+      "audioSource": "audio/38"
+    },
+    {
+      "questionNumber": 442,
+      "questionText": "身笨力气大，干活常带枷，春耕和秋种，不能缺少它。",
+      "answer": "c",
+      "audioSource": "audio/182",
+      "options": {
+        "a": "大象",
+        "b": "马",
+        "c": "牛",
+        "d": "拖拉机"
+      },
+      "analysis": "牛体型大而行动缓慢，常被套上枷锁用于耕作，是春种秋收时不可或缺的劳力。"
+    },
+    {
+      "questionNumber": 443,
+      "questionText": "绿色布条真是怪，不用纺织长出来。绿布条条海里长，长成以后能做菜。",
+      "answer": "b",
+      "audioSource": "audio/469",
+      "options": {
+        "a": "枫树",
+        "b": "海带",
+        "c": "松树",
+        "d": "莴笋"
+      },
+      "analysis": "海带像绿色布条，不用纺织自然生长，在海里生长，可以做菜。"
+    },
+    {
+      "questionNumber": 444,
+      "questionText": "身披铁甲不战斗，口吞灰尘不咳嗽，家中清洁它最忙，不辞幸苦把活干。",
+      "options": {
+        "a": "吸尘器",
+        "b": "电风扇",
+        "c": "扫帚",
+        "d": "洗衣机"
+      },
+      "answer": "a",
+      "analysis": "吸尘器外壳坚硬像铁甲，工作时吸入灰尘却不会堵塞，专门负责清洁家中卫生且运转安静。",
+      "audioSource": "audio/143"
+    },
+    {
+      "questionNumber": 445,
+      "questionText": "小东西爱嘬泥，忙里忙外为家里。屋檐下面忙做窝，一家大小避风雨。",
+      "answer": "a",
+      "audioSource": "audio/370",
+      "options": {
+        "a": "燕子",
+        "b": "野鸭",
+        "c": "壁虎",
+        "d": "蝴蝶"
+      },
+      "analysis": "燕子喜欢在屋檐下筑巢，忙碌地为家庭工作，保护家人免受风雨。"
+    },
+    {
+      "questionNumber": 446,
+      "questionText": "小小鸟真神奇，身穿美丽花花衣。心灵嘴巧学说话，文明礼貌人人夸。",
+      "answer": "b",
+      "audioSource": "audio/374",
+      "options": {
+        "a": "蜘蛛",
+        "b": "鹦鹉",
+        "c": "壁虎",
+        "d": "喜鹊"
+      },
+      "analysis": "鹦鹉有美丽的花纹，能学人说话，很有礼貌，受到人们喜爱。"
+    },
+    {
+      "questionNumber": 447,
+      "questionText": "外衣金黄似晚霞，内藏甜蜜如蜜糖，剥开层层见真心，秋来满园飘果香。",
+      "options": {
+        "a": "橙子",
+        "b": "石榴",
+        "c": "灯笼",
+        "d": "西瓜"
+      },
+      "answer": "a",
+      "analysis": "橙子有着金黄色的外皮，果肉甜美多汁，剥开外皮就能品尝到里面的果肉，是秋天常见的水果。",
+      "audioSource": "audio/83"
+    },
+    {
+      "questionNumber": 448,
+      "questionText": "不用砖不用梁，白姑娘造银房。不开门不开窗，吐丝造房住中央。",
+      "answer": "d",
+      "audioSource": "audio/386",
+      "options": {
+        "a": "海马",
+        "b": "老鹰",
+        "c": "海螺",
+        "d": "蚕"
+      },
+      "analysis": "蚕不需要砖瓦，用吐出的丝建造银白色的茧房，住在里面。"
+    },
+    {
+      "questionNumber": 449,
+      "questionText": "一物真奇怪，随人同过桥，雨淋它不湿，火烧它不焦。",
+      "answer": "c",
+      "audioSource": "audio/171",
+      "options": {
+        "a": "风筝",
+        "b": "彩虹",
+        "c": "影子",
+        "d": "镜子"
+      },
+      "analysis": "影子会跟随人移动，经过桥梁等地方，但不会被雨水打湿或火焰烧毁。"
+    },
+    {
+      "questionNumber": 450,
+      "questionText": "小猫小羊去郊游，蹦蹦跳跳乐悠悠。家里只有它看门，主人奖它大骨头。",
+      "answer": "d",
+      "audioSource": "audio/400",
+      "options": {
+        "a": "蟋蟀",
+        "b": "老鹰",
+        "c": "海豚",
+        "d": "狗"
+      },
+      "analysis": "狗和小猫小羊一起玩，在家里看门，主人会奖励它骨头。"
+    },
+    {
+      "questionNumber": 451,
+      "questionText": "四只蹄，长尾巴。奔跑起来嗒嗒嗒，牧民人人喜欢它。",
+      "answer": "a",
+      "audioSource": "audio/411",
+      "options": {
+        "a": "马",
+        "b": "河马",
+        "c": "麻雀",
+        "d": "海马"
+      },
+      "analysis": "马有四只蹄子，长尾巴，奔跑时发出嗒嗒声，牧民都喜欢它。"
+    },
+    {
+      "questionNumber": 452,
+      "questionText": "无脚走千里，无声胜有声，草丛藏身影，冷血是其名。",
+      "options": {
+        "a": "影子",
+        "b": "鱼",
+        "c": "蛇",
+        "d": "风筝"
+      },
+      "answer": "c",
+      "analysis": "蛇虽然没有脚却能爬行很远，行动时几乎没有声音，常隐藏在草丛中，属于冷血动物。",
+      "audioSource": "audio/160"
+    },
+    {
+      "questionNumber": 453,
+      "questionText": "五个兄弟，生在一起，有骨有肉，长短不齐。",
+      "answer": "d",
+      "audioSource": "audio/355",
+      "options": {
+        "a": "树",
+        "b": "脚",
+        "c": "鱼",
+        "d": "手"
+      },
+      "analysis": "手指并排生长在手掌上，有骨骼和肌肉支撑，且长度各不相同。"
+    },
+    {
+      "questionNumber": 454,
+      "questionText": "娃娃住在小小房，房子都在土里藏。打开房子看一看，娃娃都穿红衣裳。",
+      "answer": "b",
+      "audioSource": "audio/465",
+      "options": {
+        "a": "茉莉",
+        "b": "花生",
+        "c": "杏树",
+        "d": "红薯"
+      },
+      "analysis": "花生像娃娃住在小房子里，房子在土里，剥开壳里面是红色花生米。"
+    },
+    {
+      "questionNumber": 455,
+      "questionText": "哥俩一般高，见面就摔跤。每天见三次，摔完就洗澡。",
+      "answer": "a",
+      "audioSource": "audio/487",
+      "options": {
+        "a": "筷子",
+        "b": "茶几",
+        "c": "红豆",
+        "d": "螺丝刀"
+      },
+      "analysis": "筷子两根一样高，使用时交叉碰撞像摔跤，每天用三次，用完要洗。"
+    },
+    {
+      "questionNumber": 456,
+      "questionText": "污泥里面生，身体白又胖。肚里像蜂窝，筋丝多又长。",
+      "answer": "c",
+      "audioSource": "audio/461",
+      "options": {
+        "a": "杨树",
+        "b": "芹菜",
+        "c": "莲藕",
+        "d": "月季"
+      },
+      "analysis": "莲藕在污泥中生长，白色肥胖，内部像蜂窝，有很多筋丝。"
+    },
+    {
+      "questionNumber": 457,
+      "questionText": "池塘边，长得俏，细长头发把鱼钓。鱼儿追着绿线跑，逗得池塘眯眯笑。",
+      "answer": "a",
+      "audioSource": "audio/439",
+      "options": {
+        "a": "柳树",
+        "b": "茉莉",
+        "c": "生菜",
+        "d": "梨树"
+      },
+      "analysis": "柳树在池塘边长得俏，细长的柳条像头发，鱼儿追着柳条游，逗得池塘笑。"
+    },
+    {
+      "questionNumber": 458,
+      "questionText": "紫衣绿裙挂满枝，酸甜滋味藏心里，秋来串串垂庭院，摘下酿酒香满室。",
+      "options": {
+        "a": "葡萄",
+        "b": "灯笼",
+        "c": "茄子",
+        "d": "樱桃"
+      },
+      "answer": "a",
+      "analysis": "葡萄成熟时呈现紫色外皮和绿色果梗，果实酸甜多汁，常成串垂挂在藤上，可用于酿造葡萄酒。",
+      "audioSource": "audio/84"
+    },
+    {
+      "questionNumber": 459,
+      "questionText": "小孩子，穿彩褂，过年过节都有它，说话噼里啪啦。",
+      "answer": "a",
+      "audioSource": "audio/228",
+      "options": {
+        "a": "鞭炮",
+        "b": "烟花",
+        "c": "灯笼",
+        "d": "彩虹"
+      },
+      "analysis": "鞭炮外形色彩鲜艳，常在节日燃放，点燃时会发出噼里啪啦的声响。"
+    },
+    {
+      "questionNumber": 460,
+      "questionText": "身披木衣心藏墨，尖尖头儿写春秋，轻轻一削露新颜，纸上行走不留痕。",
+      "options": {
+        "a": "铅笔",
+        "b": "橡皮",
+        "c": "毛笔",
+        "d": "尺子"
+      },
+      "answer": "a",
+      "analysis": "铅笔外层裹着木质笔杆，内部是石墨笔芯，削尖后能在纸上书写，且字迹可被擦除不留痕迹。",
+      "audioSource": "audio/115"
+    },
+    {
+      "questionNumber": 461,
+      "questionText": "个子不算高，力气却不小。只要背一下，几斤或几两，马上就知道。",
+      "answer": "b",
+      "audioSource": "audio/505",
+      "options": {
+        "a": "草莓",
+        "b": "秤",
+        "c": "樱桃",
+        "d": "电饭煲"
+      },
+      "analysis": "秤个子不高但力气大，背一下就能知道几斤几两。"
+    },
+    {
+      "questionNumber": 462,
+      "questionText": "身细长，头圆亮，声音从此出，舞台常亮相。",
+      "options": {
+        "a": "手电筒",
+        "b": "话筒",
+        "c": "棒球棒",
+        "d": "气球"
+      },
+      "answer": "b",
+      "analysis": "话筒外形细长顶端圆亮，是传递声音的舞台常用工具。",
+      "audioSource": "audio/141"
+    },
+    {
+      "questionNumber": 463,
+      "questionText": "小小船儿衣上走，来回游走衣无皱。",
+      "answer": "c",
+      "audioSource": "audio/357",
+      "options": {
+        "a": "拉链",
+        "b": "剪刀",
+        "c": "熨斗",
+        "d": "纽扣"
+      },
+      "analysis": "熨斗像小船一样在衣服上滑动，抚平褶皱却不伤衣物。"
+    },
+    {
+      "questionNumber": 464,
+      "questionText": "身穿电光衣，夜行青草里，暗里发亮光，日里看不见。",
+      "answer": "c",
+      "audioSource": "audio/313",
+      "options": {
+        "a": "星星",
+        "b": "激光笔",
+        "c": "萤火虫",
+        "d": "手电筒"
+      },
+      "analysis": "萤火虫身体能发光，常在夜晚的草丛中活动，白天则看不到它的光亮。"
+    },
+    {
+      "questionNumber": 465,
+      "questionText": "海中飘摇似轻纱，无骨无脑却优雅，触手如丝捕食忙，夜晚发光如星华。",
+      "options": {
+        "a": "萤火虫",
+        "b": "章鱼",
+        "c": "水母",
+        "d": "海蜇"
+      },
+      "answer": "c",
+      "analysis": "水母在海中轻盈飘动，身体柔软无骨骼，靠触手捕食，部分种类能在夜晚发出荧光。",
+      "audioSource": "audio/47"
+    },
+    {
+      "questionNumber": 466,
+      "questionText": "薄薄一张纸，四边生长细牙齿，两地朋友要谈心，必须请他当差使。",
+      "answer": "b",
+      "audioSource": "audio/248",
+      "options": {
+        "a": "明信片",
+        "b": "邮票",
+        "c": "信封",
+        "d": "信纸"
+      },
+      "analysis": "邮票是一张薄薄的纸，边缘有齿孔，用于贴在信件上帮助传递两地之间的信息。"
+    },
+    {
+      "questionNumber": 467,
+      "questionText": "尖长嘴，铁骨架，咬一口，哇哇叫。",
+      "answer": "a",
+      "audioSource": "audio/192",
+      "options": {
+        "a": "剪刀",
+        "b": "订书机",
+        "c": "锥子",
+        "d": "镊子"
+      },
+      "analysis": "剪刀有着细长的金属刃口，使用时像咬合的动作，剪到硬物会发出\"咔咔\"声。"
+    },
+    {
+      "questionNumber": 468,
+      "questionText": "红蛋糕，不能咬，人们盖房不能少。",
+      "answer": "a",
+      "audioSource": "audio/259",
+      "options": {
+        "a": "砖头",
+        "b": "草莓",
+        "c": "屋顶",
+        "d": "蜡烛"
+      },
+      "analysis": "砖头外表呈红色像蛋糕，虽不能食用但却是建房的重要材料。"
+    },
+    {
+      "questionNumber": 469,
+      "questionText": "柔软如云朵，吸水又吸汗，晨起伴身旁，夜来挂墙边。",
+      "options": {
+        "a": "海绵",
+        "b": "棉花糖",
+        "c": "枕头",
+        "d": "毛巾"
+      },
+      "answer": "d",
+      "analysis": "毛巾质地柔软蓬松，日常用于吸水清洁，早晚洗漱时使用后常悬挂晾干。",
+      "audioSource": "audio/122"
+    },
+    {
+      "questionNumber": 470,
+      "questionText": "外披褐毛衣，内藏翡翠心，酸甜滋味好，营养赛黄金。",
+      "options": {
+        "a": "橙子",
+        "b": "猕猴桃",
+        "c": "茄子",
+        "d": "土豆"
+      },
+      "answer": "b",
+      "analysis": "猕猴桃外表是褐色的毛皮，内部果肉呈翠绿色，口感酸甜且富含营养。",
+      "audioSource": "audio/81"
+    },
+    {
+      "questionNumber": 471,
+      "questionText": "有头没有颈，身上湿漉漉，有翅不能飞，无脚也能行。",
+      "answer": "b",
+      "audioSource": "audio/210",
+      "options": {
+        "a": "鸭子",
+        "b": "鱼",
+        "c": "企鹅",
+        "d": "蛇"
+      },
+      "analysis": "鱼有头部但没有明显的颈部，身体表面湿润，拥有鱼鳍而非可飞翔的翅膀，却能依靠游动前进。"
+    },
+    {
+      "questionNumber": 472,
+      "questionText": "黄衣裹身弯如月，剥开外皮白肉现，香甜软滑人人爱，热带果中它最俏。",
+      "options": {
+        "a": "香蕉",
+        "b": "饺子",
+        "c": "月亮",
+        "d": "茄子"
+      },
+      "answer": "a",
+      "analysis": "香蕉外皮呈黄色且弯曲如月，剥开后露出白色果肉，味道香甜软滑，是广受欢迎的热带水果。",
+      "audioSource": "audio/73"
+    },
+    {
+      "questionNumber": 473,
+      "questionText": "珍贵树，分雌雄，结白果，挂高空。稀世宝树活化石，几亿年前就诞生。",
+      "answer": "c",
+      "audioSource": "audio/438",
+      "options": {
+        "a": "玫瑰",
+        "b": "菠菜",
+        "c": "银杏树",
+        "d": "白菜"
+      },
+      "analysis": "银杏树分雌雄，结白色果实，是珍贵的活化石，几亿年前就存在。"
+    },
+    {
+      "questionNumber": 474,
+      "questionText": "床上架起一间房，又轻又薄还透亮。蚊子外面把歌唱，宝宝里头睡得香。",
+      "answer": "a",
+      "audioSource": "audio/520",
+      "options": {
+        "a": "蚊帐",
+        "b": "燕麦",
+        "c": "柠檬",
+        "d": "高粱"
+      },
+      "analysis": "蚊帐在床上架起一间房，又轻又薄透亮，蚊子在外面，宝宝在里面睡得香。"
+    },
+    {
+      "questionNumber": 475,
+      "questionText": "肚大眼明头儿小，胸前有对大砍刀，别看样子有点笨，捕杀害虫又灵巧。",
+      "options": {
+        "a": "蜻蜓",
+        "b": "蟋蟀",
+        "c": "蝉",
+        "d": "螳螂"
+      },
+      "answer": "d",
+      "analysis": "螳螂肚子大，脑袋小,前肢如双刀般锋利，捕食害虫时动作很迅捷。",
+      "audioSource": "audio/57"
+    },
+    {
+      "questionNumber": 476,
+      "questionText": "一身绒绒毛，长得像小鸟。像鸟不会飞，尖嘴叽叽叫。",
+      "answer": "a",
+      "audioSource": "audio/396",
+      "options": {
+        "a": "小鸡",
+        "b": "海龟",
+        "c": "蟋蟀",
+        "d": "海豚"
+      },
+      "analysis": "小鸡全身毛茸茸，像小鸟但不会飞，用尖嘴叽叽叫。"
+    },
+    {
+      "questionNumber": 477,
+      "questionText": "不长在庭院，不开在溪边。砰砰飞上天，朵朵空中现。节日好伙伴，欢乐喜庆添。",
+      "answer": "d",
+      "audioSource": "audio/440",
+      "options": {
+        "a": "土豆",
+        "b": "樱花",
+        "c": "芋头",
+        "d": "烟花"
+      },
+      "analysis": "蘑菇不长在庭院溪边，砰砰飞上天，朵朵在空中，是节日的好伙伴。"
+    },
+    {
+      "questionNumber": 478,
+      "questionText": "天天躺着不是懒，从早劳动到夜晚。帮助说话帮运食，牙齿很硬它很软。",
+      "answer": "a",
+      "audioSource": "audio/480",
+      "options": {
+        "a": "舌头",
+        "b": "桂花",
+        "c": "芍药",
+        "d": "杏树"
+      },
+      "analysis": "舌头天天躺着不是懒，从早到晚都在工作，帮助说话和运送食物。"
+    },
+    {
+      "questionNumber": 479,
+      "questionText": "黑白两色衣，竹林深处栖，憨态可掬样，国宝人人知。",
+      "options": {
+        "a": "企鹅",
+        "b": "北极熊",
+        "c": "熊猫",
+        "d": "斑马"
+      },
+      "answer": "c",
+      "analysis": "熊猫身披黑白两色的毛发，栖息在竹林中，憨厚可爱的模样让它成为众所周知的国宝。",
+      "audioSource": "audio/24"
+    },
+    {
+      "questionNumber": 480,
+      "questionText": "看样子，笨又重，捕食猎物有奇功。游泳爬树是能手，冬天睡在洞穴中。",
+      "answer": "a",
+      "audioSource": "audio/417",
+      "options": {
+        "a": "熊",
+        "b": "豹子",
+        "c": "蜥蜴",
+        "d": "蝴蝶"
+      },
+      "analysis": "熊看起来笨重，但捕食很厉害，会游泳爬树，冬天在洞里冬眠。"
+    },
+    {
+      "questionNumber": 481,
+      "questionText": "屋连屋，一条龙，头上乌云滚滚，脚下雷声隆隆。",
+      "answer": "d",
+      "audioSource": "audio/262",
+      "options": {
+        "a": "闪电",
+        "b": "瀑布",
+        "c": "地铁",
+        "d": "火车"
+      },
+      "analysis": "火车由多节车厢连接成长龙，行驶时车头冒烟如乌云，车轮滚动发出雷鸣般的声响。"
+    },
+    {
+      "questionNumber": 482,
+      "questionText": "一只鼓，上下空，节日里，红彤彤。",
+      "answer": "d",
+      "audioSource": "audio/342",
+      "options": {
+        "a": "苹果",
+        "b": "西红柿",
+        "c": "气球",
+        "d": "灯笼"
+      },
+      "analysis": "灯笼形状像鼓，上下开口，节日时常被染成红色悬挂。"
+    },
+    {
+      "questionNumber": 483,
+      "questionText": "身子像小逗点，大脑袋摇着一根小尾巴，儿时无腿水中游，长大田里吃害虫。",
+      "answer": "b",
+      "audioSource": "audio/264",
+      "options": {
+        "a": "蚯蚓",
+        "b": "小蝌蚪",
+        "c": "蜻蜓",
+        "d": "金鱼"
+      },
+      "analysis": "小蝌蚪幼时身体呈逗点状，头部较大且拖着细尾巴在水中生活，成年后变成青蛙在田间捕食害虫。"
+    },
+    {
+      "questionNumber": 484,
+      "questionText": "红袍裹身不露肉，头顶绿冠似小帽，土里生长不露头，兔子最爱它味道。",
+      "options": {
+        "a": "草莓",
+        "b": "辣椒",
+        "c": "西红柿",
+        "d": "胡萝卜"
+      },
+      "answer": "d",
+      "analysis": "胡萝卜外皮呈红色，顶端有绿色叶子，生长在土里，是兔子喜爱的食物。",
+      "audioSource": "audio/96"
+    },
+    {
+      "questionNumber": 485,
+      "questionText": "住在房子里，用时往外挤。小小刷子，刷一刷。白又白，心欢喜。",
+      "answer": "a",
+      "audioSource": "audio/492",
+      "options": {
+        "a": "牙膏",
+        "b": "螺丝刀",
+        "c": "收音机",
+        "d": "柜子"
+      },
+      "analysis": "牙膏住在管子里，用时挤出来，用刷子刷，牙齿变白很开心。"
+    },
+    {
+      "questionNumber": 486,
+      "questionText": "远看像小丘，近看像楼梯，上去一步步，一下滑到底。",
+      "answer": "d",
+      "audioSource": "audio/245",
+      "options": {
+        "a": "坡道",
+        "b": "楼梯",
+        "c": "沙丘",
+        "d": "滑梯"
+      },
+      "analysis": "滑梯从远处看像小山丘，走近后能看到台阶，人们可以一步步走上去，然后一下子滑下来。"
+    },
+    {
+      "questionNumber": 487,
+      "questionText": "小小姑娘满身黑，秋去江南春来归，从小立志除害虫，身带剪刀满天飞。",
+      "answer": "b",
+      "audioSource": "audio/265",
+      "options": {
+        "a": "麻雀",
+        "b": "燕子",
+        "c": "蝴蝶",
+        "d": "乌鸦"
+      },
+      "analysis": "燕子全身羽毛乌黑，每年秋天南迁春天北归，以捕食昆虫为生，尾巴形似剪刀在空中飞翔。"
+    },
+    {
+      "questionNumber": 488,
+      "questionText": "长在架子上，身子绿又长。嫩时炒菜吃，老啦光剩瓤。",
+      "answer": "a",
+      "audioSource": "audio/457",
+      "options": {
+        "a": "丝瓜",
+        "b": "莴笋",
+        "c": "杜鹃",
+        "d": "柏树"
+      },
+      "analysis": "丝瓜长在架子上，绿色细长，嫩时可以炒菜，老了只剩瓤。"
+    },
+    {
+      "questionNumber": 489,
+      "questionText": "有种动物好可爱，身体很大跑得快。长着翅膀不会飞，遇到危险藏脑袋。",
+      "answer": "a",
+      "audioSource": "audio/375",
+      "options": {
+        "a": "鸵鸟",
+        "b": "海狮",
+        "c": "苍蝇",
+        "d": "海马"
+      },
+      "analysis": "鸵鸟身体大跑得快，有翅膀但不会飞，遇到危险会把头藏起来。"
+    },
+    {
+      "questionNumber": 490,
+      "questionText": "有枪不可以放，有脚不可以行，每日弯着腰，总在水里游。",
+      "answer": "d",
+      "audioSource": "audio/312",
+      "options": {
+        "a": "海马",
+        "b": "鱼竿",
+        "c": "螃蟹",
+        "d": "虾"
+      },
+      "analysis": "虾有钳状的“枪”但不能发射，长着多足却无法行走，身体弯曲且生活在水中。"
+    },
+    {
+      "questionNumber": 491,
+      "questionText": "身长肚大脑袋小，会飞会跳穿绿袄。手举两把大镰刀，专捉害虫不割草。",
+      "answer": "c",
+      "audioSource": "audio/378",
+      "options": {
+        "a": "白鹤",
+        "b": "蜥蜴",
+        "c": "螳螂",
+        "d": "蛇"
+      },
+      "analysis": "螳螂身体细长肚子大，会飞会跳，有绿色的身体，前腿像镰刀，专门捉害虫。"
+    },
+    {
+      "questionNumber": 492,
+      "questionText": "常在深山里，谁也捉不到，你唱它也唱，你叫它也叫，你若小声它装哑，你若高声它回答。",
+      "options": {
+        "a": "风",
+        "b": "回声",
+        "c": "云",
+        "d": "石头"
+      },
+      "answer": "b",
+      "analysis": "回声常在深山里出现，声音在这些地方容易产生反射。",
+      "audioSource": "audio/17"
+    },
+    {
+      "questionNumber": 493,
+      "questionText": "有脚不会走，有嘴不开口，脸儿洗不得，一洗就变丑。",
+      "answer": "a",
+      "audioSource": "audio/267",
+      "options": {
+        "a": "泥人",
+        "b": "雕像",
+        "c": "照片",
+        "d": "石头"
+      },
+      "analysis": "泥人有脚但不能移动，有嘴却无法说话，且遇水后会被洗坏。"
+    },
+    {
+      "questionNumber": 494,
+      "questionText": "一匹马儿好，天生不会跑，你若骑上它，只会前后摇。",
+      "answer": "a",
+      "audioSource": "audio/303",
+      "options": {
+        "a": "木马",
+        "b": "跷跷板",
+        "c": "秋千",
+        "d": "自行车"
+      },
+      "analysis": "木马是一种不会移动的玩具，骑上去时只能前后摇晃。"
+    },
+    {
+      "questionNumber": 495,
+      "questionText": "治病不带药箱，全凭尖嘴一张。啄食条条虫子，大树变得健康。",
+      "answer": "c",
+      "audioSource": "audio/372",
+      "options": {
+        "a": "海龟",
+        "b": "蛇",
+        "c": "啄木鸟",
+        "d": "大象"
+      },
+      "analysis": "啄木鸟用尖嘴啄食树上的虫子，帮助大树保持健康，不需要药箱。"
+    },
+    {
+      "questionNumber": 496,
+      "questionText": "白天开门晚关门，转动黑球看风景。上下两排毛毛叶，挡住灰尘来入侵。",
+      "answer": "a",
+      "audioSource": "audio/479",
+      "options": {
+        "a": "眼睛",
+        "b": "大蒜",
+        "c": "杜鹃",
+        "d": "樱花"
+      },
+      "analysis": "眼睛白天睁开晚上闭上，眼球转动看风景，眼睫毛挡住灰尘。"
+    },
+    {
+      "questionNumber": 497,
+      "questionText": "红彤彤，热烘烘，横冲直撞要逞凶，无嘴能吃天下物，只怕雨水不怕风。",
+      "answer": "c",
+      "audioSource": "audio/254",
+      "options": {
+        "a": "雷电",
+        "b": "龙卷风",
+        "c": "火",
+        "d": "太阳"
+      },
+      "analysis": "火呈现红色并散发高温，能够迅速蔓延吞噬物体，但会被雨水浇灭而不受风的影响。"
+    },
+    {
+      "questionNumber": 498,
+      "questionText": "身体有圆也有方，皮肤有白也有黄。常到水里去劳动，喜欢干净消灭脏。",
+      "answer": "c",
+      "audioSource": "audio/493",
+      "options": {
+        "a": "锯子",
+        "b": "黄豆",
+        "c": "肥皂",
+        "d": "电风扇"
+      },
+      "analysis": "肥皂有圆形方形，颜色有白有黄，在水里工作，喜欢干净去污。"
+    },
+    {
+      "questionNumber": 499,
+      "questionText": "生在深山是圆家伙，死在凡间是扁家伙，放倒是个直家伙，发起威来是个弯家伙。",
+      "answer": "a",
+      "audioSource": "audio/351",
+      "options": {
+        "a": "扁担",
+        "b": "弓箭",
+        "c": "竹子",
+        "d": "木柴"
+      },
+      "analysis": "扁担在深山时是圆木，制成后变扁，平放时笔直，挑起时弯曲。"
+    },
+    {
+      "questionNumber": 500,
+      "questionText": "身小一寸长，出门兜里装。有它能进屋，没它门外挡。",
+      "answer": "a",
+      "audioSource": "audio/507",
+      "options": {
+        "a": "钥匙",
+        "b": "衣柜",
+        "c": "柠檬",
+        "d": "葡萄"
+      },
+      "analysis": "钥匙身小一寸长，出门装在兜里，有它能开门进屋，没它被挡在门外。"
+    },
+    {
+      "questionNumber": 501,
+      "questionText": "一座小山有两洞，洞里穿行全是风。堵住出风小洞口，闷得脸上全紫红。",
+      "answer": "d",
+      "audioSource": "audio/477",
+      "options": {
+        "a": "桃树",
+        "b": "梨树",
+        "c": "大蒜",
+        "d": "鼻子"
+      },
+      "analysis": "鼻子像小山有两个洞，空气在洞里穿行，堵住鼻孔会闷得脸紫红。"
+    },
+    {
+      "questionNumber": 502,
+      "questionText": "海中巨无霸，喷水如喷泉，歌声传千里，身披蓝灰衫。",
+      "options": {
+        "a": "轮船",
+        "b": "鲸鱼",
+        "c": "冰山",
+        "d": "海豚"
+      },
+      "answer": "b",
+      "analysis": "鲸鱼是海洋中的大型生物，能喷出水柱，发出悠长的声音，并拥有蓝灰色的皮肤。",
+      "audioSource": "audio/32"
+    },
+    {
+      "questionNumber": 503,
+      "questionText": "不是点心不是糖，软软凉凉肚里藏，不能吃来不能喝，每天却要尝一尝。",
+      "options": {
+        "a": "牙刷",
+        "b": "牙膏",
+        "c": "肥皂",
+        "d": "薄荷"
+      },
+      "answer": "b",
+      "analysis": "牙膏是长条状的白色物体，形状柔软，口感很清凉。每天早晚刷牙时，都会使用。",
+      "audioSource": "audio/121"
+    },
+    {
+      "questionNumber": 504,
+      "questionText": "平时在睡大觉，冬天出来效劳。让脖子藏猫猫，要寒风找不到。",
+      "answer": "d",
+      "audioSource": "audio/513",
+      "options": {
+        "a": "红豆",
+        "b": "烤箱",
+        "c": "梨",
+        "d": "围巾"
+      },
+      "analysis": "围巾平时不用，冬天戴在脖子上，让寒风找不到脖子。"
+    },
+    {
+      "questionNumber": 505,
+      "questionText": "为我打你，为你打我，打破你的皮，流出我的血。",
+      "options": {
+        "a": "蜜蜂",
+        "b": "蚊子",
+        "c": "蜈蚣",
+        "d": "蝎子"
+      },
+      "answer": "b",
+      "analysis": "蚊子叮咬人时，会刺破人的皮肤，人则会拍打蚊子，蚊子死后体内流出的是之前吸食的人血。",
+      "audioSource": "audio/161"
+    },
+    {
+      "questionNumber": 506,
+      "questionText": "红灯笼，挂满枝，中秋佳节摘来吃，掰开里面藏玛瑙，一口一个甜滋滋。",
+      "answer": "d",
+      "options": {
+        "a": "葡萄",
+        "b": "柿子",
+        "c": "苹果",
+        "d": "石榴"
+      },
+      "audioSource": "audio/543",
+      "analysis": "“红灯笼”形容外观，“里面藏玛瑙”写籽粒晶莹——对应石榴，亦是中秋时令。"
+    },
+    {
+      "questionNumber": 507,
+      "questionText": "朵朵花开放金光，个个仰脸向太阳。秋天一到心欢喜，捧出瓜子大家尝。",
+      "answer": "b",
+      "audioSource": "audio/429",
+      "options": {
+        "a": "油菜",
+        "b": "向日葵",
+        "c": "芹菜",
+        "d": "李树"
+      },
+      "analysis": "向日葵开金色花朵，花朵朝向太阳，秋天结出瓜子供大家品尝。"
+    },
+    {
+      "questionNumber": 508,
+      "questionText": "红颊绿衣藏，夏日枝头笑，甜香诱人近，核中藏秘密。",
+      "options": {
+        "a": "苹果",
+        "b": "樱桃",
+        "c": "葡萄",
+        "d": "桃子"
+      },
+      "answer": "d",
+      "analysis": "桃子外表红润、果皮青绿，成熟于夏季，味道香甜，果实中心有一个坚硬的果核。",
+      "audioSource": "audio/90"
+    },
+    {
+      "questionNumber": 509,
+      "questionText": "黑白分明键如梯，指尖轻触声如溪，静立厅堂伴乐起，无声胜似万言诗。",
+      "options": {
+        "a": "打字机",
+        "b": "书架",
+        "c": "钢琴",
+        "d": "斑马"
+      },
+      "answer": "c",
+      "analysis": "钢琴的黑白琴键排列整齐如梯子，弹奏时指尖触碰发出流水般的声音，静静放置在厅堂中却能奏出美妙的音乐，无需言语便能表达丰富情感。",
+      "audioSource": "audio/155"
+    },
+    {
+      "questionNumber": 510,
+      "questionText": "细腰随风舞，长发垂水边，春来绿丝绦，秋去叶飘零。",
+      "options": {
+        "a": "柳树",
+        "b": "瀑布",
+        "c": "芦苇",
+        "d": "松树"
+      },
+      "answer": "a",
+      "analysis": "柳树的枝条纤细柔软随风摆动，常生长在水边，春天长出嫩绿的新叶，秋天叶子凋落。",
+      "audioSource": "audio/69"
+    },
+    {
+      "questionNumber": 511,
+      "questionText": "能看不能吃，能翻不能撕，你要喜欢它，就会长知识。",
+      "answer": "a",
+      "audioSource": "audio/322",
+      "options": {
+        "a": "书",
+        "b": "地图",
+        "c": "镜子",
+        "d": "电视"
+      },
+      "analysis": "书可以阅读但不能食用，能够翻页却无法撕毁，喜爱阅读它能增长知识。"
+    },
+    {
+      "questionNumber": 512,
+      "questionText": "没有爹，没有娘，独自一人去站岗。不吃不喝不说话，鸟儿见了快躲藏。",
+      "answer": "c",
+      "audioSource": "audio/528",
+      "options": {
+        "a": "尺子",
+        "b": "柚子",
+        "c": "稻草人",
+        "d": "量角器"
+      },
+      "analysis": "稻草人没有爹娘，独自站在田里站岗，不吃不喝不说话，鸟儿害怕躲藏。"
+    },
+    {
+      "questionNumber": 513,
+      "questionText": "此物一燃放，夜空变模样，五彩又绚丽，中秋添欢畅。",
+      "answer": "c",
+      "options": {
+        "a": "舞龙",
+        "b": "赏花灯",
+        "c": "放烟花",
+        "d": "猜灯谜"
+      },
+      "audioSource": "audio/545",
+      "analysis": "能“燃放”并使“夜空五彩绚丽”的是烟花；与节庆热闹气氛相符。"
+    },
+    {
+      "questionNumber": 514,
+      "questionText": "兄弟俩一般高，吃饭时候少不了，一个动来一个静，配合默契真奇妙。",
+      "options": {
+        "a": "勺子",
+        "b": "筷子",
+        "c": "叉子",
+        "d": "吸管"
+      },
+      "answer": "b",
+      "analysis": "筷子通常成对使用，高度相同，用餐时必不可少，使用时一根固定另一根移动，相互配合完成夹取动作。",
+      "audioSource": "audio/135"
+    },
+    {
+      "questionNumber": 515,
+      "questionText": "状如蘑菇一珍宝，当年白蛇将它盗，其实是味好草药，滋补健身价值高。",
+      "answer": "c",
+      "audioSource": "audio/280",
+      "options": {
+        "a": "人参",
+        "b": "当归",
+        "c": "灵芝",
+        "d": "蘑菇"
+      },
+      "analysis": "灵芝形似蘑菇，是珍贵的中草药，传说白蛇曾盗取它，具有滋补健身的功效。"
+    },
+    {
+      "questionNumber": 516,
+      "questionText": "骨架撑开一片天，遮阳挡雨两相宜，收放自如随身带，风雨无阻伴你行。",
+      "options": {
+        "a": "帽子",
+        "b": "风筝",
+        "c": "帐篷",
+        "d": "雨伞"
+      },
+      "answer": "d",
+      "analysis": "雨伞的骨架撑开能遮阳挡雨，可以收放携带，随时应对风雨天气。",
+      "audioSource": "audio/132"
+    },
+    {
+      "questionNumber": 517,
+      "questionText": "夜行小精灵，身披黑铠甲，遇光速逃遁，厨房常作客。",
+      "options": {
+        "a": "乌鸦",
+        "b": "蝙蝠",
+        "c": "蟑螂",
+        "d": "老鼠"
+      },
+      "answer": "c",
+      "analysis": "蟑螂常在夜间活动，外壳呈深色，见光会迅速躲藏，且经常出没于厨房。",
+      "audioSource": "audio/56"
+    },
+    {
+      "questionNumber": 518,
+      "questionText": "小家伙真神奇，墙上行走如平地。碰到强敌有妙计，自断尾巴忙逃离。",
+      "answer": "b",
+      "audioSource": "audio/394",
+      "options": {
+        "a": "喜鹊",
+        "b": "壁虎",
+        "c": "狮子",
+        "d": "海狮"
+      },
+      "analysis": "壁虎能在墙上行走，遇到危险时会自断尾巴逃跑。"
+    },
+    {
+      "questionNumber": 519,
+      "questionText": "绿袍袍，穿起来，长腰带，系起来。热水里，洗个澡，香喷喷，跑出来。",
+      "answer": "a",
+      "audioSource": "audio/474",
+      "options": {
+        "a": "粽子",
+        "b": "茉莉",
+        "c": "月季",
+        "d": "萝卜"
+      },
+      "analysis": "粽子穿绿袍，有长腰带，在热水里煮，香喷喷地出来。"
+    },
+    {
+      "questionNumber": 520,
+      "questionText": "像鸡不是鸡，尾巴拖到地，张开像花伞，别提有多美。",
+      "options": {
+        "a": "彩虹",
+        "b": "孔雀",
+        "c": "风筝",
+        "d": "公鸡"
+      },
+      "answer": "b",
+      "analysis": "孔雀外形与鸡相似但更华丽，长尾垂地，开屏时如绽放的花伞般美丽。",
+      "audioSource": "audio/15"
+    },
+    {
+      "questionNumber": 521,
+      "questionText": "身上爱穿条纹衣，是马家族的兄弟。草原上沙漠地，一起生活好欢喜。",
+      "answer": "c",
+      "audioSource": "audio/413",
+      "options": {
+        "a": "野鸭",
+        "b": "壁虎",
+        "c": "斑马",
+        "d": "蛇"
+      },
+      "analysis": "斑马身上有黑白条纹，是马家族的成员，在草原和沙漠中生活。"
+    },
+    {
+      "questionNumber": 522,
+      "questionText": "身披灰褐衣，长颈步如飞，沙地是家园，蛋大如石堆。",
+      "options": {
+        "a": "长颈鹿",
+        "b": "骆驼",
+        "c": "企鹅",
+        "d": "鸵鸟"
+      },
+      "answer": "d",
+      "analysis": "鸵鸟有着灰褐色的羽毛、长长的脖子和快速的奔跑能力，生活在沙漠地区，产的蛋也特别大。",
+      "audioSource": "audio/59"
+    },
+    {
+      "questionNumber": 523,
+      "questionText": "左边一个孔，右边一个孔，事项还是丑，问他他就懂。",
+      "answer": "b",
+      "audioSource": "audio/294",
+      "options": {
+        "a": "纽扣",
+        "b": "鼻子",
+        "c": "门环",
+        "d": "耳朵"
+      },
+      "analysis": "鼻子两侧各有一个鼻孔，能辨别气味的好坏，也是呼吸的通道。"
+    },
+    {
+      "questionNumber": 524,
+      "questionText": "小货郎，不挑担，背着针，满街跑。",
+      "answer": "d",
+      "audioSource": "audio/205",
+      "options": {
+        "a": "仙人掌",
+        "b": "缝纫机",
+        "c": "蜜蜂",
+        "d": "刺猬"
+      },
+      "analysis": "刺猬背上长满尖刺，行走时像背着针的小贩一样四处活动。"
+    },
+    {
+      "questionNumber": 525,
+      "questionText": "身细长，头明亮，夜行伴身旁，黑暗无处藏。",
+      "options": {
+        "a": "手电筒",
+        "b": "蜡烛",
+        "c": "路灯",
+        "d": "萤火虫"
+      },
+      "answer": "a",
+      "analysis": "手电筒细长的身形前端能发出亮光，在夜晚提供照明驱散黑暗。",
+      "audioSource": "audio/145"
+    },
+    {
+      "questionNumber": 526,
+      "questionText": "地下藏身不露头，黄皮白肉味道辣，厨房常客调味好，驱寒暖胃它最行。",
+      "options": {
+        "a": "土豆",
+        "b": "生姜",
+        "c": "大蒜",
+        "d": "冰块"
+      },
+      "answer": "b",
+      "analysis": "生姜生长在地下，外皮黄色内里白色，具有辛辣味道，是厨房常用的调味品，还能帮助驱寒暖胃。",
+      "audioSource": "audio/101"
+    },
+    {
+      "questionNumber": 527,
+      "questionText": "一物不得了，地位比人高，放上挡风雨，拿下有礼貌。",
+      "options": {
+        "a": "帽子",
+        "b": "窗帘",
+        "c": "围巾",
+        "d": "手套"
+      },
+      "answer": "a",
+      "analysis": "帽子戴在头上可以遮风挡雨，摘下时又常被用来行礼示礼。",
+      "audioSource": "audio/11"
+    },
+    {
+      "questionNumber": 528,
+      "questionText": "头戴红缨帽，身穿绿战袍，说话音清脆，时时呱呱叫。",
+      "answer": "d",
+      "audioSource": "audio/194",
+      "options": {
+        "a": "公鸡",
+        "b": "青蛙",
+        "c": "知了",
+        "d": "鹦鹉"
+      },
+      "analysis": "鹦鹉头顶常有红色羽毛，身披绿色羽毛，能模仿人声发出清脆的叫声。"
+    },
+    {
+      "questionNumber": 529,
+      "questionText": "夜半歌声扰人梦，细腰长腿舞轻盈，嗜血成性难捉摸，夏日炎炎最猖狂。",
+      "options": {
+        "a": "蚊子",
+        "b": "萤火虫",
+        "c": "蜘蛛",
+        "d": "蝙蝠"
+      },
+      "answer": "a",
+      "analysis": "蚊子常在夜晚嗡嗡作响扰人睡眠，身形细长以吸血为生，尤其活跃于夏季。",
+      "audioSource": "audio/58"
+    },
+    {
+      "questionNumber": 530,
+      "questionText": "黑色圈圈波板糖，点燃它后身不痒。",
+      "answer": "a",
+      "audioSource": "audio/356",
+      "options": {
+        "a": "蚊香",
+        "b": "轮胎",
+        "c": "蜡烛",
+        "d": "棒棒糖"
+      },
+      "analysis": "蚊香呈黑色螺旋状，点燃后能驱蚊止痒。"
+    },
+    {
+      "questionNumber": 531,
+      "questionText": "有个大肚皮，脾气真古怪，张着大嘴街上站，专吃各种脏东西。",
+      "options": {
+        "a": "邮筒",
+        "b": "垃圾桶",
+        "c": "大象",
+        "d": "大肚皮"
+      },
+      "answer": "b",
+      "analysis": "垃圾桶通常有个大肚子，立在街上用来装各种废弃的脏东西。",
+      "audioSource": "audio/9"
+    },
+    {
+      "questionNumber": 532,
+      "questionText": "一只小鸡真灵巧，五彩羽毛身上飘，会翻跟斗会跳高，落在地上不会跑。",
+      "answer": "a",
+      "audioSource": "audio/279",
+      "options": {
+        "a": "毽子",
+        "b": "风筝",
+        "c": "蝴蝶",
+        "d": "气球"
+      },
+      "analysis": "毽子由彩色羽毛制成，踢玩时会上下翻飞弹跳，但本身无法自主移动。"
+    },
+    {
+      "questionNumber": 533,
+      "questionText": "橡皮娃娃好勇敢，不怕开水把肚烫。暖暖心意装里面，轻松度过寒冷天。",
+      "answer": "c",
+      "audioSource": "audio/519",
+      "options": {
+        "a": "黑莓",
+        "b": "锯子",
+        "c": "热水袋",
+        "d": "李子"
+      },
+      "analysis": "热水袋像橡皮娃娃，不怕开水烫，里面装热水，帮助度过寒冷天。"
+    },
+    {
+      "questionNumber": 534,
+      "questionText": "长长身子扁嘴巴，喜爱唱歌不说话。锅里炒菜不怕烫，油盐下锅它先尝。",
+      "answer": "a",
+      "audioSource": "audio/489",
+      "options": {
+        "a": "锅铲",
+        "b": "手机",
+        "c": "玉米",
+        "d": "小麦"
+      },
+      "analysis": "锅铲身子长嘴巴扁，炒菜时发出声音，不怕烫，先接触油盐。"
+    },
+    {
+      "questionNumber": 535,
+      "questionText": "圆筒白浆糊，每天挤一下，兄弟三十二，都说有好处。",
+      "answer": "c",
+      "audioSource": "audio/208",
+      "options": {
+        "a": "洗发水",
+        "b": "沐浴露",
+        "c": "牙膏",
+        "d": "洗面奶"
+      },
+      "analysis": "牙膏装在圆筒里呈白色膏状，每天刷牙时挤出使用，通常包装上标注含量为32次用量，对牙齿健康有益。"
+    },
+    {
+      "questionNumber": 536,
+      "questionText": "春来破土出，身披层层衣，尖尖似笔头，节节向天齐。",
+      "options": {
+        "a": "火箭",
+        "b": "竹笋",
+        "c": "玉米",
+        "d": "铅笔"
+      },
+      "answer": "b",
+      "analysis": "竹笋在春天破土而出，外皮层层包裹，形状尖如笔头，生长时节节向上。",
+      "audioSource": "audio/111"
+    },
+    {
+      "questionNumber": 537,
+      "questionText": "圆圆的身体皮儿薄，有红有绿颜色好，拴在线上随风舞，撒手高飞天上飘。",
+      "answer": "c",
+      "audioSource": "audio/232",
+      "options": {
+        "a": "风筝",
+        "b": "西瓜",
+        "c": "气球",
+        "d": "灯笼"
+      },
+      "analysis": "气球外形圆润、表皮轻薄，常呈现红绿等鲜艳色彩，拴线放飞时会随风飘舞升空。"
+    },
+    {
+      "questionNumber": 538,
+      "questionText": "一匹马儿两人骑，这边高来那边低，虽然马儿不会跑，两人骑着笑嘻嘻。",
+      "answer": "a",
+      "audioSource": "audio/278",
+      "options": {
+        "a": "跷跷板",
+        "b": "滑梯",
+        "c": "秋千",
+        "d": "自行车"
+      },
+      "analysis": "跷跷板像一匹马可以供两人上下玩耍，一边升高一边降低，带来欢乐却不移动。"
+    },
+    {
+      "questionNumber": 539,
+      "questionText": "一个小红孩，穿着小红袍，你过生日时，头顶小火苗。",
+      "answer": "d",
+      "audioSource": "audio/353",
+      "options": {
+        "a": "消防车",
+        "b": "草莓",
+        "c": "红灯笼",
+        "d": "蜡烛"
+      },
+      "analysis": "蜡烛外形像穿着红袍的小孩，生日时点燃火苗插在蛋糕上。"
+    },
+    {
+      "questionNumber": 540,
+      "questionText": "五个兄弟住一起，样子相似高矮不同。",
+      "options": {
+        "a": "铅笔",
+        "b": "音符",
+        "c": "手指",
+        "d": "楼梯"
+      },
+      "answer": "c",
+      "analysis": "五根手指就像兄弟一样紧密相连，虽然长短不一但形状相似。",
+      "audioSource": "audio/1"
+    },
+    {
+      "questionNumber": 541,
+      "questionText": "一只怪物模样凶，阴暗角落藏行踪。拉出丝线不织布，做成陷阱捕飞虫。",
+      "answer": "b",
+      "audioSource": "audio/389",
+      "options": {
+        "a": "蟑螂",
+        "b": "蜘蛛",
+        "c": "蚯蚓",
+        "d": "黄鹂"
+      },
+      "analysis": "蜘蛛样子看起来凶，躲在阴暗角落，吐丝织网捕捉飞虫。"
+    },
+    {
+      "questionNumber": 542,
+      "questionText": "横看南北，直看东西，无我关照，休想通行。",
+      "answer": "b",
+      "audioSource": "audio/300",
+      "options": {
+        "a": "交警",
+        "b": "红绿灯",
+        "c": "指南针",
+        "d": "斑马线"
+      },
+      "analysis": "红绿灯横向排列时控制南北方向，纵向排列时管理东西方向，没有它的指挥车辆无法顺利通行。"
+    },
+    {
+      "questionNumber": 543,
+      "questionText": "绿叶裹身藏，棱角分明样，端午时节见，香飘满厨房。",
+      "options": {
+        "a": "竹筒",
+        "b": "香囊",
+        "c": "粽子",
+        "d": "荷叶鸡"
+      },
+      "answer": "c",
+      "analysis": "粽子用绿叶包裹，外形棱角分明，是端午节的传统食品，煮熟后散发出香气。",
+      "audioSource": "audio/151"
+    },
+    {
+      "questionNumber": 544,
+      "questionText": "两只小口袋，天天随身带，要是少一只，就把人笑坏。",
+      "answer": "c",
+      "audioSource": "audio/345",
+      "options": {
+        "a": "纽扣",
+        "b": "鞋子",
+        "c": "袜子",
+        "d": "手套"
+      },
+      "analysis": "我们每天都需要穿袜子，而且袜子一双才完整，不可能只穿一只。"
+    },
+    {
+      "questionNumber": 545,
+      "questionText": "小小叶子盒中装，身穿绿袍有清香。来了客人它高兴，纷纷跳进热水缸。",
+      "answer": "b",
+      "audioSource": "audio/475",
+      "options": {
+        "a": "白菜",
+        "b": "茶叶",
+        "c": "梧桐",
+        "d": "韭菜"
+      },
+      "analysis": "茶叶像小叶子装在盒子里，穿绿袍有清香，客人来了会跳进热水里。"
+    },
+    {
+      "questionNumber": 546,
+      "questionText": "八足巧织网，静待猎物忙，夜半无声息，晨露挂丝光。",
+      "options": {
+        "a": "蒲公英",
+        "b": "蜘蛛",
+        "c": "螃蟹",
+        "d": "缝纫机"
+      },
+      "answer": "b",
+      "analysis": "蜘蛛有八条腿，擅长织网等待猎物，夜晚安静捕食，清晨网上挂着露珠。",
+      "audioSource": "audio/35"
+    },
+    {
+      "questionNumber": 547,
+      "questionText": "身披黑衣裳，嗡嗡四处忙，最爱脏乱处，人人见它慌。",
+      "options": {
+        "a": "乌鸦",
+        "b": "扫帚",
+        "c": "蜜蜂",
+        "d": "苍蝇"
+      },
+      "answer": "d",
+      "analysis": "苍蝇全身黑色，喜欢在脏乱的地方飞来飞去，让人感到厌烦。",
+      "audioSource": "audio/39"
+    },
+    {
+      "questionNumber": 548,
+      "questionText": "小飞机天上飞，捉拿害虫显神威。飞得高天气晴，飞得低有雨水。",
+      "answer": "a",
+      "audioSource": "audio/377",
+      "options": {
+        "a": "蜻蜓",
+        "b": "河马",
+        "c": "蚂蚁",
+        "d": "喜鹊"
+      },
+      "analysis": "蜻蜓像小飞机一样飞行，能捉害虫，飞得高表示天气好，飞得低表示要下雨。"
+    },
+    {
+      "questionNumber": 549,
+      "questionText": "圆乎乎，绿皮肤，里面红肉和黑骨。从来吃熟不吃生，吃了解渴又消暑。",
+      "answer": "b",
+      "audioSource": "audio/449",
+      "options": {
+        "a": "枫树",
+        "b": "西瓜",
+        "c": "菊花",
+        "d": "海棠"
+      },
+      "analysis": "西瓜圆乎乎绿色外皮，里面红肉黑籽，吃熟的解渴消暑。"
+    },
+    {
+      "questionNumber": 550,
+      "questionText": "小小东西妙无穷，茫茫大海逞英雄，红针遥指千里路，心心相印一线通。",
+      "answer": "a",
+      "audioSource": "audio/349",
+      "options": {
+        "a": "指南针",
+        "b": "望远镜",
+        "c": "灯塔",
+        "d": "信号旗"
+      },
+      "analysis": "指南针虽小却能在广阔海域中指引方向，红色指针始终指向远方，如同无形的纽带连接彼此。"
+    }
+  ]
+}
