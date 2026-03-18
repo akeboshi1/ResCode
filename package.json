@@ -4,7 +4,10 @@
   "main": "publish-remoteRes.js",
   "scripts": {
     "publish:dev": "node publish-remoteRes.js development",
-    "publish:prod": "node publish-remoteRes.js production"
+    "publish:prod": "node publish-remoteRes.js production",
+    "publish:out:dev": "node publish-remoteRes.js development out/res_remote",
+    "publish:out:prod": "node publish-remoteRes.js production out/res_remote",
+    "img:bin": "node tools/images-to-bin.js"
   },
   "keywords": [],
   "author": "",

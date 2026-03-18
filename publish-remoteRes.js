@@ -6,8 +6,12 @@ const { Client: SshClient } = require('ssh2');
 const archiver = require('archiver');
 
 const ROOT_DIR = __dirname;
-// 源目录：res_remote
-const REMOTE_RES_DIR = path.join(ROOT_DIR, 'res_remote');
+// 源目录：默认 res_remote；也可通过命令行第二个参数覆盖（例如 out/res_remote）
+// 用法：node publish-remoteRes.js <env> [sourceDir]
+const REMOTE_RES_DIR = path.resolve(
+  ROOT_DIR,
+  process.argv[3] || 'res_remote'
+);
 const SFTP_CONFIG_JSON = path.join(ROOT_DIR, 'sftp-config.json');
 // 用于记录上一次发布时各文件状态的清单（增量发布用）
 const MANIFEST_JSON = path.join(ROOT_DIR, '.res_remote_manifest.json');
@@ -232,13 +236,14 @@ function runRemoteUnzip(sshConfig, remoteRoot, remoteZipPath) {
 async function main() {
   try {
     if (!fs.existsSync(REMOTE_RES_DIR)) {
-      console.error(`res_remote 目录不存在: ${REMOTE_RES_DIR}`);
+      console.error(`资源源目录不存在: ${REMOTE_RES_DIR}`);
       process.exit(1);
     }
 
     const { sftp: sftpConfig, env } = await readPublishConfig();
 
     console.log(`当前环境: ${env}`);
+    console.log(`本次发布源目录: ${REMOTE_RES_DIR}`);
     console.log('模式: 增量发布（仅压缩并上传有变更的资源），再远程解压');
 
     // 1. 计算当前文件状态 & 与历史清单对比，得到有变更的文件列表
