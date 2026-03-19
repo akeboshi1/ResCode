@@ -51,7 +51,7 @@
 
 ### NPM 指令
 
-`package.json` 中已经配置了两个常用发布指令：
+`package.json` 中已配置以下指令：
 
 - **发布到 development 环境**
 
@@ -76,6 +76,47 @@
   ```bash
   node publish-remoteRes.js production
   ```
+
+#### 发布 out/res_remote（用于发布序列化/加密后的输出）
+
+当你把资源处理到 `out/res_remote/` 后（例如图片序列化成 `.bin`），可以直接发布该目录：
+
+- **发布 out/res_remote 到 development**
+
+  ```bash
+  npm run publish:out:dev
+  ```
+
+  等价于：
+
+  ```bash
+  node publish-remoteRes.js development out/res_remote
+  ```
+
+- **发布 out/res_remote 到 production**
+
+  ```bash
+  npm run publish:out:prod
+  ```
+
+  等价于：
+
+  ```bash
+  node publish-remoteRes.js production out/res_remote
+  ```
+
+#### 图片转 bin（加密序列化）
+
+脚本：`tools/images-to-bin.js`，npm 命令：`img:bin`。
+
+- **将 `res_remote/puzzle` 转为加密后的 `.bin` 并输出到 `out/`（保留层级）**
+
+  ```bash
+  npm run img:bin -- "res_remote/puzzle" "out"
+  ```
+
+  会生成形如：
+  - `out/res_remote/puzzle/a/b/c.png.bin`
 
 ### 首次使用步骤
 
@@ -108,6 +149,15 @@
    ```
 
    首次没有历史清单，会被视为全量发布，之后再执行就会仅上传有变更的文件。
+
+5. **（可选）先处理资源再发布**
+
+   例如先把 `res_remote/puzzle` 下图片转换为加密后的 `.bin` 到 `out/`，再发布 `out/res_remote`：
+
+   ```bash
+   npm run img:bin -- "res_remote/puzzle" "out"
+   npm run publish:out:dev
+   ```
 
 ### 注意事项
 
